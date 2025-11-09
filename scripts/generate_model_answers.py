@@ -20,7 +20,7 @@ def create_answers_csv(exam: str, test_number: str, outputs: list[str], model_na
     
     json_object = json.loads(json_text)
 
-    folder_path = "./results/model_answers/" + exam + "/" + model_name
+    folder_path = "./model_answers/" + exam + "/" + model_name
     if not os.path.exists(folder_path):
         os.makedirs(folder_path)
 
@@ -35,7 +35,7 @@ def main() -> None:
         "gemini-2.5-flash": GeminiWrapper(model_name="gemini-2.5-flash"),
         "gpt-5-nano": GPT5Wrapper(model_name='gpt-5-nano'),
         "deepseek-r1-distill-qwen-14B": HuggingFaceWrapper(model_name="deepseek-ai/DeepSeek-R1-Distill-Qwen-14B", provider="novita"),
-        "deepseek-r1-distill-llama-8B": HuggingFaceWrapper(model_name="deepseek-ai/DeepSeek-R1-Distill-Llama-8B", provider="nscale"),
+        "deepseek-r1-distill-llama-8B": HuggingFaceWrapper(model_name="deepseek-ai/DeepSeek-R1-Distill-Llama-8B", provider="nscale", max_tokens=8192),
         "gemma-3-27B-it": HuggingFaceWrapper(model_name="google/gemma-3-27b-it", provider="nebius"),
         "gpt-oss-20B": HuggingFaceWrapper(model_name="openai/gpt-oss-20b", provider="together", max_tokens=16384),
         "llama-3.1-8B-instruct": HuggingFaceWrapper(model_name="meta-llama/Llama-3.1-8B-Instruct", provider="cerebras"), 
