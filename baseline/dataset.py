@@ -1,6 +1,7 @@
 from pypdf import PageObject
 import re
 import csv
+import os
 
 def get_questions_answers(pages: list[PageObject], exam: str, test_number: str) -> dict[str, str]:
 
@@ -109,7 +110,11 @@ def answers_to_csv(exam: str, test_number: str, answers_list: dict[str, str]) ->
 
     fieldnames = ["number", "answer"]
 
-    file_path = "./data/dataset/" + exam + "/answers/test_" + test_number + "_answers.csv"
+    folder_path = "./data/dataset/" + exam + "/answers"
+    if not os.path.exists(folder_path):
+        os.makedirs(folder_path)
+
+    file_path = folder_path + "/test_" + test_number + "_answers.csv"
     with open(file_path, "w", newline='', encoding='utf-8') as f:
         w = csv.writer(f, quoting=csv.QUOTE_ALL)
         w.writerow(fieldnames)
@@ -120,7 +125,11 @@ def questions_to_csv(exam: str, test_number: str, questions_list: list[dict[str,
 
     fieldnames = list(questions_list[0].keys())
 
-    file_path = "./data/dataset/" + exam + "/questions/test_" + test_number + "_questions.csv"
+    folder_path = "./data/dataset/" + exam + "/questions"
+    if not os.path.exists(folder_path):
+        os.makedirs(folder_path)
+
+    file_path = folder_path + "/test_" + test_number + "_questions.csv"
     with open(file_path, "w", newline='', encoding='utf-8') as f:
         w = csv.DictWriter(f, fieldnames=fieldnames, quoting=csv.QUOTE_ALL)
         w.writeheader()
