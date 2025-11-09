@@ -1,6 +1,10 @@
+from baseline.config import EXAMS
 from typing import Any
 
-def generate_response_formats(total_number_questions: int, chunk_size: int) -> list[dict[str, Any]]:
+def generate_response_formats(exam: str) -> list[dict[str, Any]]:
+
+    total_number_questions = EXAMS[exam]["total_number_questions"]
+    chunk_size = EXAMS[exam]["chunk_size"]
 
     answers_schema = { "$ref": "#/$defs/Answers" }
     response_formats = []

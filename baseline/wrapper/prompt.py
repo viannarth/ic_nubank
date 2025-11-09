@@ -1,7 +1,11 @@
+from baseline.config import EXAMS
 import json
 import random
 
-def generate_prompts(exam: str, test_number: str, total_number_questions: int, chunk_size: int) -> list[str]:
+def generate_prompts(exam: str, test_number: str) -> list[str]:
+
+    total_number_questions = EXAMS[exam]["total_number_questions"]
+    chunk_size = EXAMS[exam]["chunk_size"]
 
     base_prompt_path = "./baseline/wrapper/base_prompt.txt"
     questions_path = "./data/dataset/" + exam + "/questions/test_" + test_number + "_questions.csv"

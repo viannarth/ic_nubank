@@ -45,6 +45,7 @@ class GeminiWrapper(LLMWrapper):
             "contents": contents,
             "config": config
         }
+
         return input_dict
     
     def generate_output(self, prompt: str, response_format: dict[str, Any]) -> str:
@@ -109,7 +110,7 @@ class GPT5Wrapper(LLMWrapper):
             raise err
 
 class HuggingFaceWrapper(LLMWrapper):
-    def __init__(self, model_name: str, provider: str, max_tokens: int = 4096, api_key: str = HF_TOKEN):
+    def __init__(self, model_name: str, provider: str, max_tokens: int, api_key: str = HF_TOKEN):
         super().__init__(model_name, api_key)
         self.client = InferenceClient(
             provider=provider,
@@ -138,6 +139,7 @@ class HuggingFaceWrapper(LLMWrapper):
             "max_tokens": self.max_tokens,
             "response_format": response_format
         }
+        
         return input_dict
 
     def generate_output(self, prompt: str, response_format: dict[str, Any]) -> str:

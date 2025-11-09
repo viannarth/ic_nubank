@@ -1,15 +1,18 @@
 from baseline.dataset import get_questions_answers, extract_questions, answers_to_csv, questions_to_csv
+from baseline.config import EXAMS
 from pypdf import PdfReader
 
 def main() -> None:
 
+    # Toggle the exam
     exam = "ancord-aai"
+    # exam = "cpa-10"
 
     pdf_path = "./data/raw/" + exam + "_questions.pdf"
     reader = PdfReader(pdf_path)
     pages = reader.pages
 
-    test_numbers = ["01", "02", "03", "04", "05", "06", "07", "08"]
+    test_numbers = EXAMS[exam]["test_numbers"]
 
     # test_pages_idx: dict[str, range] = get_test_pages_idx(pages, exam)
 
@@ -38,7 +41,6 @@ def main() -> None:
     }
     ##
 
-    # Main loop
     for test_number in test_numbers:
         test_questions = extract_questions(pages, test_pages_idx[test_number])
         questions_to_csv(exam, test_number, test_questions)

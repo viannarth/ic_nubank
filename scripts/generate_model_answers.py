@@ -1,6 +1,7 @@
 from baseline.wrapper.llm_wrapper import GeminiWrapper, GPT5Wrapper, HuggingFaceWrapper
 from baseline.wrapper.prompt import generate_prompts
 from baseline.wrapper.response_format import generate_response_formats
+from baseline.config import EXAMS, MODELS
 import json
 import os
 
@@ -30,38 +31,32 @@ def create_answers_csv(exam: str, test_number: str, outputs: list[str], model_na
 
 
 def main() -> None:
-    models = {
-        "gemini-2.5-flash-lite": GeminiWrapper(model_name="gemini-2.5-flash-lite"),
-        "gemini-2.5-flash": GeminiWrapper(model_name="gemini-2.5-flash"),
-        "gpt-5-nano": GPT5Wrapper(model_name='gpt-5-nano'),
-        "deepseek-r1-distill-qwen-14B": HuggingFaceWrapper(model_name="deepseek-ai/DeepSeek-R1-Distill-Qwen-14B", provider="novita"),
-        "deepseek-r1-distill-llama-8B": HuggingFaceWrapper(model_name="deepseek-ai/DeepSeek-R1-Distill-Llama-8B", provider="nscale", max_tokens=8192),
-        "gemma-3-27B-it": HuggingFaceWrapper(model_name="google/gemma-3-27b-it", provider="nebius"),
-        "gpt-oss-20B": HuggingFaceWrapper(model_name="openai/gpt-oss-20b", provider="together", max_tokens=16384),
-        "llama-3.1-8B-instruct": HuggingFaceWrapper(model_name="meta-llama/Llama-3.1-8B-Instruct", provider="cerebras"), 
-        "llama-3.3-70B-instruct": HuggingFaceWrapper(model_name="meta-llama/Llama-3.3-70B-Instruct", provider="cerebras"),
-        "qwen3-4B-instruct": HuggingFaceWrapper(model_name="Qwen/Qwen3-4B-Instruct-2507", provider="nscale")
-    }
 
+    models: dict[str, GeminiWrapper | GPT5Wrapper | HuggingFaceWrapper] = {}
+
+    for wrapper_name, wrapper_dict in MODELS.items():
+        if wrapper_name == 'gemini':
+            for model_name in wrapper_dict:
+                models[model_name] = GeminiWrapper(model_name=model_name)
+        elif wrapper_name == 'gpt-5':
+            for model_name in wrapper_dict:
+                models[model_name] = GPT5Wrapper(model_name=model_name)
+        elif wrapper_name == 'hugging_face':
+            for model_name, model in wrapper_dict.items():
+                provider = model['provider']
+                max_tokens = model['max_tokens']
+                models[model_name] = HuggingFaceWrapper(model_name=model_name, provider=provider, max_tokens=max_tokens)
+
+    # Toggle the exam
     exam = "ancord-aai"
-    test_numbers = [
-        "01", 
-        "02",
-        "03",
-        "04",
-        "05",
-        "06"
-    ]
-    total_number_questions = 80
-    
-    # The prompt and the response are split into chunks to avoid
-    # exceeding the maximum completion tokens.
-    chunk_size = 20 # Number of questions of each chunk
+    # exam = "cpa-10"
 
-    response_formats = generate_response_formats(total_number_questions, chunk_size)
+    test_numbers = EXAMS[exam]["test_numbers"]
+
+    response_formats = generate_response_formats(exam)
 
     for test_number in test_numbers:
-        prompts = generate_prompts(exam, test_number, total_number_questions, chunk_size)
+        prompts = generate_prompts(exam, test_number)
         for model_name, model in models.items():
             outputs: list[str] = []
             has_errors = False
