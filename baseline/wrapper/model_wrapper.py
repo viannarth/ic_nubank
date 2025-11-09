@@ -13,7 +13,7 @@ HF_TOKEN = os.getenv("HF_TOKEN")
 # Message content to the model as system/developer
 SYSTEM_ROLE = "You are an expert on Brazilian financial market and a sublime question answering assistant. You always respond in the correct proposed output format."
 
-class LLMWrapper(ABC):
+class ModelWrapper(ABC):
     def __init__(self, model_name: str, api_key: str):
         self.model_name = model_name
         self.api_key = api_key
@@ -26,7 +26,7 @@ class LLMWrapper(ABC):
     def generate_output(self, prompt: str, response_format: dict[str, Any]) -> str:
         pass
 
-class GeminiWrapper(LLMWrapper):
+class GeminiWrapper(ModelWrapper):
     def __init__(self, model_name: str, api_key: str = GEMINI_API_KEY):
         super().__init__(model_name, api_key)
         self.client = genai.Client(api_key=self.api_key)
@@ -64,7 +64,7 @@ class GeminiWrapper(LLMWrapper):
         except Exception as err:
             raise err
 
-class GPT5Wrapper(LLMWrapper):
+class GPT5Wrapper(ModelWrapper):
     def __init__(self, model_name: str, api_key: str = OPENAI_API_KEY):
         super().__init__(model_name, api_key)
         self.client = OpenAI(api_key=self.api_key)
@@ -109,7 +109,7 @@ class GPT5Wrapper(LLMWrapper):
         except Exception as err:
             raise err
 
-class HuggingFaceWrapper(LLMWrapper):
+class HuggingFaceWrapper(ModelWrapper):
     def __init__(self, model_name: str, provider: str, max_tokens: int, api_key: str = HF_TOKEN):
         super().__init__(model_name, api_key)
         self.client = InferenceClient(
