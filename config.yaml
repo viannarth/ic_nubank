@@ -2,13 +2,13 @@ exams:
   cpa-10: 
     test_numbers: [
       "01",
-      "02",
-      "03",
-      "04",
-      "05",
-      "06",
-      "07",
-      "08"
+      # "02",
+      # "03",
+      # "04",
+      # "05",
+      # "06",
+      # "07",
+      # "08"
     ]
     total_number_questions: 50
     chunk_size: 10
@@ -39,35 +39,42 @@ model_names:
 
 models:
 
-  gemini: 
-    - gemini-2.5-flash-lite
-    - gemini-2.5-flash
+  # gemini: 
+  #   - gemini-2.5-flash-lite
+  #   - gemini-2.5-flash
 
-  gpt-5: 
-    - gpt-5-nano
+  # gpt-5: 
+  #   - gpt-5-nano
   
   hugging_face:
     deepseek-r1-distill-qwen-14B: 
+      model_repo: deepseek-ai/DeepSeek-R1-Distill-Qwen-14B
       provider: novita
       max_tokens: 4096
-    deepseek-r1-distill-llama-8B:
-      provider: nscale
-      max_tokens: 8192
-    gemma-3-27B-it:
-      provider: nebius
-      max_tokens: 4096
-    gpt-oss-20B:
-      provider: together
-      max_tokens: 16384
-    llama-3.1-8B-instruct:
-      provider: cerebras
-      max_tokens: 4096
-    llama-3.3-70B-instruct:
-      provider: cerebras
-      max_tokens: 4096
-    qwen3-4B-instruct:
-      provider: nscale
-      max_tokens: 4096
+    # deepseek-r1-distill-llama-8B:
+    #   model_repo: deepseek-ai/DeepSeek-R1-Distill-Llama-8B
+    #   provider: nscale
+    #   max_tokens: 8192
+    # gemma-3-27B-it:
+    #   model_repo: google/gemma-3-27b-it
+    #   provider: nebius
+    #   max_tokens: 4096
+    # gpt-oss-20B:
+    #   model_repo: openai/gpt-oss-20b
+    #   provider: together
+    #   max_tokens: 16384
+    # llama-3.1-8B-instruct:
+    #   model_repo: meta-llama/Llama-3.1-8B-Instruct
+    #   provider: cerebras
+    #   max_tokens: 4096
+    # llama-3.3-70B-instruct:
+    #   model_repo: meta-llama/Llama-3.3-70B-Instruct
+    #   provider: cerebras
+    #   max_tokens: 4096
+    # qwen3-4B-instruct:  
+    #   model_repo: Qwen/Qwen3-4B-Instruct-2507
+    #   provider: nscale
+    #   max_tokens: 4096
 
 ignored_questions:
   cpa-10: 

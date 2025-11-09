@@ -43,9 +43,10 @@ def main() -> None:
                 models[model_name] = GPT5Wrapper(model_name=model_name)
         elif wrapper_name == 'hugging_face':
             for model_name, model in wrapper_dict.items():
+                model_repo = model['model_repo']
                 provider = model['provider']
                 max_tokens = model['max_tokens']
-                models[model_name] = HuggingFaceWrapper(model_name=model_name, provider=provider, max_tokens=max_tokens)
+                models[model_name] = HuggingFaceWrapper(model_name=model_repo, provider=provider, max_tokens=max_tokens)
 
     # Toggle the exam
     # exam = "ancord-aai"
