@@ -64,14 +64,22 @@ def main() -> None:
         prompts = generate_prompts(exam, test_number, total_number_questions, chunk_size)
         for model_name, model in models.items():
             outputs: list[str] = []
-            try:
-                for prompt, response_format in zip(prompts, response_formats):
+            has_errors = False
+            
+            for prompt, response_format in zip(prompts, response_formats):
+                try: 
                     output = model.generate_output(prompt, response_format)
                     outputs.append(output)
-                    
-                create_answers_csv(exam, test_number, outputs, model_name)
-            except Exception as err:
-                    print(f"The model {model_name} could not generate the answers for the test {test_number}. Error: {err}")
+                except Exception as err:
+                    has_errors = True
+                    print(f"The model {model} could not generate the answers for the test {test_number}. Error: {err}")
+
+            if not has_errors:
+                try: 
+                    create_answers_csv(exam, test_number, outputs, model_name)
+                except Exception as csv_err:
+                    print(f"The CSV answers for the model {model} and test {test_number} could not be wrote. Error: {csv_err}")
+
 
 if __name__ == '__main__':
     main()

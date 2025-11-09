@@ -24,7 +24,7 @@ class LLMWrapper(ABC):
         pass
     
     @abstractmethod
-    def generate_output(self, prompt: str, response_format: dict[str, Any]) -> str | Exception:
+    def generate_output(self, prompt: str, response_format: dict[str, Any]) -> str:
         pass
 
 class GeminiWrapper(LLMWrapper):
@@ -48,7 +48,7 @@ class GeminiWrapper(LLMWrapper):
         }
         return input_dict
     
-    def generate_output(self, prompt: str, response_format: dict[str, Any]) -> str | Exception:
+    def generate_output(self, prompt: str, response_format: dict[str, Any]) -> str:
 
         input_dict = self.preprocess_input(prompt, response_format)
 
@@ -62,7 +62,7 @@ class GeminiWrapper(LLMWrapper):
             return output
         
         except Exception as err:
-            return err
+            raise err
 
 class GPT5Wrapper(LLMWrapper):
     def __init__(self, model_name: str, api_key: str = OPENAI_API_KEY):
@@ -92,7 +92,7 @@ class GPT5Wrapper(LLMWrapper):
 
         return input_dict
 
-    def generate_output(self, prompt: str, response_format: dict[str, Any]) -> str | Exception:
+    def generate_output(self, prompt: str, response_format: dict[str, Any]) -> str:
 
         input_dict = self.preprocess_input(prompt, response_format)
 
@@ -107,7 +107,7 @@ class GPT5Wrapper(LLMWrapper):
             return output
         
         except Exception as err:
-            return err
+            raise err
 
 class HuggingFaceWrapper(LLMWrapper):
     def __init__(self, model_name: str, provider: str, max_tokens: int = 4096, api_key: str = HF_TOKEN):
@@ -141,7 +141,7 @@ class HuggingFaceWrapper(LLMWrapper):
         }
         return input_dict
 
-    def generate_output(self, prompt: str, response_format: dict[str, Any]) -> str | Exception:
+    def generate_output(self, prompt: str, response_format: dict[str, Any]) -> str:
 
         input_dict = self.preprocess_input(prompt, response_format)
 
@@ -157,4 +157,4 @@ class HuggingFaceWrapper(LLMWrapper):
             return output_text
         
         except Exception as err:
-            return err
+            raise err
