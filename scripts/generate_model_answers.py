@@ -1,4 +1,4 @@
-from baseline.wrapper.llm_wrapper import GeminiWrapper, GPT5Wrapper, HuggingFaceWrapper
+from baseline.wrapper.model_wrapper import GeminiWrapper, GPT5Wrapper, HuggingFaceWrapper
 from baseline.wrapper.prompt import generate_prompts
 from baseline.wrapper.response_format import generate_response_formats
 from baseline.config import EXAMS, MODELS
