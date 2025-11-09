@@ -1,7 +1,6 @@
 import os
 from abc import ABC, abstractmethod
 from google import genai
-from google.genai import types
 from openai import OpenAI
 from huggingface_hub import InferenceClient
 from typing import Any
@@ -33,14 +32,14 @@ class GeminiWrapper(LLMWrapper):
         self.client = genai.Client(api_key=self.api_key)
 
     def preprocess_input(self, prompt: str, response_format: dict[str, Any]) -> dict[str, Any]:
-        # TODO: explore the possibilities of instructions, contexts offering, 
-        # temperature, output formatting and other configurations in the API 
-        # request.
 
         contents = prompt
-        config = types.GenerateContentConfig(
-            temperature=0.0
-        )
+        config = {
+            "temperature": 0.0,
+            "system_instruction": SYSTEM_ROLE,
+            "response_mime_type": "application/json", 
+            "response_json_schema": response_format["json_schema"]
+        }
 
         input_dict = {
             "contents": contents,
