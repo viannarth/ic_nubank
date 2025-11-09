@@ -48,8 +48,8 @@ def main() -> None:
                 models[model_name] = HuggingFaceWrapper(model_name=model_name, provider=provider, max_tokens=max_tokens)
 
     # Toggle the exam
-    exam = "ancord-aai"
-    # exam = "cpa-10"
+    # exam = "ancord-aai"
+    exam = "cpa-10"
 
     test_numbers = EXAMS[exam]["test_numbers"]
 
@@ -61,13 +61,15 @@ def main() -> None:
             outputs: list[str] = []
             has_errors = False
             
-            for prompt, response_format in zip(prompts, response_formats):
+            for idx, _iter in enumerate(zip(prompts, response_formats)):
                 try: 
+                    prompt = _iter[0]
+                    response_format = _iter[1]
                     output = model.generate_output(prompt, response_format)
                     outputs.append(output)
                 except Exception as err:
                     has_errors = True
-                    print(f"The model {model} could not generate the answers for the test {test_number}. Error: {err}")
+                    print(f"The model {model_name} could not generate the answers for the test {test_number} for the chunk {idx+1}. Error: {err}")
 
             if not has_errors:
                 try: 
