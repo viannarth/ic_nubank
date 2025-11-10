@@ -8,8 +8,8 @@ import json
 def main() -> None:
 
     # Toggle the exam
-    exam = "ancord-aai"
-    # exam = "cpa-10"
+    # exam = "ancord-aai"
+    exam = "cpa-10"
 
     test_numbers = EXAMS[exam]["test_numbers"]
 
@@ -29,8 +29,6 @@ def main() -> None:
     
     for model in MODEL_NAMES:
         model_performances['all'][model] /= sum(test_valid_questions)
-
-    print(json.dumps(model_performances, indent=3))
 
     # Export model_performances as a file
     folder_path = "./reports/" + exam
