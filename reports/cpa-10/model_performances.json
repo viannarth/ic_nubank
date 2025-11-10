@@ -1,0 +1,110 @@
+{
+    "01": {
+        "gemini-2.5-flash-lite": 0.5531914893617021,
+        "gemini-2.5-flash": 0.8085106382978723,
+        "gpt-5-nano": 0.723404255319149,
+        "deepseek-r1-distill-qwen-14B": 0.5531914893617021,
+        "deepseek-r1-distill-llama-8B": 0.3617021276595745,
+        "gemma-3-27B-it": 0.6170212765957447,
+        "gpt-oss-20B": 0.6170212765957447,
+        "llama-3.1-8B-instruct": 0.3829787234042553,
+        "llama-3.3-70B-instruct": 0.5531914893617021,
+        "qwen3-4B-instruct": 0.5319148936170213
+    },
+    "02": {
+        "gemini-2.5-flash-lite": 0.6808510638297872,
+        "gemini-2.5-flash": 0.9361702127659575,
+        "gpt-5-nano": 0.7872340425531915,
+        "deepseek-r1-distill-qwen-14B": 0.6170212765957447,
+        "deepseek-r1-distill-llama-8B": 0.3404255319148936,
+        "gemma-3-27B-it": 0.6170212765957447,
+        "gpt-oss-20B": 0.7659574468085106,
+        "llama-3.1-8B-instruct": 0.2553191489361702,
+        "llama-3.3-70B-instruct": 0.7021276595744681,
+        "qwen3-4B-instruct": 0.5531914893617021
+    },
+    "03": {
+        "gemini-2.5-flash-lite": 0.7,
+        "gemini-2.5-flash": 0.86,
+        "gpt-5-nano": 0.8,
+        "deepseek-r1-distill-qwen-14B": 0.58,
+        "deepseek-r1-distill-llama-8B": 0.34,
+        "gemma-3-27B-it": 0.66,
+        "gpt-oss-20B": 0.6,
+        "llama-3.1-8B-instruct": 0.34,
+        "llama-3.3-70B-instruct": 0.64,
+        "qwen3-4B-instruct": 0.6
+    },
+    "04": {
+        "gemini-2.5-flash-lite": 0.68,
+        "gemini-2.5-flash": 0.88,
+        "gpt-5-nano": 0.68,
+        "deepseek-r1-distill-qwen-14B": 0.48,
+        "deepseek-r1-distill-llama-8B": 0.4,
+        "gemma-3-27B-it": 0.54,
+        "gpt-oss-20B": 0.62,
+        "llama-3.1-8B-instruct": 0.42,
+        "llama-3.3-70B-instruct": 0.64,
+        "qwen3-4B-instruct": 0.58
+    },
+    "05": {
+        "gemini-2.5-flash-lite": 0.625,
+        "gemini-2.5-flash": 0.8541666666666666,
+        "gpt-5-nano": 0.5833333333333334,
+        "deepseek-r1-distill-qwen-14B": 0.4583333333333333,
+        "deepseek-r1-distill-llama-8B": 0.3541666666666667,
+        "gemma-3-27B-it": 0.6666666666666666,
+        "gpt-oss-20B": 0.6666666666666666,
+        "llama-3.1-8B-instruct": 0.4166666666666667,
+        "llama-3.3-70B-instruct": 0.5625,
+        "qwen3-4B-instruct": 0.4583333333333333
+    },
+    "06": {
+        "gemini-2.5-flash-lite": 0.6122448979591837,
+        "gemini-2.5-flash": 0.8775510204081632,
+        "gpt-5-nano": 0.673469387755102,
+        "deepseek-r1-distill-qwen-14B": 0.5714285714285714,
+        "deepseek-r1-distill-llama-8B": 0.3469387755102041,
+        "gemma-3-27B-it": 0.5510204081632653,
+        "gpt-oss-20B": 0.5306122448979592,
+        "llama-3.1-8B-instruct": 0.2857142857142857,
+        "llama-3.3-70B-instruct": 0.5714285714285714,
+        "qwen3-4B-instruct": 0.40816326530612246
+    },
+    "07": {
+        "gemini-2.5-flash-lite": 0.64,
+        "gemini-2.5-flash": 0.8,
+        "gpt-5-nano": 0.62,
+        "deepseek-r1-distill-qwen-14B": 0.58,
+        "deepseek-r1-distill-llama-8B": 0.32,
+        "gemma-3-27B-it": 0.56,
+        "gpt-oss-20B": 0.62,
+        "llama-3.1-8B-instruct": 0.5,
+        "llama-3.3-70B-instruct": 0.52,
+        "qwen3-4B-instruct": 0.56
+    },
+    "08": {
+        "gemini-2.5-flash-lite": 0.6875,
+        "gemini-2.5-flash": 0.8333333333333334,
+        "gpt-5-nano": 0.7083333333333334,
+        "deepseek-r1-distill-qwen-14B": 0.5416666666666666,
+        "deepseek-r1-distill-llama-8B": 0.3125,
+        "gemma-3-27B-it": 0.6041666666666666,
+        "gpt-oss-20B": 0.6458333333333334,
+        "llama-3.1-8B-instruct": 0.3958333333333333,
+        "llama-3.3-70B-instruct": 0.625,
+        "qwen3-4B-instruct": 0.6041666666666666
+    },
+    "all": {
+        "gemini-2.5-flash-lite": 0.6478149100257069,
+        "gemini-2.5-flash": 0.8560411311053985,
+        "gpt-5-nano": 0.6966580976863753,
+        "deepseek-r1-distill-qwen-14B": 0.5475578406169666,
+        "deepseek-r1-distill-llama-8B": 0.34704370179948585,
+        "gemma-3-27B-it": 0.6015424164524421,
+        "gpt-oss-20B": 0.6323907455012854,
+        "llama-3.1-8B-instruct": 0.37532133676092544,
+        "llama-3.3-70B-instruct": 0.6015424164524421,
+        "qwen3-4B-instruct": 0.5372750642673522
+    }
+}
