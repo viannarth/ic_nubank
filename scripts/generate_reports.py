@@ -8,12 +8,13 @@ import json
 def main() -> None:
 
     # Toggle the exam
-    # exam = "ancord-aai"
-    exam = "cpa-10"
+    exam = "ancord-aai"
+    # exam = "cpa-10"
 
     test_numbers = EXAMS[exam]["test_numbers"]
 
-    # Dictionary of the performance (in %) of each model
+    # Dictionary of the performance (number of correct answers per total number of
+    # valid questions) of each model
     model_dict = {f'{model}': 0.0 for model in MODEL_NAMES}
     model_performances = {f'{test_number}': copy(model_dict) for test_number in test_numbers}
     model_performances['all'] = copy(model_dict)
@@ -39,7 +40,7 @@ def main() -> None:
     with open(file_path, 'w', encoding='utf-8') as f:
         json.dump(model_performances, f, indent=4)
 
-    # TODO: insert the plotting function to generate the reports
+    plot_graphs(exam, model_performances)
 
 if __name__ == "__main__":
-    main()  
+    main()
