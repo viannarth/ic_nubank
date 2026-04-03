@@ -8,8 +8,8 @@ import json
 def main() -> None:
 
     # Toggle the exam
-    exam = "ancord-aai"
-    # exam = "cpa-10"
+    # exam = "ancord-aai"
+    exam = "cpa-10"
 
     test_numbers = EXAMS[exam]["test_numbers"]
 

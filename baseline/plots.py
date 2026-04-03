@@ -13,6 +13,8 @@ def plot_graphs(exam: str, model_perfomances: dict[str, dict[str, float]]) -> No
     x = np.arange(len(models))
     y = np.arange(0, 101, 20)
 
+    plt.style.use('seaborn-v0_8-darkgrid')
+
     for i, test in enumerate(tests):
         performances = [100*model_perfomances[test][model] for model in models]
 
@@ -32,7 +34,6 @@ def plot_graphs(exam: str, model_perfomances: dict[str, dict[str, float]]) -> No
         plt.grid(True, axis='y', alpha=0.7)
         
         plt.tight_layout()
-        plt.style.use('seaborn-v0_8-darkgrid')
 
         png_img_folder = "./reports/" + exam + "/figures/"
         if not os.path.exists(png_img_folder):
