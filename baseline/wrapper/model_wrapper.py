@@ -1,11 +1,13 @@
 import os
+from dotenv import load_dotenv
 from abc import ABC, abstractmethod
 from google import genai
 from openai import OpenAI
 from huggingface_hub import InferenceClient
 from typing import Any
 
-# Make sure to have the following environment variables in your computer.
+# Make sure to have the dotenv file in the root folder
+load_dotenv(dotenv_path="config.env")
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 HF_TOKEN = os.getenv("HF_TOKEN")
