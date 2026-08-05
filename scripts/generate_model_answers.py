@@ -1,6 +1,6 @@
 from baseline.wrapper.model_wrapper import GeminiWrapper, GPT5Wrapper, HuggingFaceWrapper
 from baseline.wrapper.prompt import generate_prompts
-from baseline.wrapper.response_format import generate_response_formats
+from baseline.wrapper.response_format import generate_json_schemas
 from baseline.config import EXAMS, MODELS
 import json
 import os
@@ -9,7 +9,7 @@ import os
 # for a test  
 MAX_REQUEST_TRIES = 5
 
-def create_answers_csv(exam: str, test_number: str, outputs: list[str], model_name: str) -> None:
+def create_answers_json(exam: str, test_number: str, outputs: list[str], model_name: str) -> None:
 
     # Handling the outputs strings to create a single JSON object
     json_text = ''
@@ -58,7 +58,7 @@ def main() -> None:
 
     test_numbers = EXAMS[exam]["test_numbers"]
 
-    response_formats = generate_response_formats(exam)
+    response_formats = generate_json_schemas(exam)
 
     for test_number in test_numbers:
         prompts = generate_prompts(exam, test_number)
@@ -92,7 +92,7 @@ def main() -> None:
                     continue
 
                 try: 
-                    create_answers_csv(exam, test_number, outputs, model_name)
+                    create_answers_json(exam, test_number, outputs, model_name)
                 except Exception as csv_err:
                     print(f"The CSV answers for the model {model_name} and test {test_number} could not be wrote. Error: {csv_err}")
 

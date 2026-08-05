@@ -1,13 +1,14 @@
 from baseline.config import EXAMS
-from typing import Any
+from typing import Type, Literal, Any
+from pydantic import BaseModel, ConfigDict, create_model
 
-def generate_response_formats(exam: str) -> list[dict[str, Any]]:
+def generate_json_schemas(exam: str) -> list[dict[str, Any]]:
 
     total_number_questions = EXAMS[exam]["total_number_questions"]
     chunk_size = EXAMS[exam]["chunk_size"]
 
     answers_schema = { "$ref": "#/$defs/Answers" }
-    response_formats = []
+    response_schemas = []
 
     for first_question_idx in range(0, total_number_questions, chunk_size):
         properties = {f"{(j + first_question_idx):02d}": answers_schema for j in range(1, chunk_size + 1)}
@@ -43,6 +44,30 @@ def generate_response_formats(exam: str) -> list[dict[str, Any]]:
             }
         }
 
-        response_formats.append(response_format)
+        response_schemas.append(response_format)
 
-    return response_formats
+    return response_schemas
+
+def generate_response_models(exam: str) -> list[Type[BaseModel]]:
+    total_number_questions = EXAMS[exam]["total_number_questions"]
+    chunk_size = EXAMS[exam]["chunk_size"]
+
+    response_models: list[Type[BaseModel]] = []
+
+    for first_question_idx in range(0, total_number_questions, chunk_size):
+        field_definitions = {}
+
+        for j in range(1, chunk_size + 1):
+            question_number = f"{(j + first_question_idx):02d}" 
+
+            field_definitions[question_number] = (Literal["a", "b", "c", "d"])
+
+        model = create_model(
+            "QuestionAnswers",
+            __config__=ConfigDict(extra="forbid"),
+            **field_definitions
+        )
+
+        response_models.append(model)
+
+    return response_models
