@@ -8,7 +8,7 @@ def main() -> None:
     exam = "ancord-aai"
     # exam = "cpa-10"
 
-    pdf_path = "./data/raw/" + exam + "_questions.pdf"
+    pdf_path = "./data/dataset/raw/" + exam + "_questions.pdf"
     reader = PdfReader(pdf_path)
     pages = reader.pages
 

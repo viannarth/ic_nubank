@@ -24,14 +24,11 @@ model_names:
   - qwen3-4B-instruct
 
 models:
-
   gemini: 
     - gemini-2.5-flash-lite
     - gemini-2.5-flash
-
   gpt-5: 
     - gpt-5-nano
-  
   hugging_face:
     deepseek-r1-distill-qwen-14B: 
       model_repo: deepseek-ai/DeepSeek-R1-Distill-Qwen-14B
@@ -81,3 +78,12 @@ ignored_questions:
     "05": ["78"]
     "06": ["78"]
   
+material_topics:
+  cpa-10:
+    1: "Sistema Financeiro Nacional e Participantes do Mercado"
+    2: "Compliance Legal, Ética e API"
+    3: "Princípios Básicos de Economia e Finanças"
+    4: "Instrumentos de Renda Fixa, Renda Variável e Derivativos"
+    5: "Fundos de Investimentos"
+    6: "Produtos de Previdência Complementar"
+    7: "Mensuração e Gestão de Performance"
