@@ -1,7 +1,8 @@
 import regex
 from dotenv import load_dotenv
 from baseline.config import MATERIAL_TOPICS
-from llama_index.core import Document, VectorStoreIndex
+from llama_index.core import Document, VectorStoreIndex, Settings
+from llama_index.embeddings.huggingface import HuggingFaceEmbedding
 from pathlib import Path
 import re
 
@@ -27,7 +28,7 @@ def clean_markdown(exam:str, chapter:int) -> str:
 
 def main() -> None:
 
-    # Retrieve OPENAI_API_KEY
+    # # Retrieve HF_TOKEN
     load_dotenv(dotenv_path="./config.env")
 
     # Toogle the exam
@@ -45,8 +46,12 @@ def main() -> None:
 
         documents.append(document)
 
+    embed_model = HuggingFaceEmbedding(model_name="BAAI/bge-m3")
+
+    Settings.embed_model = embed_model
+
     index = VectorStoreIndex.from_documents(documents, show_progress=True)
-    index.storage_context.persist(persist_dir="./index")
+    index.storage_context.persist(persist_dir="./index/"+exam)
 
 if __name__ == "__main__":
     main()
