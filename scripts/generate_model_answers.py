@@ -93,8 +93,8 @@ def main() -> None:
 
                 try: 
                     create_answers_json(exam, test_number, outputs, model_name)
-                except Exception as csv_err:
-                    print(f"The CSV answers for the model {model_name} and test {test_number} could not be wrote. Error: {csv_err}")
+                except Exception as json_err:
+                    print(f"The JSON answers for the model {model_name} and test {test_number} could not be wrote. Error: {json_err}")
 
 
 if __name__ == '__main__':

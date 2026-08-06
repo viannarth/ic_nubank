@@ -28,7 +28,7 @@ def clean_markdown(exam:str, chapter:int) -> str:
 
 def main() -> None:
 
-    # # Retrieve HF_TOKEN
+    # Retrieve HF_TOKEN
     load_dotenv(dotenv_path="./config.env")
 
     # Toogle the exam
