@@ -13,12 +13,15 @@ def clean_markdown(exam:str, chapter:int) -> str:
 
     # Remove author logo
     text = re.sub(r"(?i)Logo\s*(?:da\s*)?Rafael\s*Tor[o]?\s*Academia\s*de\s*Finanças(?:\s*logo)?", "", text)
-    text = re.sub(r"(?i)Logo\s*(?:da\s*)?Rafael\s*Tor[o]", "", text)
+    text = re.sub(r"(?i)Logo\s*(?:da\s*)?Rafael\s*Tor[o]?", "", text)
     text = re.sub(r"(?i)Rafael\s*Tor[o]?\s*Academia\s*de\s*Finanças(?:\s*logo)?", "", text)
 
     # Remove footer
-    footer_pattern = r"(?i)Apostila\s*2025\s*\d*\s*CPA.*10\s*.*\s*Certificação\s*Profissional\s*ANBIMA\s*Série\s*10\s*\d*"
-    text = re.sub(footer_pattern, "", text)
+    footer_pattern = {
+        "cpa-10": r"(?i)Apostila\s*2025\s*\d*\s*CPA.*10\s*.*\s*Certificação\s*Profissional\s*ANBIMA\s*Série\s*10\s*\d*",
+        "ancord-aai": r"(?i)A[nN][cC][oO][rR][dD].*Agente\s*Autônomo\s*de\s*Investimentos\d*"
+    }
+    text = re.sub(footer_pattern[exam], "", text)
     
     text = re.sub(r"\n\s*\d+\s*\n", "\n", text)
     text = re.sub(r"\n{3,}", "\n\n", text)
@@ -32,8 +35,8 @@ def main() -> None:
     load_dotenv(dotenv_path="./config.env")
 
     # Toogle the exam
-    exam = "cpa-10"
-    # exam = "ancord-aai"
+    # exam = "cpa-10"
+    exam = "ancord-aai"
 
     documents = []
 

@@ -8,7 +8,7 @@ exams:
   ancord-aai:
     test_numbers: ["01", "02", "03", "04", "05", "06"]
     total_number_questions: 80
-    chunk_size: 20
+    chunk_size: 10
     passing_threshold: 0.7
 
 model_names:
@@ -87,3 +87,19 @@ material_topics:
     5: "Fundos de Investimentos"
     6: "Produtos de Previdência Complementar"
     7: "Mensuração e Gestão de Performance"
+
+  ancord-aai:
+    1: "Sistema Financeiro Nacional"
+    2: "Instituições e Intermediadores Financeiros"
+    3: "Indicadores Econômicos"
+    4: "Políticas Monetária, Fiscal, Cambial e de Rendas"
+    5: "Matemática Financeira"
+    6: "Prevenção a Lavagem de Dinheiro"
+    7: "Análise do Perfil do Investidor"
+    8: "A Atividade do Assessor de Investimentos"
+    9: "Renda Fixa"
+    10: "Renda Variável"
+    11: "Fundos de Investimentos"
+    12: "Tributação de Produtos"
+    13: "Derivativos"
+    14: "Administração de Risco"

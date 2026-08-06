@@ -38,8 +38,8 @@ def main()->None:
     load_dotenv(dotenv_path="./config.env") 
 
     # Toogle the exam
-    exam = "cpa-10"
-    # exam = "ancord-aai"
+    # exam = "cpa-10"
+    exam = "ancord-aai"
 
     # Same model used to index the documents
     Settings.embed_model = HuggingFaceEmbedding(model_name="BAAI/bge-m3")
