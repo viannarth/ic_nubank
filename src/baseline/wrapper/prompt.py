@@ -1,4 +1,4 @@
-from baseline.config import EXAMS
+from src.baseline.config import EXAMS
 import json
 import random
 

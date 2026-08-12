@@ -1,4 +1,4 @@
-from baseline.config import MATERIAL_TOPICS
+from src.baseline.config import MATERIAL_TOPICS
 from llama_cloud import LlamaCloud, LlamaCloudError
 from dotenv import load_dotenv
 from pathlib import Path

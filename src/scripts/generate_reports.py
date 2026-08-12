@@ -1,6 +1,6 @@
-from baseline.model_evaluation import count_correct_answers
-from baseline.plots import plot_graphs
-from baseline.config import EXAMS, MODEL_NAMES, IGNORED_QUESTIONS
+from src.baseline.model_evaluation import count_correct_answers
+from src.baseline.plots import plot_graphs
+from src.baseline.config import EXAMS, MODEL_NAMES, IGNORED_QUESTIONS
 from copy import copy
 import os
 import json

@@ -1,4 +1,4 @@
-from baseline.config import IGNORED_QUESTIONS
+from src.baseline.config import IGNORED_QUESTIONS
 import csv
 import json
 

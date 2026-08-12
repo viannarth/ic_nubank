@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 import os
-from baseline.config import EXAMS
+from src.baseline.config import EXAMS
 
 def plot_graphs(exam: str, model_perfomances: dict[str, dict[str, float]]) -> None:
 

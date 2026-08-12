@@ -1,6 +1,6 @@
 import regex
 from dotenv import load_dotenv
-from baseline.config import MATERIAL_TOPICS
+from src.baseline.config import MATERIAL_TOPICS
 from llama_index.core import Document, VectorStoreIndex, Settings
 from llama_index.embeddings.huggingface import HuggingFaceEmbedding
 from pathlib import Path

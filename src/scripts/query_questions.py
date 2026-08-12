@@ -1,6 +1,6 @@
-from baseline.config import EXAMS
-from baseline.wrapper.response_format import generate_response_models
-from baseline.wrapper.prompt import generate_prompts
+from src.baseline.config import EXAMS
+from src.baseline.wrapper.response_format import generate_response_models
+from src.baseline.wrapper.prompt import generate_prompts
 import json
 import os
 from dotenv import load_dotenv

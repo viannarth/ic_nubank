@@ -1,4 +1,4 @@
-from baseline.config import EXAMS
+from src.baseline.config import EXAMS
 from typing import Type, Literal, Any
 from pydantic import BaseModel, ConfigDict, create_model
 

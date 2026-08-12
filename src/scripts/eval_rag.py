@@ -1,5 +1,5 @@
-from baseline.model_evaluation import count_correct_answers
-from baseline.config import EXAMS, IGNORED_QUESTIONS
+from src.baseline.model_evaluation import count_correct_answers
+from src.baseline.config import EXAMS, IGNORED_QUESTIONS
 import os
 import json
 

@@ -1,5 +1,5 @@
-from baseline.dataset import get_questions_answers, extract_questions, answers_to_csv, questions_to_csv
-from baseline.config import EXAMS
+from src.baseline.dataset import get_questions_answers, extract_questions, answers_to_csv, questions_to_csv
+from src.baseline.config import EXAMS
 from pypdf import PdfReader
 
 def main() -> None:
