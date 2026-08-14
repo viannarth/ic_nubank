@@ -1,3 +1,4 @@
+from src.utils.config import IGNORED_QUESTIONS
 from pypdf import PageObject
 import re
 import csv
@@ -30,14 +31,45 @@ def get_questions_answers(pages: list[PageObject], exam: str, test_number: str) 
 
     for match in matches:
         split = match.split()
+
         question_number = split[0].replace('.', '')
+        # Skip ignored questions
+        if question_number in IGNORED_QUESTIONS[exam][test_number]:
+            continue
+
         letter = split[1].lower()
         answers[question_number] = letter
     
     return answers
 
 
-def extract_questions(pages: list[PageObject], test_pages_idx: range) -> list[dict[str, str]]:
+def extract_questions(pages: list[PageObject], exam:str, test_number: str, test_pages_idx: range) -> list[dict[str, str]]:
+
+    # Post-processing the texts of each attribute
+    def post_process_string(attr: str) -> str:
+        new_attr = re.sub(r'\s+', ' ', attr).strip() # Remove the newlines and extra space characters
+        banned_chars = ["ª", "º", "/"]
+        # Remove special characters
+        for char in banned_chars:
+            new_attr = new_attr.replace(char, '')
+
+        ligatures = {
+            "ﬀ": "ff",
+            "ﬁ": "fi",
+            "ﬂ": "fl",
+            "ﬃ": "ffi",
+            "ﬄ": "ffl",
+            "ﬅ": "ft",
+            "ﬆ": "st",
+            "Ꜳ": "AA",
+            "Æ": "AE",
+            "ꜳ": "aa",
+        }
+        # Ligatures replacement
+        for search, replace in ligatures.items():
+            new_attr = new_attr.replace(search, replace)
+        
+        return new_attr
 
     questions: list[dict[str, str]] = []
 
@@ -56,33 +88,10 @@ def extract_questions(pages: list[PageObject], test_pages_idx: range) -> list[di
         matches = question_pattern.findall(text) # Returns a tuple of matches (questions)
         for match in matches:
 
-            # Post-processing the texts of each attribute
-            def post_process_string(attr: str) -> str:
-                new_attr = re.sub(r'\s+', ' ', attr).strip() # Remove the newlines and extra space characters
-                banned_chars = ["ª", "º", "/"]
-                # Remove special characters
-                for char in banned_chars:
-                    new_attr = new_attr.replace(char, '')
-
-                ligatures = {
-                    "ﬀ": "ff",
-                    "ﬁ": "fi",
-                    "ﬂ": "fl",
-                    "ﬃ": "ffi",
-                    "ﬄ": "ffl",
-                    "ﬅ": "ft",
-                    "ﬆ": "st",
-                    "Ꜳ": "AA",
-                    "Æ": "AE",
-                    "ꜳ": "aa",
-                }
-                # Ligatures replacement
-                for search, replace in ligatures.items():
-                    new_attr = new_attr.replace(search, replace)
-                
-                return new_attr
-
             question_number: str = match[0]
+            # Skip ignored questions
+            if question_number in IGNORED_QUESTIONS[exam][test_number]:
+                continue
 
             question = {
                 "number": question_number,

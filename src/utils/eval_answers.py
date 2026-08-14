@@ -1,31 +1,15 @@
 from utils.config import IGNORED_QUESTIONS
-import csv
 import json
 
-# TODO: handle only JSON files
 def get_answers(exam: str, test_number: str, filename: str) -> dict[str, str]:
 
     answers: dict[str, str] = {}
-    # Get answers from CSV file
-    if filename.endswith('.csv'):
-        with open(filename, 'r', newline='', encoding='utf-8') as f:
-            r = csv.reader(f)
-            next(r) # Skip header
-            for row in r:
-                question_number = row[0]
-                # Skip ignored questions
-                if question_number not in IGNORED_QUESTIONS[exam][test_number]:
-                    letter = row[1]
-                    answers[question_number] = letter
-
-    # Get answers from JSON file
-    elif filename.endswith('.json'): 
-        with open(filename, 'r', encoding='utf-8') as f:
-            all_answers = json.load(f)
-            for question_number, letter in all_answers.items():
-                # Skip ignored questions
-                if question_number not in IGNORED_QUESTIONS[exam][test_number]:
-                    answers[question_number] = letter
+    with open(filename, 'r', encoding='utf-8') as f:
+        all_answers = json.load(f)
+        for question_number, letter in all_answers.items():
+            # Skip ignored questions
+            if question_number not in IGNORED_QUESTIONS[exam][test_number]:
+                answers[question_number] = letter
 
     return answers
 
