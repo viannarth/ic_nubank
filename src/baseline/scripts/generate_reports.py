@@ -1,5 +1,5 @@
 from baseline.plot import plot_graphs
-from utils.evaluate_answers import count_correct_answers
+from utils.eval_answers import count_correct_answers
 from utils.config import EXAMS, MODEL_NAMES, IGNORED_QUESTIONS
 from copy import copy
 import os

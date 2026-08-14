@@ -1,5 +1,6 @@
 from pypdf import PageObject
 import re
+import json
 import csv
 import os
 
@@ -35,12 +36,6 @@ def get_questions_answers(pages: list[PageObject], exam: str, test_number: str) 
         answers[question_number] = letter
     
     return answers
-
-
-# TODO: implement to automatically get the index of the pages of each test
-def get_test_pages_idx(pages: list[PageObject], exam: str) -> dict[str, range]:
-
-    pass
 
 
 def extract_questions(pages: list[PageObject], test_pages_idx: range) -> list[dict[str, str]]:
@@ -105,20 +100,16 @@ def extract_questions(pages: list[PageObject], test_pages_idx: range) -> list[di
 
     return questions
 
-# TODO: remove this function
-def answers_to_csv(exam: str, test_number: str, answers_list: dict[str, str]) -> None:
 
-    fieldnames = ["number", "answer"]
+def answers_to_json(exam: str, test_number: str, answers_list: dict[str, str]) -> None:
 
     folder_path = "./src/data/dataset/" + exam + "/answers"
     if not os.path.exists(folder_path):
         os.makedirs(folder_path)
 
-    file_path = folder_path + "/test_" + test_number + "_answers.csv"
-    with open(file_path, "w", newline='', encoding='utf-8') as f:
-        w = csv.writer(f, quoting=csv.QUOTE_ALL)
-        w.writerow(fieldnames)
-        w.writerows(answers_list.items())
+    file_path = folder_path + "/test_" + test_number + "_answers.json"
+    with open(file_path, "w", encoding='utf-8') as f:
+        json.dump(answers_list, f, indent=3)
 
 
 def questions_to_csv(exam: str, test_number: str, questions_list: list[dict[str, str]]) -> None:

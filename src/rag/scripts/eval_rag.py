@@ -1,4 +1,4 @@
-from utils.evaluate_answers import count_correct_answers
+from utils.eval_answers import count_correct_answers
 from utils.config import EXAMS, IGNORED_QUESTIONS
 import os
 import json
