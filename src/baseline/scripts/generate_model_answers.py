@@ -2,38 +2,12 @@ from src.baseline.wrapper.model_wrapper import GeminiWrapper, GPT5Wrapper, Huggi
 from src.baseline.wrapper.prompt import generate_prompts
 from src.baseline.wrapper.response_format import generate_json_schemas
 from src.utils.config import EXAMS, MODELS
-import json
+from src.utils.files import create_answers_json
 import os
 
 # Maximum number of tries for a model to generate the answers
 # for a test  
 MAX_REQUEST_TRIES = 5
-
-# TODO: transfer this function to utils folder
-def create_answers_json(exam: str, test_number: str, outputs: list[str], model_name: str) -> None:
-
-    # Handling the outputs strings to create a single JSON object
-    json_text = ''
-    for i, output in enumerate(outputs):
-        json_start_idx = output.find(r'{')
-        json_end_idx = output.rfind(r'}')
-        if i == 0:
-            json_text = output[json_start_idx:json_end_idx] + ","
-        elif i == len(outputs) - 1:
-            json_text = json_text + output[(json_start_idx+1):(json_end_idx+1)]
-        else:
-            json_text = json_text + output[(json_start_idx+1):json_end_idx] + ","
-    
-    json_object = json.loads(json_text)
-
-    folder_path = "./src/baseline/model_answers/" + exam + "/" + model_name
-    if not os.path.exists(folder_path):
-        os.makedirs(folder_path)
-
-    file_path = folder_path + "/test_" + test_number + "_answers.json"
-    with open(file_path, 'w', encoding='utf-8') as f:
-        json.dump(json_object, f, indent=3)
-
 
 def main() -> None:
 
@@ -81,9 +55,11 @@ def main() -> None:
                         response_format = _iter[1]
                         output = model.generate_output(prompt, response_format)
                         outputs.append(output)
+
                     except Exception as err:
                         has_errors = True
                         print(f"The model {model_name} could not generate the answers for the test {test_number} for the chunk {idx+1}. Error: {err}")
+
                         # If a model could not generate the answers for one chunk of a test,
                         # all the answers for the further chunks will be useless.
                         break
@@ -93,7 +69,12 @@ def main() -> None:
                     continue
 
                 try: 
-                    create_answers_json(exam, test_number, outputs, model_name)
+                    folder_path = "./src/baseline/model_answers/" + exam + "/" + model_name
+                    if not os.path.exists(folder_path):
+                        os.makedirs(folder_path)
+                
+                    file_path = folder_path + "/test_" + test_number + "_answers.json"
+                    create_answers_json(outputs, file_path)
                 except Exception as json_err:
                     print(f"The JSON answers for the model {model_name} and test {test_number} could not be wrote. Error: {json_err}")
 

@@ -8,9 +8,9 @@ from pathlib import Path
 def main() -> None: 
 
     # Toogle the exam
-    # exam = "cpa-10"
     exam = "ancord-aai"
-
+    # exam = "cpa-10"
+    
     # Retrieve the LLAMA_CLOUD_API_KEY from dotenv file
     load_dotenv(dotenv_path="config.env")
 

@@ -1,5 +1,5 @@
 from src.utils.eval_answers import count_correct_answers
-from src.utils.config import EXAMS, IGNORED_QUESTIONS
+from src.utils.config import EXAMS
 from src.utils.files import json_from_dict
 import os
 

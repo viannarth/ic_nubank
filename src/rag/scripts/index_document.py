@@ -36,10 +36,10 @@ def main() -> None:
     load_dotenv(dotenv_path="./config.env")
 
     # Toogle the exam
-    # exam = "cpa-10"
     exam = "ancord-aai"
+    # exam = "cpa-10"
 
-    documents = []
+    documents:list[Document] = []
 
     for chapter, topic in MATERIAL_TOPICS[exam].items():
         document_text = clean_markdown(exam, chapter)
