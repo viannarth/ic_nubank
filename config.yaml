@@ -8,7 +8,7 @@ exams:
   ancord-aai:
     test_numbers: ["01", "02", "03", "04", "05", "06"]
     total_number_questions: 80
-    chunk_size: 10
+    chunk_size: 20
     passing_threshold: 0.7
 
 model_names:

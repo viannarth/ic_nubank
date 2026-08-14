@@ -1,4 +1,4 @@
-from utils.config import EXAMS
+from src.utils.config import EXAMS
 import matplotlib.pyplot as plt
 import numpy as np
 import os

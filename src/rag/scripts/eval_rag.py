@@ -1,9 +1,8 @@
-from utils.eval_answers import count_correct_answers
-from utils.config import EXAMS, IGNORED_QUESTIONS
+from src.utils.eval_answers import count_correct_answers
+from src.utils.config import EXAMS, IGNORED_QUESTIONS
+from src.utils.files import json_from_dict
 import os
-import json
 
-# TODO: transfer this function to utils folder
 def main() -> None:
 
     # Toggle the exam
@@ -29,15 +28,13 @@ def main() -> None:
 
     rag_performance['all'] /= sum(test_valid_questions)
 
-    # TODO: use function from utils
-    # Export model_performances as a file
+    # Export rag_performance as a file
     folder_path = "./src/rag/reports/" + exam
     if not os.path.exists(folder_path):
         os.makedirs(folder_path)
 
     file_path = folder_path + "/rag_performance.json"
-    with open(file_path, 'w', encoding='utf-8') as f:
-        json.dump(rag_performance, f, indent=4)
+    json_from_dict(file_path, rag_performance)
 
 if __name__ == "__main__":
     main()

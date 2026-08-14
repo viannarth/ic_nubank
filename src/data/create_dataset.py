@@ -1,6 +1,8 @@
-from src.data.dataset import get_questions_answers, extract_questions, answers_to_json, questions_to_csv
+from src.data.dataset import get_questions_answers, extract_questions, questions_to_csv
 from src.utils.config import EXAMS
+from src.utils.files import json_from_dict
 from pypdf import PdfReader
+import os
 
 def main() -> None:
 
@@ -40,8 +42,15 @@ def main() -> None:
     for test_number in test_numbers:
         test_questions = extract_questions(pages, test_pages_idx[test_number])
         questions_to_csv(exam, test_number, test_questions)
+
         answers_list = get_questions_answers(pages, exam, test_number)
-        answers_to_json(exam, test_number, answers_list)
+
+        folder_path = "./src/data/dataset/" + exam + "/answers"
+        if not os.path.exists(folder_path):
+            os.makedirs(folder_path)
+        file_path = folder_path + "/test_" + test_number + "_answers.json"
+
+        json_from_dict(file_path, answers_list)
 
 if __name__ == "__main__":
     main()

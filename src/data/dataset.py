@@ -1,6 +1,5 @@
 from pypdf import PageObject
 import re
-import json
 import csv
 import os
 
@@ -99,17 +98,6 @@ def extract_questions(pages: list[PageObject], test_pages_idx: range) -> list[di
             questions.append(question)
 
     return questions
-
-
-def answers_to_json(exam: str, test_number: str, answers_list: dict[str, str]) -> None:
-
-    folder_path = "./src/data/dataset/" + exam + "/answers"
-    if not os.path.exists(folder_path):
-        os.makedirs(folder_path)
-
-    file_path = folder_path + "/test_" + test_number + "_answers.json"
-    with open(file_path, "w", encoding='utf-8') as f:
-        json.dump(answers_list, f, indent=3)
 
 
 def questions_to_csv(exam: str, test_number: str, questions_list: list[dict[str, str]]) -> None:

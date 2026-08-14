@@ -1,9 +1,9 @@
-from baseline.plot import plot_graphs
-from utils.eval_answers import count_correct_answers
-from utils.config import EXAMS, MODEL_NAMES, IGNORED_QUESTIONS
+from src.baseline.plot import plot_graphs
+from src.utils.eval_answers import count_correct_answers
+from src.utils.config import EXAMS, MODEL_NAMES, IGNORED_QUESTIONS
+from src.utils.files import json_from_dict
 from copy import copy
 import os
-import json
 
 def main() -> None:
 
@@ -32,15 +32,13 @@ def main() -> None:
     for model in MODEL_NAMES:
         model_performances['all'][model] /= sum(test_valid_questions)
 
-    # TODO: use create json function from utils folder
     # Export model_performances as a file
     folder_path = "./src/baseline/reports/" + exam
     if not os.path.exists(folder_path):
         os.makedirs(folder_path)
 
     file_path = folder_path + "/model_performances.json"
-    with open(file_path, 'w', encoding='utf-8') as f:
-        json.dump(model_performances, f, indent=4)
+    json_from_dict(file_path, model_performances)
 
     # Generate plots from the dictionary
     plot_graphs(exam, model_performances)

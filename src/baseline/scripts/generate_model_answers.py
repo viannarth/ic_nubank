@@ -1,7 +1,7 @@
 from src.baseline.wrapper.model_wrapper import GeminiWrapper, GPT5Wrapper, HuggingFaceWrapper
 from src.baseline.wrapper.prompt import generate_prompts
 from src.baseline.wrapper.response_format import generate_json_schemas
-from utils.config import EXAMS, MODELS
+from src.utils.config import EXAMS, MODELS
 import json
 import os
 
