@@ -4,7 +4,7 @@ import random
 
 def generate_prompts(exam: str, test_number: str) -> list[str]:
 
-    total_number_questions = EXAMS[exam]["total_number_questions"]
+    questions_per_exam = EXAMS[exam]["questions_per_exam"]
     chunk_size = EXAMS[exam]["chunk_size"]
 
     base_prompt_path = "./src/baseline/wrapper/base_prompt.txt"
@@ -30,7 +30,7 @@ def generate_prompts(exam: str, test_number: str) -> list[str]:
     alternatives = ['a', 'b', 'c', 'd']
     questions_sentence = "[QUESTIONS_CSV_BEGIN]"
     chunks = []
-    for first_question_idx in range(0, total_number_questions, chunk_size):
+    for first_question_idx in range(0, questions_per_exam, chunk_size):
         start = first_question_idx + 1
         end = first_question_idx + chunk_size + 1
 

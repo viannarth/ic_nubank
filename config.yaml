@@ -1,14 +1,16 @@
 exams:
   cpa-10: 
     test_numbers: ["01", "02", "03", "04", "05", "06", "07", "08"]
-    total_number_questions: 50
-    chunk_size: 10
+    total_valid_questions: 389
+    questions_per_exam: 50
+    chunk_size: 5
     passing_threshold: 0.7
 
   ancord-aai:
     test_numbers: ["01", "02", "03", "04", "05", "06"]
-    total_number_questions: 80
-    chunk_size: 20
+    total_valid_questions: 472
+    questions_per_exam: 80
+    chunk_size: 8
     passing_threshold: 0.7
 
 model_names:

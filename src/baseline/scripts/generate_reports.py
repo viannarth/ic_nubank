@@ -1,6 +1,6 @@
 from src.baseline.plot import plot_graphs
 from src.utils.eval_answers import count_correct_answers
-from src.utils.config import EXAMS, MODEL_NAMES, IGNORED_QUESTIONS
+from src.utils.config import EXAMS, MODEL_NAMES
 from src.utils.files import json_from_dict
 from copy import copy
 import os
@@ -8,8 +8,8 @@ import os
 def main() -> None:
 
     # Toggle the exam
-    # exam = "ancord-aai"
-    exam = "cpa-10"
+    exam = "ancord-aai"
+    # exam = "cpa-10"
 
     test_numbers = EXAMS[exam]["test_numbers"]
 
@@ -19,18 +19,16 @@ def main() -> None:
     model_performances = {f'{test_number}': copy(model_dict) for test_number in test_numbers}
     model_performances['all'] = copy(model_dict)
 
-    # TODO: transfer this boilerplate to utils folder
-    # List of the number of not ignored questions for each test of the exam
-    test_valid_questions = [EXAMS[exam]["total_number_questions"] - len(ignored_test_questions) for ignored_test_questions in IGNORED_QUESTIONS[exam].values()]
-
-    for test_number, number_valid_questions in zip(test_numbers, test_valid_questions):
-        for model in MODEL_NAMES:
-            correct_answers = count_correct_answers(exam, test_number, model)
-            model_performances[test_number][model] = correct_answers / number_valid_questions
-            model_performances['all'][model] += correct_answers
-    
     for model in MODEL_NAMES:
-        model_performances['all'][model] /= sum(test_valid_questions)
+        for test_number in test_numbers:
+            model_answers_path = "./src/baseline/model_answers/" + exam + "/" + model + "/test_" + test_number + "_answers.json"
+            correct_answers, accuracy = count_correct_answers(exam, test_number, model_answers_path)
+            model_performances[test_number][model] = accuracy
+            model_performances['all'][model] += correct_answers
+
+    total_valid_questions = EXAMS[exam]["total_valid_questions"]
+    for model in MODEL_NAMES:
+        model_performances['all'][model] /= total_valid_questions
 
     # Export model_performances as a file
     folder_path = "./src/baseline/reports/" + exam

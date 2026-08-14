@@ -9,24 +9,19 @@ def main() -> None:
     exam = "ancord-aai"
     # exam = "cpa-10"
 
-    # TODO: remove this model logic
-    model = "rag"
-
     test_numbers = EXAMS[exam]["test_numbers"]
-
-    # TODO: transfer this boilerplate to utils folder
-    # List of the number of not ignored questions for each test of the exam
-    test_valid_questions = [EXAMS[exam]["total_number_questions"] - len(ignored_test_questions) for ignored_test_questions in IGNORED_QUESTIONS[exam].values()]
 
     rag_performance:dict[str, float] = {f"{test_number}": 0.0 for test_number in test_numbers}
     rag_performance["all"] = 0.0
 
-    for test_number, number_valid_questions in zip(test_numbers, test_valid_questions):
-        correct_answers = count_correct_answers(exam, test_number, model)
-        rag_performance[test_number] = correct_answers / number_valid_questions
+    for test_number in test_numbers:
+        model_answers_path = "./src/rag/answers/" + exam + "/test_" + test_number + "_answers.json"
+        correct_answers, accuracy = count_correct_answers(exam, test_number, model_answers_path)
+        rag_performance[test_number] = accuracy
         rag_performance["all"] += correct_answers
 
-    rag_performance['all'] /= sum(test_valid_questions)
+    total_valid_questions = EXAMS[exam]["total_valid_questions"]
+    rag_performance['all'] /= total_valid_questions
 
     # Export rag_performance as a file
     folder_path = "./src/rag/reports/" + exam

@@ -1,31 +1,24 @@
-from utils.config import IGNORED_QUESTIONS
 import json
 
-def get_answers(exam: str, test_number: str, filename: str) -> dict[str, str]:
+def get_answers(filename: str) -> dict[str, str]:
 
-    answers: dict[str, str] = {}
     with open(filename, 'r', encoding='utf-8') as f:
-        all_answers = json.load(f)
-        for question_number, letter in all_answers.items():
-            # Skip ignored questions
-            if question_number not in IGNORED_QUESTIONS[exam][test_number]:
-                answers[question_number] = letter
+        answers:dict[str, str] = json.load(f)
 
     return answers
 
-# TODO: adapt this function to RAG and baseline simultaneously
-# TODO: return percentual accuracy also
-def count_correct_answers(exam: str, test_number: str, model: str) -> int:
+def count_correct_answers(exam: str, test_number: str, model_answers_path: str) -> tuple[int, float]:
 
-    answers_path = "./data/dataset/" + exam + "/answers/test_" + test_number + "_answers.csv"
-    model_answers_path = "./src/baseline/model_answers/" + exam + "/" + model + "/test_" + test_number + "_answers.json"
+    answers_path = "./src/data/dataset/" + exam + "/answers/test_" + test_number + "_answers.json"
 
-    test_answers = get_answers(exam, test_number, answers_path)
-    model_answers = get_answers(exam, test_number, model_answers_path)
+    test_answers = get_answers(answers_path)
+    model_answers = get_answers(model_answers_path)
     
     correct_count: int = 0
     for question_number, letter in test_answers.items():
         if model_answers[question_number] == letter:
             correct_count += 1
 
-    return correct_count
+    accuracy: float = correct_count / len(test_answers)
+
+    return correct_count, accuracy
