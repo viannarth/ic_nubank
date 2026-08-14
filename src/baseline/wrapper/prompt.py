@@ -1,4 +1,4 @@
-from src.baseline.config import EXAMS
+from utils.config import EXAMS
 import json
 import random
 
@@ -7,8 +7,8 @@ def generate_prompts(exam: str, test_number: str) -> list[str]:
     total_number_questions = EXAMS[exam]["total_number_questions"]
     chunk_size = EXAMS[exam]["chunk_size"]
 
-    base_prompt_path = "./baseline/wrapper/base_prompt.txt"
-    questions_path = "./data/dataset/" + exam + "/questions/test_" + test_number + "_questions.csv"
+    base_prompt_path = "./src/baseline/wrapper/base_prompt.txt"
+    questions_path = "./src/data/dataset/" + exam + "/questions/test_" + test_number + "_questions.csv"
 
     with open(base_prompt_path, 'r', encoding='utf-8') as f:
         base_prompt = f.read()
@@ -27,18 +27,18 @@ def generate_prompts(exam: str, test_number: str) -> list[str]:
     lines = questions.strip().splitlines()
     header = lines[0]
 
-    # alternatives = ['a', 'b', 'c', 'd']
+    alternatives = ['a', 'b', 'c', 'd']
     questions_sentence = "[QUESTIONS_CSV_BEGIN]"
     chunks = []
     for first_question_idx in range(0, total_number_questions, chunk_size):
         start = first_question_idx + 1
         end = first_question_idx + chunk_size + 1
 
-        # dict_example = {f"{(j + first_question_idx):02d}": random.choice(alternatives) for j in range(1, chunk_size + 1)}
-        # json_example = json.dumps(dict_example) + '\n'
+        dict_example = {f"{(j + first_question_idx):02d}": random.choice(alternatives) for j in range(1, chunk_size + 1)}
+        json_example = json.dumps(dict_example) + '\n'
 
         chunk = lines[start:end]
-        chunk = [questions_sentence, header] + chunk
+        chunk = [json_example, questions_sentence, header] + chunk
         chunk = "\n".join(chunk) # Transforms the list of lines to a string
 
         chunks.append(chunk)

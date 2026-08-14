@@ -1,17 +1,21 @@
-from src.baseline.model_evaluation import count_correct_answers
-from src.baseline.config import EXAMS, IGNORED_QUESTIONS
+from utils.evaluate_answers import count_correct_answers
+from utils.config import EXAMS, IGNORED_QUESTIONS
 import os
 import json
 
-def main()->None:
+# TODO: transfer this function to utils folder
+def main() -> None:
 
     # Toggle the exam
     exam = "ancord-aai"
     # exam = "cpa-10"
+
+    # TODO: remove this model logic
     model = "rag"
 
     test_numbers = EXAMS[exam]["test_numbers"]
 
+    # TODO: transfer this boilerplate to utils folder
     # List of the number of not ignored questions for each test of the exam
     test_valid_questions = [EXAMS[exam]["total_number_questions"] - len(ignored_test_questions) for ignored_test_questions in IGNORED_QUESTIONS[exam].values()]
 
@@ -25,8 +29,9 @@ def main()->None:
 
     rag_performance['all'] /= sum(test_valid_questions)
 
+    # TODO: use function from utils
     # Export model_performances as a file
-    folder_path = "./reports/" + exam
+    folder_path = "./src/rag/reports/" + exam
     if not os.path.exists(folder_path):
         os.makedirs(folder_path)
 

@@ -1,7 +1,8 @@
-from src.baseline.config import EXAMS
+from utils.config import EXAMS
 from typing import Type, Literal, Any
 from pydantic import BaseModel, ConfigDict, create_model
 
+# TODO: separate baseline response format from RAG response format
 def generate_json_schemas(exam: str) -> list[dict[str, Any]]:
 
     total_number_questions = EXAMS[exam]["total_number_questions"]

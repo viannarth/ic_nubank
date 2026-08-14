@@ -1,7 +1,7 @@
+from utils.config import EXAMS
 import matplotlib.pyplot as plt
 import numpy as np
 import os
-from src.baseline.config import EXAMS
 
 def plot_graphs(exam: str, model_perfomances: dict[str, dict[str, float]]) -> None:
 
@@ -35,11 +35,13 @@ def plot_graphs(exam: str, model_perfomances: dict[str, dict[str, float]]) -> No
         
         plt.tight_layout()
 
-        png_img_folder = "./reports/" + exam + "/figures/"
+        png_img_folder = "./src/baseline/reports/" + exam + "/figures/"
         if not os.path.exists(png_img_folder):
             os.makedirs(png_img_folder)
+
         eps_img_folder = png_img_folder + "eps_images/"
         if not os.path.exists(eps_img_folder):
             os.makedirs(eps_img_folder)
+            
         plt.savefig(png_img_folder + f"test_{test}.png", format='png')
         plt.savefig(eps_img_folder + f"test_{test}.eps", format='eps')

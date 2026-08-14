@@ -1,9 +1,11 @@
-from src.baseline.config import MATERIAL_TOPICS
+from utils.config import MATERIAL_TOPICS
 from llama_cloud import LlamaCloud, LlamaCloudError
 from dotenv import load_dotenv
 from pathlib import Path
 
-def main() -> None:
+# TODO: handle text cleaning and save cleaned output instead of "raw" from 
+# LlamaParse
+def main() -> None: 
 
     # Toogle the exam
     # exam = "cpa-10"
@@ -15,9 +17,9 @@ def main() -> None:
     try:
         client = LlamaCloud()
     except LlamaCloudError as err:
-        print(err) 
+        print(err)
 
-    folder_path = "./data/material/" + exam + "/"
+    folder_path = "./src/rag/material/" + exam + "/"
     for chapter in MATERIAL_TOPICS[exam]:
         chapter_path = folder_path + "raw/cap" + str(chapter) + ".pdf"
         file = client.files.create(file=chapter_path, purpose="parse")

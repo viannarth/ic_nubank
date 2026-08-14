@@ -1,14 +1,15 @@
 import regex
 from dotenv import load_dotenv
-from src.baseline.config import MATERIAL_TOPICS
+from utils.config import MATERIAL_TOPICS
 from llama_index.core import Document, VectorStoreIndex, Settings
 from llama_index.embeddings.huggingface import HuggingFaceEmbedding
 from pathlib import Path
 import re
 
+# TODO: handle text cleaning in parse_material.py
 def clean_markdown(exam:str, chapter:int) -> str:
 
-    md_path = "./data/material/" + exam + "/cap" + str(chapter) + ".md"
+    md_path = "./src/rag/material/" + exam + "/cap" + str(chapter) + ".md"
     text = Path(md_path).read_text(encoding="utf-8")
 
     # Remove author logo
@@ -54,7 +55,7 @@ def main() -> None:
     Settings.embed_model = embed_model
 
     index = VectorStoreIndex.from_documents(documents, show_progress=True)
-    index.storage_context.persist(persist_dir="./index/"+exam)
+    index.storage_context.persist(persist_dir = "./index/" + exam)
 
 if __name__ == "__main__":
     main()

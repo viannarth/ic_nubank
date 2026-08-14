@@ -105,12 +105,12 @@ def extract_questions(pages: list[PageObject], test_pages_idx: range) -> list[di
 
     return questions
 
-
+# TODO: remove this function
 def answers_to_csv(exam: str, test_number: str, answers_list: dict[str, str]) -> None:
 
     fieldnames = ["number", "answer"]
 
-    folder_path = "./data/dataset/" + exam + "/answers"
+    folder_path = "./src/data/dataset/" + exam + "/answers"
     if not os.path.exists(folder_path):
         os.makedirs(folder_path)
 
@@ -125,7 +125,7 @@ def questions_to_csv(exam: str, test_number: str, questions_list: list[dict[str,
 
     fieldnames = list(questions_list[0].keys())
 
-    folder_path = "./data/dataset/" + exam + "/questions"
+    folder_path = "./src/data/dataset/" + exam + "/questions"
     if not os.path.exists(folder_path):
         os.makedirs(folder_path)
 

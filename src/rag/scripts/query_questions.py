@@ -1,4 +1,4 @@
-from src.baseline.config import EXAMS
+from utils.config import EXAMS
 from src.baseline.wrapper.response_format import generate_response_models
 from src.baseline.wrapper.prompt import generate_prompts
 import json
@@ -8,6 +8,7 @@ from llama_index.core import StorageContext, load_index_from_storage, Settings
 from llama_index.llms.ollama import Ollama
 from llama_index.embeddings.huggingface import HuggingFaceEmbedding
 
+# TODO: transfer this function to utils folder
 def create_answers_json(exam: str, test_number: str, responses: list[str]) -> None:
 
     # Handling the responses strings to create a single JSON object
@@ -24,7 +25,7 @@ def create_answers_json(exam: str, test_number: str, responses: list[str]) -> No
     
     json_object = json.loads(json_text)
 
-    folder_path = "./model_answers/" + exam + "/rag"
+    folder_path = "./src/rag/answers/" + exam
     if not os.path.exists(folder_path):
         os.makedirs(folder_path)
 
@@ -32,10 +33,10 @@ def create_answers_json(exam: str, test_number: str, responses: list[str]) -> No
     with open(file_path, 'w', encoding='utf-8') as f:
         json.dump(json_object, f, indent=3)
 
-def main()->None:
+def main() -> None:
 
     # Retrieve HF_TOKEN
-    load_dotenv(dotenv_path="./config.env") 
+    load_dotenv(dotenv_path="./config.env")
 
     # Toogle the exam
     # exam = "cpa-10"
@@ -81,7 +82,7 @@ def main()->None:
         if has_errors:
             continue
 
-        try: 
+        try:
             create_answers_json(exam, test_number, responses)
         except Exception as json_err:
             print(f"The JSON answers for test {test_number} could not be wrote. Error: {json_err}")

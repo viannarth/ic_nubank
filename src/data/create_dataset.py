@@ -1,5 +1,5 @@
-from src.baseline.dataset import get_questions_answers, extract_questions, answers_to_csv, questions_to_csv
-from src.baseline.config import EXAMS
+from data.dataset import get_questions_answers, extract_questions, answers_to_csv, questions_to_csv
+from utils.config import EXAMS
 from pypdf import PdfReader
 
 def main() -> None:
@@ -8,7 +8,7 @@ def main() -> None:
     exam = "ancord-aai"
     # exam = "cpa-10"
 
-    pdf_path = "./data/dataset/raw/" + exam + "_questions.pdf"
+    pdf_path = "./src/baseline/dataset/raw/" + exam + "_questions.pdf"
     reader = PdfReader(pdf_path)
     pages = reader.pages
 
@@ -45,6 +45,7 @@ def main() -> None:
         test_questions = extract_questions(pages, test_pages_idx[test_number])
         questions_to_csv(exam, test_number, test_questions)
         answers_list = get_questions_answers(pages, exam, test_number)
+        # TODO: convert answers dictionary to JSON by using function from utils
         answers_to_csv(exam, test_number, answers_list)
 
 if __name__ == "__main__":

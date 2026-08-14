@@ -1,7 +1,7 @@
 from src.baseline.wrapper.model_wrapper import GeminiWrapper, GPT5Wrapper, HuggingFaceWrapper
 from src.baseline.wrapper.prompt import generate_prompts
 from src.baseline.wrapper.response_format import generate_json_schemas
-from src.baseline.config import EXAMS, MODELS
+from utils.config import EXAMS, MODELS
 import json
 import os
 
@@ -9,6 +9,7 @@ import os
 # for a test  
 MAX_REQUEST_TRIES = 5
 
+# TODO: transfer this function to utils folder
 def create_answers_json(exam: str, test_number: str, outputs: list[str], model_name: str) -> None:
 
     # Handling the outputs strings to create a single JSON object
@@ -25,7 +26,7 @@ def create_answers_json(exam: str, test_number: str, outputs: list[str], model_n
     
     json_object = json.loads(json_text)
 
-    folder_path = "./model_answers/" + exam + "/" + model_name
+    folder_path = "./src/baseline/model_answers/" + exam + "/" + model_name
     if not os.path.exists(folder_path):
         os.makedirs(folder_path)
 
@@ -63,7 +64,7 @@ def main() -> None:
     for test_number in test_numbers:
         prompts = generate_prompts(exam, test_number)
         for model_name, model in models.items():
-            file_path = "./model_answers/" + exam + "/" + model_name + "/" + "test_" + test_number + "_answers.json"
+            file_path = "./src/baseline/model_answers/" + exam + "/" + model_name + "/" + "test_" + test_number + "_answers.json"
             num_tries = 0
             # Loop while the model answers file is not created and the number
             # of tries does not reach the maximum

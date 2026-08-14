@@ -1,7 +1,8 @@
-from src.baseline.config import IGNORED_QUESTIONS
+from utils.config import IGNORED_QUESTIONS
 import csv
 import json
 
+# TODO: handle only JSON files
 def get_answers(exam: str, test_number: str, filename: str) -> dict[str, str]:
 
     answers: dict[str, str] = {}
@@ -28,11 +29,12 @@ def get_answers(exam: str, test_number: str, filename: str) -> dict[str, str]:
 
     return answers
 
-
+# TODO: adapt this function to RAG and baseline simultaneously
+# TODO: return percentual accuracy also
 def count_correct_answers(exam: str, test_number: str, model: str) -> int:
 
     answers_path = "./data/dataset/" + exam + "/answers/test_" + test_number + "_answers.csv"
-    model_answers_path = "./model_answers/" + exam + "/" + model + "/test_" + test_number + "_answers.json"
+    model_answers_path = "./src/baseline/model_answers/" + exam + "/" + model + "/test_" + test_number + "_answers.json"
 
     test_answers = get_answers(exam, test_number, answers_path)
     model_answers = get_answers(exam, test_number, model_answers_path)
