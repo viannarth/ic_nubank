@@ -1,7 +1,7 @@
 from src.utils.config import EXAMS
-from src.baseline.wrapper.response_format import generate_response_models
-from src.baseline.wrapper.prompt import generate_prompts
 from src.utils.files import create_answers_json
+from src.baseline.wrapper.prompt import generate_prompts
+from src.rag.response_format import generate_response_models
 import os
 from dotenv import load_dotenv
 from llama_index.core import StorageContext, load_index_from_storage, Settings
