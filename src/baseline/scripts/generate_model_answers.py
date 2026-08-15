@@ -33,10 +33,10 @@ def main() -> None:
 
     test_numbers = EXAMS[exam]["test_numbers"]
 
-    response_formats = generate_json_schemas(exam)
-
     for test_number in test_numbers:
         prompts = generate_prompts(exam, test_number)
+        response_formats = generate_json_schemas(exam, test_number)
+
         for model_name, model in models.items():
             file_path = "./src/baseline/model_answers/" + exam + "/" + model_name + "/" + "test_" + test_number + "_answers.json"
             num_tries = 0

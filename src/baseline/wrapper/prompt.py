@@ -1,4 +1,4 @@
-from src.utils.config import EXAMS
+from src.utils.config import EXAMS, IGNORED_QUESTIONS
 import json
 import random
 
@@ -34,7 +34,7 @@ def generate_prompts(exam: str, test_number: str) -> list[str]:
         start = first_question_idx + 1
         end = first_question_idx + chunk_size + 1
 
-        dict_example = {f"{(j + first_question_idx):02d}": random.choice(alternatives) for j in range(1, chunk_size + 1)}
+        dict_example = {f"{(j + first_question_idx):02d}": random.choice(alternatives) for j in range(1, chunk_size + 1) if j not in IGNORED_QUESTIONS[exam][test_number]}
         json_example = json.dumps(dict_example) + '\n'
 
         chunk = lines[start:end]

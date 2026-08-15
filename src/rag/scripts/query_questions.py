@@ -27,13 +27,13 @@ def main() -> None:
     index = load_index_from_storage(storage_context)
 
     test_numbers = EXAMS[exam]["test_numbers"]
-    response_models = generate_response_models(exam)
-
+    
     for test_number in test_numbers:
         outputs:list[str] = []
         has_errors = False
 
         prompts = generate_prompts(exam, test_number)
+        response_models = generate_response_models(exam, test_number)
 
         for idx, _iter in enumerate(zip(prompts, response_models)):
             prompt = _iter[0]

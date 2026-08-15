@@ -1,10 +1,9 @@
-from src.utils.config import EXAMS
+from src.utils.config import EXAMS, IGNORED_QUESTIONS
 from typing import Type, Literal, Any
 from pydantic import BaseModel, ConfigDict, create_model
 
-# TODO: skip ignored questions
 # TODO: separate baseline response format from RAG response format
-def generate_json_schemas(exam: str) -> list[dict[str, Any]]:
+def generate_json_schemas(exam: str, test_number: str) -> list[dict[str, Any]]:
 
     questions_per_exam = EXAMS[exam]["questions_per_exam"]
     chunk_size = EXAMS[exam]["chunk_size"]
@@ -13,8 +12,8 @@ def generate_json_schemas(exam: str) -> list[dict[str, Any]]:
     response_schemas = []
 
     for first_question_idx in range(0, questions_per_exam, chunk_size):
-        properties = {f"{(j + first_question_idx):02d}": answers_schema for j in range(1, chunk_size + 1)}
-        required = [f"{(j + first_question_idx):02d}" for j in range (1, chunk_size + 1)]
+        properties = {f"{(j + first_question_idx):02d}": answers_schema for j in range(1, chunk_size + 1) if j not in IGNORED_QUESTIONS[exam][test_number]}
+        required = [f"{(j + first_question_idx):02d}" for j in range (1, chunk_size + 1) if j not in IGNORED_QUESTIONS[exam][test_number]]
 
         json_schema = {
             "$defs": {
@@ -50,7 +49,7 @@ def generate_json_schemas(exam: str) -> list[dict[str, Any]]:
 
     return response_schemas
 
-def generate_response_models(exam: str) -> list[Type[BaseModel]]:
+def generate_response_models(exam: str, test_number: str) -> list[Type[BaseModel]]:
     questions_per_exam = EXAMS[exam]["questions_per_exam"]
     chunk_size = EXAMS[exam]["chunk_size"]
 
@@ -60,6 +59,10 @@ def generate_response_models(exam: str) -> list[Type[BaseModel]]:
         field_definitions = {}
 
         for j in range(1, chunk_size + 1):
+            # Skip ignored questions
+            if j in IGNORED_QUESTIONS[exam][test_number]:
+                continue
+        
             question_number = f"{(j + first_question_idx):02d}" 
 
             field_definitions[question_number] = (Literal["a", "b", "c", "d"])
