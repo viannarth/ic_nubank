@@ -2,9 +2,30 @@ from utils.config import MATERIAL_TOPICS
 from llama_cloud import LlamaCloud, LlamaCloudError
 from dotenv import load_dotenv
 from pathlib import Path
+import re
 
-# TODO: handle text cleaning and save cleaned output instead of "raw" from 
-# LlamaParse
+def clean_markdown(text: str, exam:str) -> str:
+
+    # Remove author logo
+    text = re.sub(r"(?i)Logo\s*(?:da\s*)?Rafael\s*Tor[o]?\s*Academia\s*de\s*Finanças(?:\s*logo)?", "", text)
+    text = re.sub(r"(?i)Logo\s*(?:da\s*)?Rafael\s*Tor[o]?", "", text)
+    text = re.sub(r"(?i)Rafael\s*Tor[o]?\s*Academia\s*de\s*Finanças(?:\s*logo)?", "", text)
+
+    # Remove footer
+    footer_pattern = {
+        "cpa-10": r"(?i)Apostila\s*2025\s*\d*\s*CPA.*10\s*.*\s*Certificação\s*Profissional\s*ANBIMA\s*Série\s*10\s*\d*",
+        "ancord-aai": r"(?i)A[nN][cC][oO][rR][dD].*Agente\s*Autônomo\s*de\s*Investimentos\d*"
+    }
+    text = re.sub(footer_pattern[exam], "", text)
+    
+    # Remove blocks of blank lines and unwated characters
+    text = re.sub(r"\n\s*\d+\s*\n", "\n", text)
+    text = re.sub(r"\n{3,}", "\n\n", text)
+    text = re.sub(r"\u27A2", "", text)
+
+    return text.strip()
+
+
 def main() -> None: 
 
     # Toogle the exam
@@ -36,11 +57,19 @@ def main() -> None:
                 expand=["markdown_full"]
             )
 
-            md_path = folder_path + "cap" + str(chapter) + ".md"
-            Path(md_path).write_text(result.markdown_full, encoding='utf-8')
+        except Exception as response_err:
+            print(f"Could not parse the chapter {chapter}. Error: {response_err}")
+            continue
 
-        except Exception as err:
-            print(f"Could not parse the chapter {chapter}. Error: {err}")
+        try: 
+            md_text:str = result.markdown_full
+            clean_md_text = clean_markdown(md_text, exam)
+
+            md_path = folder_path + "cap" + str(chapter) + ".md"
+            Path(md_path).write_text(clean_md_text, encoding='utf-8')
+            
+        except Exception as write_err: 
+            print(f"Could not save the chapter {chapter}. Error: {write_err}")
             continue
 
 if __name__ == "__main__":
