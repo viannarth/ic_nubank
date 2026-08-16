@@ -1,6 +1,6 @@
 from src.utils.config import EXAMS
 from src.utils.files import create_answers_json
-from src.baseline.wrapper.prompt import generate_prompts
+from src.rag.prompt import generate_prompts
 from src.rag.response_format import generate_response_models
 import os
 from dotenv import load_dotenv
@@ -29,11 +29,14 @@ def main() -> None:
     test_numbers = EXAMS[exam]["test_numbers"]
     
     for test_number in test_numbers:
+
         outputs:list[str] = []
         has_errors = False
 
         prompts = generate_prompts(exam, test_number)
         response_models = generate_response_models(exam, test_number)
+
+        print(prompts[-1])
 
         for idx, _iter in enumerate(zip(prompts, response_models)):
             prompt = _iter[0]

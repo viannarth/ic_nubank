@@ -1,0 +1,4 @@
+You are taking a test for a Brazilian financial market certification exam to evaluate your knowledge of different topics in finance. 
+You will be given multiple-choice questions in CSV format from the {EXAM} certification exam. Read the question statement carefully and choose the correct alternative. Provide you answers as a JSON object that maps each question number to its correct answer letter. 
+
+### Questions ###
