@@ -31,7 +31,7 @@ def main() -> None:
     Settings.embed_model = embed_model
 
     index = VectorStoreIndex.from_documents(documents, show_progress=True)
-    index.storage_context.persist(persist_dir = "./index/" + exam)
+    index.storage_context.persist(persist_dir = "./src/rag/index/" + exam)
 
 if __name__ == "__main__":
     main()

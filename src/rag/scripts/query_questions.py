@@ -14,8 +14,8 @@ def main() -> None:
     load_dotenv(dotenv_path="./config.env")
 
     # Toogle the exam
-    exam = "ancord-aai"
-    # exam = "cpa-10"
+    # exam = "ancord-aai"
+    exam = "cpa-10"
 
     # Same model used to index the documents
     Settings.embed_model = HuggingFaceEmbedding(model_name="BAAI/bge-m3")
@@ -23,7 +23,7 @@ def main() -> None:
     # Certify ollama model is running on port 11434
     llm = Ollama(model="llama3.1:latest", request_timeout=120.0)
 
-    storage_context = StorageContext.from_defaults(persist_dir="./index/"+exam)
+    storage_context = StorageContext.from_defaults(persist_dir="./src/rag/index/"+exam)
     index = load_index_from_storage(storage_context)
 
     test_numbers = EXAMS[exam]["test_numbers"]
@@ -35,8 +35,6 @@ def main() -> None:
 
         prompts = generate_prompts(exam, test_number)
         response_models = generate_response_models(exam, test_number)
-
-        print(prompts[-1])
 
         for idx, _iter in enumerate(zip(prompts, response_models)):
             prompt = _iter[0]
