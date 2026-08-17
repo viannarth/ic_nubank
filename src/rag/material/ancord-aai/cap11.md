@@ -17,13 +17,6 @@ O fundo de investimento é uma <u>comunhão de recursos, constituído sob a form
 * ⮚ Acesso a ativos de maior volume financeiro.
 
 Os <u>fundos funcionam sob a autorização da CVM</u>, órgão responsável por sua <u>REGULAÇÃO E FISCALIZAÇÃO</u>, buscando a proteção do investidor através da <u>Resolução CVM 175/23.</u> Além disso, eles são <u>autorregulados pela ANBIMA</u>, que <u>AUXILIA</u> no aperfeiçoamento da legislação de fundos de investimento, através de códigos próprios.
-
-Logo Rafael Tor Academia de Finanças
-
-3
-
-ANCORD – Assessor de Investimentos
-
 # Fundos de Investimentos (FI)
 
 ## Gráfico
@@ -37,17 +30,6 @@ ANCORD – Assessor de Investimentos
 <tr><td>Empresas, Renda Fixa, Imóveis</td></tr>
 <tr><td>Profissionais trabalhando para o fundo de investimentos</td></tr>
 </table>
-
-Logo Rafael Tor Academia de Finanças
-
-4
-
-ANCORD – Assessor de Investimentos
-
-181
-
----
-
 # Resolução CVM 175/23
 
 ## Conceito
@@ -57,48 +39,30 @@ A <u>Resolução CVM 175/23</u> dispõe sobre a constituição, o funcionamento 
 Diferentemente do que ocorria na legislação anterior (instruções CVM 555 e demais instruções específicas como ICVM 359 - Fundos em Índices de Mercado; ICVM 472 – Fundos Imobiliários; ICVM 489 – Fundos em Direitos Creditórios e ICVM 578 – Fundo de Investimentos em Participações), <u>as regras estabelecidas na parte geral da Resolução são aplicáveis a todas as categorias de fundos disciplinadas</u>, sem prejuízo das regras específicas dispostas nos Anexos Normativos, que são complementadas através de regras específicas aplicáveis a cada categoria de fundo.
 
 ❑ <u>OBSERVAÇÕES:</u> Em caso de conflito, prevalecerá a regra específica (ANEXO) sobre a regra geral. Além disso, caso o fundo tenha mais de uma classe de cotas, cada classe deve obter seu próprio registro de funcionamento, o qual pode ser requerido à CVM concomitantemente ou após a obtenção do registro do fundo.
-
-Logo Rafael Toro Academia de Finanças
-
-5
-
-ANCORD – Assessor de Investimentos
-
 # Mudanças Relevantes pela RCVM 175/23
 
 ## Principais Itens (I)
 
 As principais mudanças pela Resolução CVM175/23 são:
 
-* ➢ <u>Constituição de Classes e Subclasses</u>;
+*  <u>Constituição de Classes e Subclasses</u>;
 
-* ➢ <u>Taxas maistransparentes:</u> Taxa de Administração, Gestão e Distribuição;
+*  <u>Taxas maistransparentes:</u> Taxa de Administração, Gestão e Distribuição;
 
-* ➢ <u>Documentos:</u> Regulamento, Anexo e Apêndice; Termo de Adesão e Lâmina;
+*  <u>Documentos:</u> Regulamento, Anexo e Apêndice; Termo de Adesão e Lâmina;
 
-* ➢ <u>Prestadores de Serviços Essenciais:</u> Administrador e Gestor de Recursos;
+*  <u>Prestadores de Serviços Essenciais:</u> Administrador e Gestor de Recursos;
 
-* ➢ <u>Classe exclusiva:</u> constituída para receber aplicações exclusivamente de um único investidor profissional, de cotistas que possuam vínculo societário familiar ou de cotistas vinculados por interesse único e indissociável.
+*  <u>Classe exclusiva:</u> constituída para receber aplicações exclusivamente de um único investidor profissional, de cotistas que possuam vínculo societário familiar ou de cotistas vinculados por interesse único e indissociável.
 
-* ➢ <u>Responsabilidade Limitada:</u> Caso o regulamento limite a responsabilidade dos cotistas ao valor por eles subscrito, à denominação da classe deve ser acrescido o sufixo “Responsabilidade Limitada”;
-
-Logo Rafael Toro Academia de Finanças
-
-6
-
-ANCORD – Assessor de Investimentos
-
-182
-
----
-
+*  <u>Responsabilidade Limitada:</u> Caso o regulamento limite a responsabilidade dos cotistas ao valor por eles subscrito, à denominação da classe deve ser acrescido o sufixo “Responsabilidade Limitada”;
 # Mudanças Relevantes pela RCVM 175/23
 
 ## Anexos dos Fundos de Investimentos (II)
 
 As principais mudanças pela Resolução CVM175/23 são:
 
-➢ **Anexo I: Fundos de Investimentos Financeiros**
+ **Anexo I: Fundos de Investimentos Financeiros**
 
 * Sufixo Mercado de Acesso deixa de ser 2/3 e passa a ser 67%;
 
@@ -110,7 +74,7 @@ As principais mudanças pela Resolução CVM175/23 são:
 
 * Possibilidade investimentos em ativos financeiros no exterior de até 100%;
 
-➢ **Anexo II: Fundos de Investimentos em Direitos Creditórios**
+ **Anexo II: Fundos de Investimentos em Direitos Creditórios**
 
 * Permitida aplicação por investidores em geral
 
@@ -119,12 +83,6 @@ As principais mudanças pela Resolução CVM175/23 são:
 * Prazo para atingimento do percentual mínimo passou de 90 dias para 180 dias;
 
 * Patrimônio líquido mínimo passou de R$ 500.000,00 para R$ 1.000.000,00.
-
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-7
 
 # Fundos de Investimentos em Cotas (FIC)
 
@@ -143,16 +101,6 @@ FIA (B)
 
 FIA (C)
 
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-8
-
-183
-
----
-
 # Fundos de Investimentos
 
 ## Cancelamento pela CVM
@@ -168,13 +116,6 @@ No entanto, Superintendência competente pode dispensar a liquidação ou incorp
 * ⮚ ocorra comprovação de situação excepcional que impeça a liquidação de todos os ativos remanescentes na carteira relativa à classe em questão; e
 
 * ⮚ as cotas da classe não sejam mais ofertadas publicamente.
-
-Logo da Rafael Toro Academia de Finanças
-
-9
-
-ANCORD – Assessor de Investimentos
-
 # Fundos de Investimentos
 
 ## Classes de Cotas
@@ -190,17 +131,6 @@ O regulamento do fundo de investimento pode prever a existência de diferentes <
 * ⮚ O fundo que não contar com diferentes classes de cotas deve efetuar emissões de cotas em classe única, preservada a possibilidade de serem constituídas subclasses.
 
 * ⮚ É vedada a afetação ou a vinculação, a qualquer título, de parcela do patrimônio de uma classe de cotas a qualquer subclasse.
-
-Logo da Rafael Toro Academia de Finanças
-
-10
-
-ANCORD – Assessor de Investimentos
-
-184
-
----
-
 # Fundos de Investimentos
 
 ## <u>Classes Aberta e Fechada</u>
@@ -210,10 +140,6 @@ ANCORD – Assessor de Investimentos
 * ❑ <u>Classe Fechada:</u> classe cujo regulamento <mark>NÃO ADMITE QUE AS COTAS SEJAM RESGATADAS PELOS COTISTAS</mark>. No entanto, as cotas dessas classes <mark>podem ser alienadas (vendidas)</mark>, mediante termo de cessão e transferência, assinado pelo cedente e pelo cessionário, ou <mark>através de bolsa de valores</mark> ou mercado de balcão organizado.
 
 * ❑ <u>Carência:</u> os fundos com classe aberta podem estabelecer no regulamento um prazo de carência para resgate, com ou sem rendimento.
-
-RAFAEL TOR ACADEMIA DE FINANÇAS
-
-ANCORD – Assessor de Investimentos 11
 
 # Fundos de Investimentos
 
@@ -226,15 +152,6 @@ As classes abertas ou fechadas, também poderão ser de outros três tipos, que 
 * ⮚ <u>Classe Exclusiva:</u> Considera-se “Exclusiva” a classe ou subclasse de cotas constituída para <mark>receber aplicações exclusivamente de um único investidor profissional,</mark> de cotistas que possuam vínculo societário familiar ou de cotistas vinculados por interesse único e indissociável.
 
 * ⮚ <u>Classe Previdenciária:</u> Resumidamente, considera-se “Previdenciária” a classe ou subclasse constituída para a aplicação de recursos principalmente de entidades abertas ou fechadas de previdência privada. As classes de cotas de que trata o caput e, se for o caso, suas subclasses devem indicar em seu cadastro na CVM a condição de “Previdenciárias” e a categoria de plano ou seguro a que se encontram vinculadas.
-
-RAFAEL TOR ACADEMIA DE FINANÇAS
-
-ANCORD – Assessor de Investimentos 12
-
-185
-
-
----
 
 # Fundos de Investimentos
 
@@ -250,12 +167,6 @@ As subclasses em fundos de investimento permitem uma diferenciação dentro de u
 
 ❑ <u>OBSERVAÇÃO:</u> As subclasses de classes restritas podem ser diferenciadas no regulamento por outros direitos econômicos e direitos políticos.
 
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-13
-
 # Fundos de Investimentos
 
 ## <u>Nova Estruturação</u>
@@ -266,16 +177,6 @@ ANCORD – Assessor de Investimentos
 <tr><td>Classe A Classe B Classe C</td><td><ul><li><u>Anexo</u></li><li>Enquadramento</li><li>Patrimônio Segregado</li><li>Código de Identificação</li><li>Tributação</li><li>Informes de Posição</li><li>Taxa de Custódia</li></ul></td></tr>
 <tr><td>Subclasse X Subclasse Y Subclasse Z</td><td><ul><li><u>Apêndice</u></li><li>Prazos</li><li>Público Alvo</li><li>Informes de Posição</li><li>Código de Identificação</li><li>Taxas (Adm, Gestão, Distribuição e Performance)</li></ul></td></tr>
 </table>
-
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-14
-
-186
-
----
 
 # Cota
 
@@ -289,13 +190,6 @@ VALOR DA COTA = PATRIMÔNIO LÍQUIDO ÷ NÚMERO DE COTAS
 PL = Valor de Mercado dos Ativos + <mark>Valores a Receber</mark> − <mark>Valores a Pagar</mark>
 
 ❑ **OBS:** a divisão é pelo número de cotas e **NÃO PELO NÚMERO DE COTISTAS**
-
-Logo Rafael Toro
-
-15
-
-ANCORD – Assessor de Investimentos
-
 # Cota
 
 ## Fatores que afetam o valor da cota
@@ -319,17 +213,6 @@ Os principais <mark>fatores que afetam o valor da cota</mark> de um fundo de inv
 Perceba que todos os fatores citados acima, afetam o valor do patrimônio líquido da classe do fundo e, consequentemente, afeta o valor da cota.
 
 ❑ <mark>OBSERVAÇÃO:</mark> Taxas de entrada ou de saída **NÃO AFETAM O VALOR DA COTA.** Estas são taxas são pagas pelo cotista ao aplicar recursos ou resgatar recursos de um fundo, conforme previsto no regulamento.
-
-Logo Rafael Toro
-
-16
-
-ANCORD – Assessor de Investimentos
-
-187
-
----
-
 Cota
 
 ## Marcação a Mercado (MaM)
@@ -342,7 +225,7 @@ Deve haver marcação a mercado para todos os fundos de investimento, com exceç
 
 * ⮚ todos os cotistas ao ingressar assinarem um termo de adesão a anuência à classificação de títulos e valores mobiliários mencionado neste artigo.
 
-Logo Rafael Toro ANCORD – Assessor de Investimentos 17
+ 
 
 Cota
 
@@ -368,12 +251,7 @@ Cota
 
 * ⮚ <mark>VALOR DA COTA:</mark> (R$ 10.503.666,62) ÷ 100.000 = <mark>R$ 105,0367</mark>
 
-Logo Rafael Toro ANCORD – Assessor de Investimentos 18
-
-188
-
----
-
+ 
 # Cota
 
 ## Tipos
@@ -393,12 +271,6 @@ A utilização da cota de do dia é permitida nas classes tipificadas como:
 
 ❑ **OBSERVAÇÃO:** Quando se tratar de fundo que atue em mercados no exterior, o encerramento do dia pode ser considerado como o horário de fechamento de um mercado específico indicado no regulamento.
 
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-19
-
 # Cota
 
 ## Dinâmica de Aplicação e Resgate de cotas
@@ -408,16 +280,6 @@ Toda vez que ingressa recursos aportados por um cotista em um fundo aberto, o ge
 ❑ **Prazo de cotização na Aplicação:** a emissão das cotas deverá ser pelo valor da cota do dia (D+0) ou do dia seguinte (D+1).
 
 ❑ **Prazo de cotização no Resgate:** no regulamento estabelecerá o prazo entre a data da solicitação do resgate, a data da <u>conversão</u> e a data da <u>liquidação financeira</u>, sendo que o <u>pagamento não poderá ultrapassar 5 dias úteis da data da conversão</u>. Caso ultrapasse, será devido ao cotista uma multa de 0,5% do valor de resgate, a ser paga pelo administrador do fundo, por dia de atraso no pagamento do resgate de cotas (salvo exceções).
-
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-20
-
-189
-
----
 
 # Cota
 
@@ -436,12 +298,6 @@ ANCORD – Assessor de Investimentos
 * D+4: Quarta-feira
 
 Assim, Rafael teria o dinheiro disponível para sacar, pagar conta, etc, somente na quarta- feira (isso se nenhum desses dias fosse feriado). No mercado financeiro, você verá fundos de investimentos, muitas vezes, com prazos mais alongados. Isso se dá pela liquidez dos ativos que compõe o fundo, mas sempre descrito previamente no seu regulamento.
-
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-21
 
 # Fundos de Investimentos
 
@@ -463,16 +319,6 @@ Um fundo de investimentos poderá ter os seguintes custos:
 
 * <u>Encargos do fundo:</u> despesas específicas que podem ser debitadas diretamente da classe de cotas, não estando inclusas nas taxas destinadas aos prestadores de serviços essenciais, como por exemplo honorários de advogados.
 
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-22
-
-190
-
----
-
 # Valores que podem ser cobrados
 
 ## Taxas sobre o Patrimônio Líquido
@@ -486,10 +332,6 @@ Para ficar mais claro, essas taxas apresentam a seguinte sequência.
 * ⮚ Descontada **MENSALMENTE** do fundo;
 
 * ⮚ Apresentada ao cotista como uma taxa **ANUAL**.
-
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos 23
 
 # Valores que podem ser cobrados
 
@@ -514,14 +356,6 @@ ANCORD – Assessor de Investimentos 23
 
 Vale destacar que este é um cálculo de prova, pois na prática, a taxa de administração é projetada diariamente sobre o patrimônio líquido do fundo e descontada mensalmente. Pense que a taxa de administração é o “salário” dos prestadores de serviço do fundo.
 
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos 24
-
-191
-
----
-
 # Valores que podem ser cobrados
 
 ## Taxa Performance: Conceito
@@ -540,12 +374,6 @@ Conforme mencionado anteriormente, o <u>regulamento poderá estabelecer a cobran
 
 ❑ **OBS:** É vedada a cobrança em fundos passivos e nos fundos tipificados como Renda Fixa Curto Prazo; Renda Fixa Simples e Renda Fixa Referenciado (exceto os de Longo Prazo). No entanto, as classes e subclasses destinadas exclusivamente a investidores qualificados ou a investidores profissionais não precisam seguir nenhuma das regras citadas até o momento, podendo ter regras próprias definidas no regulamento.
 
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-25
-
 # Valores que podem ser cobrados
 
 ## Taxa Performance: Tipos de Cobranças
@@ -559,16 +387,6 @@ O regulamento deve especificar se a taxa de performance é cobrada pelo:
 * ⮚ **MÉTODO DO AJUSTE:** com base no resultado da classe ou subclasse de cotas, acrescida de ajustes individuais, exclusivamente nas aplicações efetuadas posteriormente à data da última cobrança de taxa de performance, até o primeiro pagamento de taxa de performance, promovendo a correta individualização dessa despesa entre os cotistas.
 
 ❑ **OBS:** Vale ressaltar que a taxa performance não causa um prejuízo ao fundo, mas impacta o valor da cota, já que o valor é pago pela classe ou subclasse do fundo.
-
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-26
-
-192
-
----
 
 # Valores que podem ser cobrados
 
@@ -586,12 +404,6 @@ ANCORD – Assessor de Investimentos
 Veremos a seguir que será cobrado somente nos semestres 1 e 5. Isso porque, no semestre 3, mesmo tendo performado melhor que o *benchmarck*, não poderá ser cobrado, pois não superou a Linha D’Água.
 
 ❑ **OBS:** A lógica para o método do passivo é a mesma, com a diferença do cálculo ser feito com base no resultado de cada aplicação efetuada por cada cotista
-
-Logo Rafael Toro
-
-ANCORD – Assessor de Investimentos
-
-27
 
 # Valores que podem ser cobrados
 
@@ -617,16 +429,6 @@ o Resposta: 3,00%
 
 (3) **Analisar Linha D´Agua:** Dos períodos que o Fundo Excedeu o benchmark, analisar se o valor da cota do período é superior ao valor da cota da última cobrança. Cuidado, não é o período anterior, mas sim o valor da última cobrança da taxa performance
 
-Logo Rafael Toro
-
-ANCORD – Assessor de Investimentos
-
-28
-
-193
-
----
-
 # Cotistas
 
 ## Direitos dos Cotistas
@@ -646,12 +448,6 @@ Os principais **DIREITOS** dos cotistas são:
 * ter acesso ao extrato dos investimentos mensalmente;
 
 * participar e votar na Assembleia Geral de Cotistas.
-
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-29
 
 # Cotistas
 
@@ -675,16 +471,6 @@ Os principais **DEVERES** dos cotistas são:
 
 ❑ **OBS:** não se esqueça, o cotista é um sócio e como tal, deve “cuidar” da sua empresa.
 
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-30
-
-194
-
----
-
 # Prestação de Serviços
 
 ## Principais Prestadores de Serviços
@@ -701,12 +487,6 @@ Os principais prestadores de serviços que os fundos de investimentos podem ter 
 
 A seguir, veremos a função de cada um deles.
 
-Logo da Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-31
-
 # Prestação de Serviços
 
 ## Disposições Gerais
@@ -716,16 +496,6 @@ O funcionamento do fundo se materializa por meio da atuação dos <mark>prestado
 Os <mark>prestadores de serviços essenciais e demais prestadores de serviços do fundo respondem perante a CVM, nas suas respectivas esferas de atuação</mark>, por seus próprios atos e omissões contrários à lei, ao regulamento do fundo ou à regulamentação vigente, sem prejuízo do exercício do dever de fiscalizar, nas hipóteses expressamente previstas na RCVM 175/23, bem como naquelas eventualmente previstas no regulamento.
 
 ❑ **OBSERVAÇÃO:** A aferição de responsabilidades dos prestadores de serviços tem como parâmetros as obrigações previstas pela CVM e em regulamentações específicas, assim como aquelas previstas no regulamento e no respectivo contrato de prestação de serviços.
-
-Logo da Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-32
-
-195
-
----
 
 # Prestadores de Serviços
 
@@ -740,10 +510,6 @@ Estão obrigados a adotar as seguintes normas de conduta:
 * ⮚ empregar, na defesa dos direitos do cotista, a diligência exigida pelas circunstâncias, praticando todos os atos necessários para assegurá-los, e adotando as medidas judiciais cabíveis.
 
 ❑ **OBS:** prestadores de serviços devem transferir à classe de cotas qualquer benefício ou vantagem que possam alcançar em decorrência de sua condição.
-
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos 33
 
 # Prestação de Serviços
 
@@ -761,14 +527,6 @@ O administrador de carteiras **PESSOA JURÍDICA** pode atuar na distribuição d
 
 * ⮚ o dever de verificação da adequação dos produtos e serviços ao perfil do cliente;
 * ⮚ as normas de cadastro de clientes, de conduta e de pagamento e recebimento de valores aplicáveis à intermediação de operações realizadas com valores mobiliários em mercados regulamentados de valores mobiliários.
-
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos 34
-
-196
-
----
 
 # Prestação de Serviços
 
@@ -800,12 +558,6 @@ Já para o **ADMINISTRADOR PESSOA JURÍDICA**, os principais requisitos são:
 
 * ⮚ caso o registro seja na categoria “gestor de recursos”, atribuir a responsabilidade pela gestão de risco a um diretor estatutário.
 
-Logo Rafael Toro
-
-ANCORD – Assessor de Investimentos
-
-35
-
 # Prestação de Serviços
 
 ## PSE: Administrador Fiduciário
@@ -834,16 +586,6 @@ O registro na categoria administrador fiduciário autoriza o exercício profissi
 
 * ⮚ Deve fiscalizar os serviços prestados por ele contratado.
 
-Logo Rafael Toro
-
-ANCORD – Assessor de Investimentos
-
-36
-
-197
-
----
-
 # Prestação de Serviços
 
 ## PSE: Obrigações do Administrador Fiduciário:
@@ -868,12 +610,6 @@ Incluem-se entre as **obrigações do administrador contratar**, em nome do fund
 
 - ▪ caso o prestador de serviço contratado não seja um participante de mercado regulado pela CVM ou o serviço prestado ao fundo não se encontre dentro da esfera de atuação da Autarquia, o administrador deve fiscalizar tais atividades.
 
-Logo da Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-37
-
 # Prestação de Serviços
 
 ## PSE: Gestor de Recursos
@@ -893,16 +629,6 @@ O registro na categoria **gestor de recursos autoriza a gestão de uma carteira 
 * ⮚ Compete ao gestor exercer o direito de voto decorrente de ativos detidos pela classe realizando todas as ações necessárias para tal exercício.
 
 * ⮚ Deve providenciar a elaboração do material de divulgação da classe para utilização pelos distribuidores, às suas expensas.
-
-Logo da Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-38
-
-198
-
----
 
 # Prestação de Serviços
 
@@ -930,12 +656,6 @@ Inclui-se entre as **obrigações do gestor contratar**, em nome do fundo, com t
 
 * ⮚ Nos casos de contratação de cogestor, o contrato deve definir claramente as atribuições de cada gestor, o que inclui, no mínimo, o mercado específico de atuação de cada gestor e a classe ou classes de cotas objeto da cogestão.
 
-Logo da Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-39
-
 # Prestação de Serviços
 
 ## PSE: Penalidades por Desenquadramento
@@ -951,16 +671,6 @@ Caso constate que o descumprimento dos limites de composição, diversificação
 * ⮚ liquidação.
 
 ❑ **OBSERVAÇÃO:** Caso o desenquadramento passivo se prolongue por 15 dias úteis consecutivos, ao final desse prazo o gestor deve encaminhar à CVM suas explicações para o desenquadramento. Ocorrendo o reenquadramento, deve-se informar a CVM.
-
-Logo da Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-40
-
-199
-
----
 
 # Prestação de Serviços
 
@@ -984,12 +694,6 @@ ANCORD – Assessor de Investimentos
 
 ❑ **OBSERVAÇÕES:** É <u>vedado ao gestor</u> e, se houver, ao consultor o recebimento de qualquer remuneração, benefício ou vantagem, direta ou indiretamente, que potencialmente prejudique sua independência na tomada de decisão ou, no caso do consultor, sugestão de investimento.
 
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-41
-
 # Prestação de Serviços
 
 ## PSE: Deveres
@@ -1007,16 +711,6 @@ Resumidamente, os prestadores de serviços essenciais devem:
 ⮚ informar à CVM sempre que verifique, no exercício das suas atribuições, a ocorrência ou indícios de violação da legislação que incumbe à CVM fiscalizar;
 
 ⮚ sempre defender os direitos e interesses do cliente.
-
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-42
-
-200
-
----
 
 # Prestadores de Serviços
 
@@ -1038,12 +732,6 @@ Caso o fundo invista em cotas de outros fundos de investimento, o administrador 
 
 ⮚ os sistemas e ferramentas de gestão de liquidez utilizados pelo administrador e gestor do fundo investido.
 
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-43
-
 # Prestadores de Serviços
 
 ## PSE: Substituição
@@ -1060,16 +748,6 @@ Nos casos de <u>descredenciamento</u> ou <u>renúncia</u>, fica o administrador 
 
 No caso de <u>renúncia</u>, o prestador de serviço essencial deve permanecer no exercício de suas funções até sua efetiva substituição, que deve ocorrer no prazo máximo de 90 (noventa) dias, contados a partir da renúncia, para os fundos de investimento financeiro e 180 (cento e oitenta) dias, contados a partir da renúncia, para as demais categorias de fundos de investimento. Já no caso de <u>descredenciamento</u> de prestador de serviço essencial, à Superintendência competente pode nomear administrador ou gestor temporário, conforme o caso, inclusive para viabilizar a convocação de assembleia de cotistas.
 
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-44
-
-201
-
----
-
 # Resumos
 
 ## Prestadores de Serviços Essenciais
@@ -1084,12 +762,6 @@ ANCORD – Assessor de Investimentos
 <tr><td>Verificação da compatibilidade de preço praticados e do enquadramento da carteira</td><td></td><td>Barreiras de resgate</td></tr>
 <tr><td></td><td></td><td>Side Pocket</td></tr>
 </table>
-
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-45
 
 # Prestação de Serviços
 
@@ -1107,16 +779,6 @@ Estão autorizados a realizar a função de custodiante os Bancos comerciais, m�
 
 * ⮚ Atua como um guardião independente dos ativos do fundo, desempenhando um papel crucial na proteção dos interesses dos cotistas e na garantia da conformidade regulatória e transparência nas operações do fundo.
 
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-46
-
-202
-
----
-
 # Prestação de Serviços
 
 ## Auditor Independente
@@ -1133,12 +795,6 @@ O **AUDITOR INDEPENDENTE** é a figura que <u>ASSEGURA CREDIBILIDADE ÀS INFORMA
 
 * ⮚ O valor que o Auditor Independente recebe são pagos pelo próprio fundo.
 
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-47
-
 # Prestação de Serviços
 
 ## Distribuidor (Conta & Ordem)
@@ -1149,16 +805,6 @@ Os **DISTRIBUIDORES** que atuem por conta e ordem de clientes <u>assumem todos o
 
 O contrato firmado entre o gestor, em nome do fundo, e o distribuidor que atue por conta e ordem deve prever que na hipótese de sua extinção, os clientes que sejam cotistas até a data da extinção podem manter o seu investimento por conta e ordem enquanto perdurar, desde que o distribuidor mantenha todos os direitos e obrigações, pelo período em que tais clientes mantiverem o investimento; ou o gestor assuma ou contrate outro distribuidor a assumir todos os direitos e obrigações.
 
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-48
-
-203
-
----
-
 # Prestação de Serviços
 
 ## Consultoria
@@ -1166,13 +812,6 @@ ANCORD – Assessor de Investimentos
 A <mark>CONSULTORIA</mark> especializada pode ser <mark>CONTRATADA PELO GESTOR</mark> para realizar atividades relacionadas à análise, seleção, aquisição e substituição dos direitos creditórios que comporão a carteira de direitos creditórios. Para a contratação da consultoria especializada, o gestor deve verificar se o prestador de serviço possui reputação ilibada e capacidade técnica e operacional compatível com as atividades para as quais está sendo contratado.
 
 Já quando se tratar de <mark>CONSULTORIA ESPECIALIZADA para os fundos Imobiliários</mark>, que objetive dar suporte e subsidiar as atividades de análise, seleção, acompanhamento e avaliação de empreendimentos imobiliários e demais ativos integrantes ou que possam vir a integrar a carteira de ativos, a contratação ocorrerá pelo <mark>ADMINISTRADOR</mark>.
-
-Logo Rafael Toro Academia de Finanças
-
-49
-
-ANCORD – Assessor de Investimentos
-
 # Prestação de Serviços
 
 ## Conselhos Consultivos e Comitês
@@ -1190,17 +829,6 @@ Sem prejuízo das responsabilidades dos prestadores de serviços, podem ser cons
 ⮚ Quando constituídos por iniciativa de prestador de serviço essencial, os membros do conselho ou comitê podem ser remunerados com parcela da taxa de administração ou gestão, conforme o caso.
 
 ⮚ <mark>Quando constituído com o objetivo de fiscalizar ou supervisionar as atividades exercidas por prestador de serviços essencial, a remuneração de membros do comitê pode constituir encargo do fundo, desde que prevista no regulamento</mark>.
-
-Logo Rafael Toro Academia de Finanças
-
-50
-
-ANCORD – Assessor de Investimentos
-
-204
-
----
-
 # Documentos & Informações
 
 ## Disposições Gerais
@@ -1214,12 +842,6 @@ A divulgação de informações sobre a classe de cotas deve ser abrangente, equ
 * ⮚ política de voto da classe em assembleia de titulares, se for o caso.
 
 Além disso, <u>essas informações devem</u> ser suficientes, verdadeiras, precisas, consistentes e atuais, permitindo aos investidores uma tomada de decisão fundamentada a respeito do investimento, <u>através de escritas em linguagem simples, clara, objetiva e concisa</u> e que sejam úteis à avaliação do investimento. Outro ponto relevante é que <u>não podem assegurar ou sugerir a existência de garantia de resultados futuros ou isenção de risco para o investidor</u>.
-
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-51
 
 # Documentos & Informações
 
@@ -1240,16 +862,6 @@ O <u>FUNDO É REGIDO PELO REGULAMENTO</u> e, se for o caso, suas classes de cota
 * ⮚ prazo de duração, que pode ser indeterminado; e
 
 * ⮚ exercício social.
-
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-52
-
-205
-
----
 
 # Documentos & Informações
 
@@ -1275,12 +887,6 @@ Já com relação aos anexos descritivos de classes, cada qual relativo a uma cl
 
 ❑ **OBSERVAÇÕES:** Na classe de cotas que possua subclasses, os apêndices das subclasses, cada qual relativo a uma subclasse em específico, devem dispor sobre as particularidades das respectivas subclasses e caso a classe de cotas conte com subclasses que possuam diferentes taxas de administração e gestão, essas taxas devem ser disciplinadas no apêndice descritivo das subclasses.
 
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-53
-
 # Documentos & Informações
 
 ## Regulamento: ASG
@@ -1296,16 +902,6 @@ O regulamento do fundo e o anexo descritivo da classe de cotas cuja denominaçã
 * ⮚ especificação sobre a forma, o conteúdo e a periodicidade de divulgação de relatório sobre os resultados ambientais, sociais e de governança alcançados pela política de investimento no período, assim como a identificação do agente responsável pela elaboração do relatório.
 
 ❑ **OBSERVAÇÃO:** Caso a política de investimento integre fatores ASG às atividades relacionadas à gestão da carteira, mas não busque originar benefícios ASG, fica vedada a utilização dos termos, devendo o regulamento dispor os temas à política de investimento.
-
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-54
-
-206
-
----
 
 # Documentos & Informações
 
@@ -1324,12 +920,6 @@ Por meio de um termo de adesão e ciência de risco, ao ingressar no fundo todo 
 * Caso o regulamento do fundo não limite a responsabilidade do cotista ao valor por ele subscritos, o cotista deve atestar que tem ciência dos riscos decorrentes da responsabilidade ilimitada;
 
 * Obrigatório a todos os fundos, exceto aos tipificados como Renda Fixa Simples.
-
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-55
 
 # Documentos & Informações
 
@@ -1355,16 +945,6 @@ O <u>administrador de classe aberta que seja destinada ao público em geral, dev
 
 ❑ <u>OBSERVAÇÃO:</u> Caso o regulamento estabeleça taxas mínimas e máximas, englobando as taxas das classes investidas, a lâmina deve destacar as taxas máximas.
 
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-56
-
-207
-
----
-
 # Documentos & Informações
 
 ## Material de Divulgação: Fundo
@@ -1383,10 +963,6 @@ Qualquer material de divulgação do fundo deve:
 
 ❑ **OBS:** O <mark>material de divulgação da Política de Distribuição de um fundo aberto</mark>, destinado a investidores não qualificados, deve incluir dentre outras informações, <mark>a descrição da forma de remuneração dos distribuidores e os eventuais conflitos de interesse no esforço de venda.</mark>
 
-Logo da Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos 57
-
 # Documentos & Informações
 
 ## Material de Divulgação: Rentabilidade (I)
@@ -1404,14 +980,6 @@ Toda informação divulgada, por qualquer meio, na qual seja incluída referênc
 * ⮚ destacar o público-alvo da classe ou subclasse de cotas que estiver sendo divulgada, assim como as restrições quanto à captação, se houver, ressaltando eventual impossibilidade, permanente ou temporária, de acesso por parte do público em geral.
 
 ❑ **OBSERVAÇÕES:** Caso o gestor contrate os serviços de empresa de classificação de risco, todo o material de divulgação deve apresentar o grau mais recente conferido à classe ou subclasse de cotas a que se referir o material, bem como a indicação de como obter maiores informações sobre a avaliação efetuada.
-
-Logo da Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos 58
-
-208
-
----
 
 # Documentos & Informações
 
@@ -1434,13 +1002,6 @@ Além dos itens já citados, mais cinco itens devem ser respeitados, que são:
 * ▪ possui uma políca de invesmentos que busca originar benecios ASG; ou
 
 * ▪ integra os fatores ASG à políca de invesmentos, sem buscar a originação de benecios dessa natureza.
-
-Logo Rafael Toro Academia de Finanças
-
-59
-
-ANCORD – Assessor de Invesmentos
-
 # Divulgação de Informações
 
 ## Disposições Gerais & Fatos Relevantes
@@ -1448,17 +1009,6 @@ ANCORD – Assessor de Invesmentos
 As informações periódicas e eventuais do fundo devem ser divulgadas na página do fundo, do administrador ou do gestor, conforme previsto no regulamento. Caso sejam divulgadas a terceiros informações referentes à composição da carteira, a mesma informação deve ser colocada à disposição dos costas na mesma periodicidade, salve exceções.
 
 Vale ressaltar que, o <u>administrador é obrigado a divulgar qualquer fato relevante ocorrido ou relacionado ao funcionamento do fundo, da classe ou aos ativos integrantes da carteira</u>, assim que dele tiver conhecimento, observado que é responsabilida ... imediatamente ao administrador sobre os fatos relevantes de que venham a ter conhecimento, <u>exceto se o gestor e o administrador, em conjunto, entenderem que sua revelação porá em risco interesse legímo do fundo, da classe de cotas ou dos costas</u>.
-
-Logo Rafael Toro Academia de Finanças
-
-60
-
-ANCORD – Assessor de Invesmentos
-
-209
-
----
-
 # Divulgação de Informações
 
 ## <u>Demonstrações Contábeis & Auditoria</u>
@@ -1472,12 +1022,6 @@ O <u>fundo de investimento e suas classes de cotas devem ter escrituração cont
 * ⮚ A auditoria das demonstrações contábeis não é obrigatória para fundos e classes em atividade há menos de 90 (noventa) dias.
 
 * ⮚ A elaboração e a divulgação das demonstrações contábeis devem observar as regras específicas editadas pela CVM, conforme a categoria do fundo de investimento, devendo ser auditadas anualmente por auditor independente registrado na CVM.
-
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-61
 
 # Divulgação de Informações
 
@@ -1496,16 +1040,6 @@ O **ADMINISTRADOR** do fundo é responsável por:
 - ▪ aos 12 meses findos em 31/12, até o último dia útil de fevereiro de cada ano; e
 
 - ▪ aos 12 meses findos em 30/06, até o último dia útil de agosto de cada ano; e
-
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-62
-
-210
-
----
 
 # Divulgação de Informações
 
@@ -1531,12 +1065,6 @@ O **ADMINISTRADOR** deve enviar à CVM os seguintes documentos da classe de cota
 
 ❑ **OBS:** O prazo de retificação das informações é de 3 dias úteis, contado do fim do prazo estabelecido para a apresentação dos documentos. Além disso, as informações referentes aos <mark>informes diários e mensais</mark> devem ser prestadas para cada subclasse em separado.
 
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-63
-
 # Prestação de Contas aos Cotistas
 
 ## Operações Omitidas
@@ -1548,16 +1076,6 @@ Essas operações omitidas <mark>devem ser divulgadas no prazo máximo</mark> de
 * ⮚ <mark>30 dias, improrrogáveis</mark>, nas classes tipificadas como “Renda Fixa” que sejam <mark>“Curto Prazo”, “Referenciada” ou “Simples"</mark>; e
 
 * ⮚ nos demais casos, <mark>90 dias após o encerramento do mês</mark>, podendo esse prazo ser <mark>prorrogado uma única vez</mark>, em caráter excepcional, e com base em solicitação fundamentada submetida à aprovação da CVM, <mark>até o prazo máximo de 180 dias</mark>.
-
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-64
-
-211
-
----
 
 # Fechamento do Fundo para Resgates
 
@@ -1577,12 +1095,6 @@ Caso o fundo permaneça fechado por período superior a 5 (cinco) dias consecuti
 
 * Liquidação do fundo.
 
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-65
-
 # Fechamento do Fundo para Aplicações
 
 **Motivo**
@@ -1592,16 +1104,6 @@ Caso o administrador fiduciário entenda que o *capacity* do fundo de investimen
 Mas o que significa *capacity*? Este é um termo técnico utilizado no mercado financeiro para definir qual o volume máximo do patrimônio líquido que o fundo de investimentos poderá ter, para manter a capacidade de entrega de retornos condizente ao seu risco. Esse valor é definido pelo gestor, pois ele é o responsável por investir os recursos. Por exemplo, se o *capacity* de um fundo de ações é de R$ 10 bilhões, o gestor entende que acima deste valor, ele não conseguirá encontrar boas oportunidades para investir. Desta forma, para não prejudicar o retorno dos cotistas, a melhor decisão é fechar o fundo para novas aplicações.
 
 Esse fechamento não é eterno, pois se o gestor entender que há novas oportunidades, o administrador poderá reabrir para novas captações de recursos e assim, o gestor poderá aplicar os valores captados nessas novas oportunidades.
-
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-66
-
-212
-
----
 
 # PL Negativo com Limitação de Responsabilidade
 
@@ -1624,13 +1126,6 @@ Caso o **administrador verifique que o patrimônio líquido (PL) da classe de co
 ⮚ em até 20 (vinte) dias elaborar um plano de resolução do patrimônio líquido negativo, em conjunto com o gestor, e convocar assembleia de cotistas, para deliberar acerca do plano de resolução do patrimônio líquido negativo, encaminhando o plano junto à convocação.
 
 ❑ **OBS:** A CVM pode pedir a declaração judicial de insolvência da classe de cotas, quando identificar situação na qual seu patrimônio líquido negativo represente risco para o funcionamento eficiente do mercado de valores mobiliários ou para a integridade do sistema financeiro.
-
-Logo Rafael Toro Academia de Finanças
-
-67
-
-ANCORD – Assessor de Investimentos
-
 # PL Negativo com Limitação de Responsabilidade
 
 ## Não aprovação do plano de resolução
@@ -1644,16 +1139,6 @@ Caso a **assembleia não aprove o plano de resolução do patrimônio líquido n
 ⮚ liquidar a classe que estiver com patrimônio líquido negativo, desde que não remanesçam obrigações a serem honradas pelo seu patrimônio; ou
 
 ⮚ determinar que o administrador entre com pedido de declaração judicial de insolvência da classe de cotas. Essa hipótese também ocorrerá caso a assembleia não seja instalada por falta de quórum ou os cotistas não deliberem em favor de qualquer possibilidade.
-
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-68
-
-213
-
----
 
 # Assembleia de Cotistas
 
@@ -1685,12 +1170,6 @@ Compete privativamente à assembleia de cotistas deliberar sobre:
 
 * <u>Não é necessário assembleia para reduções de taxas.</u>
 
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-69
-
 # Glossário da RCVM 175/23
 
 ## Definições (I)
@@ -1708,16 +1187,6 @@ ANCORD – Assessor de Investimentos
 * <u>Intermediário:</u> instituição habilitada a atuar como integrante do sistema de distribuição, por conta própria e de terceiros, na negociação de valores mobiliários em mercados regulamentados de valores mobiliários;
 
 * <u>Prestadores de serviços essenciais:</u> administrador e gestor do fundo.
-
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-70
-
-214
-
----
 
 # Glossário da RCVM 175/23
 
@@ -1739,12 +1208,6 @@ ANCORD – Assessor de Investimentos
 
 * <u>Assembleia geral de cotistas:</u> assembleia para a qual são convocados todos os cotistas do fundo.
 
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-71
-
 # Glossário da RCVM 175/23
 
 ## Definições (III)
@@ -1763,16 +1226,6 @@ ANCORD – Assessor de Investimentos
 
 * <u>Vínculo por interesse único e indissociável:</u> vínculo decorrente de controle comum, conforme definido nas normas contábeis, ou de acordo que obrigue os cotistas a votarem em conjunto nas assembleias.
 
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-72
-
-215
-
----
-
 # Glossário da RCVM 175/23
 
 ## Definições (IV)
@@ -1786,21 +1239,9 @@ ANCORD – Assessor de Investimentos
 * <u>**Side Pocket:**</u> Desde que previsto em regulamento, gestor pode cindir do patrimônio da classe os ativos excepcionalmente ilíquidos, para que sejam utilizados na integralização de cotas de uma nova classe fechada ou de uma nova subclasse de classe fechada já existente. Isso é possível desde que a previsão esteja no regulamento.
 
 * <u>**Exposição a risco de capital:**</u> exposição da classe de cotas ao risco de seu patrimônio líquido ficar negativo em decorrência de aplicações de sua carteira de ativos;
-
-Logo da Rafael Toro Academia de Finanças
-
-73
-
-ANCORD – Assessor de Investimentos
-
 Mapa geográfico
 
 # Principais Estratégias e Tipos de Gestão de Fundos
-
-216
-
----
-
 # Objetivo e Política de Investimento
 
 ## Definição e Finalidade
@@ -1812,13 +1253,6 @@ Mapa geográfico
 * ⮚ **Fundos Ativos:** buscam superar o benchmark (índice de referência). Estes fundos podem cobrar taxa performance sobre o que superar seu benchmark.
 
 ❑ **POLÍTICA DE INVESTIMENTO:** Descreve **COMO** será atingida a meta proposta. Desta forma, a política define os parâmetros de atuação do gestor, detalhando os mercados, papéis, limites, percentuais e o risco ao qual o fundo será exposto.
-
-Logo Rafael Toro Academia de Finanças
-
-75
-
-ANCORD – Assessor de Investimentos
-
 # Objetivo e Política de Investimento
 
 ## Política de Investimentos
@@ -1836,17 +1270,6 @@ ANCORD – Assessor de Investimentos
 * ⮚ a possibilidade de a classe ficar exposta a risco de capital, com a indicação do limite de exposição máxima sob a forma de percentual do patrimônio líquido que pode ser utilizado em margem bruta.
 
 ❑ **Parágrafo único:** A classe fica exposta a risco de capital quando realiza operações em valor superior ao seu patrimônio.
-
-Logo Rafael Toro Academia de Finanças
-
-76
-
-ANCORD – Assessor de Investimentos
-
-217
-
----
-
 # Estratégias de Gestão
 
 ## Gestão Passiva
@@ -1861,12 +1284,6 @@ Para manter aderência aos índices de referência os gestores acabam comprando 
 
 Os indicadores mais utilizados para analisar a eficiência dos fundos passivos são o EQM (Erro Quadrático Médio) e o Tracking Error, onde analisam o erro com base em um referência (benchmark). Desta forma, quanto menor o EQM ou Tracking Error, mais próximo ao benchmark (melhor no que se propôs a fazer, seguir a referência).
 
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-77
-
 # Estratégias de Gestão
 
 ## Gestão Ativa
@@ -1877,16 +1294,6 @@ Como o gestor é ativo nesse tipo de estratégia, além da taxa de administraç�
 
 Outro ponto interessante é que nesse tipo de estratégia, alguns gestores tem como política utilizar derivativos como forma de alavancagem, e não apenas como forma de proteção (hedge). Com isso, o fundo poderá ter uma perda maior que o seu Patrimônio Líquido, devendo constar no regulamento se a responsabilidade do cotista é limitada ao valor por ele subscrito ou se poderá ser chamado a novos aportes por patrimônio negativo.
 
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-78
-
-218
-
----
-
 Fundos de Investimentos II
 
 # Fundos de Investimentos II
@@ -1894,11 +1301,6 @@ Fundos de Investimentos II
 Fundos de Investimentos Financeiros (FIF)
 
 # Fundos de Investimentos Financeiros (FIF)
-
-219
-
----
-
 # Fundos de Investimentos Financeiros (FIF)
 
 ## <u>Âmbito e Finalidade</u>
@@ -1927,12 +1329,6 @@ O Anexo Normativo I, dispõe sobre as regras específicas para os fundos de inve
 
     * ▪ <u>atender às condições previstas na referida regulamentação, de forma a obter o referido tratamento fiscal.</u>
 
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-3
-
 # Fundos de Investimentos Financeiros
 
 ## <u>Tipificação</u>
@@ -1945,16 +1341,6 @@ As classes de cotas têm os seguintes prazos máximos para atingir os limites de
 
 * ⮚ 180 (cento e oitenta) dias, a contar da data de encerramento da distribuição, para as classes fechadas.
 
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-4
-
-220
-
----
-
 # Fundos de Investimentos Financeiros
 
 ## Tabela da Tipificação
@@ -1964,12 +1350,6 @@ ANCORD – Assessor de Investimentos
 <tr><th></th><th>RENDA FIXA</th><th>CAMBIAL</th><th>MULTIMERCADO</th><th>AÇÕES</th></tr>
 <tr><td>S<br>U<br>F<br>I<br>X<br>O<br>S</td><td>⮚ Curto Prazo<br>⮚ Referenciado<br>⮚ Simples<br>⮚ Crédito Privado<br>⮚ Dívida Externa</td><td>⮚ Crédito Privado</td><td>⮚ Crédito Privado</td><td>⮚ Mercado<br>de Acesso</td></tr>
 </table>
-
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-5
 
 # Fundos de Renda Fixa
 
@@ -1993,16 +1373,6 @@ A classe tipificada como “Renda Fixa” deve ter como principal fator de risco
 
 ▪ “Renda Fixa - Dívida Externa”.
 
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-6
-
-221
-
----
-
 # Fundos de Renda Fixa
 
 ## Renda Fixa Curto Prazo
@@ -2016,14 +1386,6 @@ A classe de cotas tipificada de “Renda Fixa” com o sufixo “Curto Prazo”,
 * ⮚ Podem cobrar taxa de performance apenas quando destinado exclusivamente a investidores qualificados.
 
 * ⮚ Permitida utilização de derivativos <mark>SOMENTE</mark> para proteção da carteira <u>(HEDGE)</u>.
-
-Logo Rafael Toro Academia de Finanças
-
-7
-
-ANCORD – Assessor de Investimentos
-ANCORD – Assessor de Investimentos
-
 # Fundos de Renda Fixa
 
 ## Renda Fixa Referenciado
@@ -2037,15 +1399,6 @@ A classe de cotas tipificada de “Renda Fixa” com o sufixo “Referenciado”
 * ⮚ Permitida utilização de derivativos <mark>SOMENTE</mark> para proteção da carteira <u>(HEDGE)</u>.
 
 * ⮚ Este é um fundo que poderá ter até 20% investido em títulos com alto risco de crédito, vide que no mínimo 80% deverão estar investimentos em títulos públicos federais ou de baixo risco de crédito.
-
-Logo Rafael Toro Academia de Finanças
-
-8
-
-222
-
----
-
 # Fundos de Renda Fixa
 
 ## Renda Fixa Simples
@@ -2070,12 +1423,6 @@ A classe de cotas tipificada de “Renda Fixa” com o sufixo “Simples”, <u>
 
 * ⮚ Vedado a concentração de mais de 50% em crédito privado.
 
-Logo Rafael Toro
-
-ANCORD – Assessor de Investimentos
-
-9
-
 # Fundos de Renda Fixa
 
 ## Dívida Externa
@@ -2093,16 +1440,6 @@ A classe de cotas tipificada de “Renda Fixa” com o sufixo “Dívida Externa
 * ⮚ Recursos remanescentes poderão ser alocados em ativos de créditos no exterior, respeitada a concentração máxima de 10% por emissor;
 
 * ⮚ Permitida utilização de derivativos <u>SOMENTE</u> para proteção da carteira <u>(HEDGE)</u> ao limite de 10% em derivativos no exterior e também ao limite de 10% em derivativos negociados no Brasil, desde que sejam em mercados organizados.
-
-Logo Rafael Toro
-
-ANCORD – Assessor de Investimentos
-
-10
-
-223
-
----
 
 # Fundos Cambiais
 
@@ -2124,12 +1461,6 @@ A classe tipificada como “Cambial” deve ter como principal fator de risco de
 
 * ⮚ Recomendado para investidores que buscam proteção do patrimônio sobre a oscilação de outras moedas frente ao real.
 
-Logo Rafael Tor Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-11
-
 # Fundos Multimercado
 
 ## Multimercado
@@ -2143,16 +1474,6 @@ A classe tipificada como "Multimercado" deve ter <mark>política de investimento
 * ⮚ Não há restrições para a utilização de derivativos, portanto, podem se valer de estratégias tanto para proteção (hedge), quanto para alavancagem;
 
 * ⮚ Permitida a cobrança de taxa performance.
-
-Logo Rafael Tor Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-12
-
-224
-
----
 
 # Fundo Renda Fixa, Cambial ou Multimercado
 
@@ -2174,12 +1495,6 @@ A classe tipificada como “RENDA FIXA”, “MULTIMERCADO” ou “CAMBIAL”, 
 
 * Permitida a cobrança de taxa performance.
 
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-13
-
 # Fundos de Ações
 
 ## Ações
@@ -2193,16 +1508,6 @@ A classe de cotas do fundo tipificado como “Ações” deve ter como <mark>pri
 * Não há restrições para a utilização de derivativos, portanto, podem se valer de estratégias tanto para proteção (hedge), quanto para alavancagem.
 
 * Permitida a cobrança de taxa performance.
-
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-14
-
-225
-
----
 
 # Fundos de Ações
 
@@ -2219,13 +1524,6 @@ Além disso, essa classe de cotas deverá <mark>participar do processo decisóri
 * ⮚ Não há restrições para a utilização de derivativos;
 
 * ⮚ Permitida a cobrança de taxa performance.
-
-Logo Rafael Toro
-
-15
-
-ANCORD – Assessor de Investimentos
-
 # Fundos Incentivados em Infraestrutura
 
 ## FI-Infra
@@ -2243,17 +1541,6 @@ Os Fundos Incentivados de Investimento em Infraestrutura (FI-Infra) são fundos 
 * ⮚ Não necessitam incluir o sufixo “Crédito Privado”;
 
 * ⮚ Seguem a regra geral dos “limites de concentração”.
-
-Logo Rafael Toro
-
-16
-
-ANCORD – Assessor de Investimentos
-
-226
-
----
-
 # Fundos destinados à Garantia de Locação Imobiliária
 
 ## Garantia de Locação Imobiliária
@@ -2272,12 +1559,6 @@ Podem ser constituídos fundos de investimento com a finalidade de permitir a ce
 
 * Podem conter nomenclaturas extras, como por exemplo, “Simples” e “Longo Prazo”, devendo sempre respeitar a legislação da classe e do sufixo.
 
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-17
-
 # Fundos de Investimentos
 
 ## Exposição a Risco de Capital
@@ -2294,16 +1575,6 @@ Vale ressaltar que, considera-se margem bruta o somatório das coberturas e marg
 
 ❑ OBS: <mark>Classes de cotas exclusivamente destinadas a investidores profissionais não possuem limites de exposição a risco de capital</mark>, exceto pelo que porventura dispuser o Regulamento.
 
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-18
-
-227
-
----
-
 # Fundos de Investimentos
 
 ## Limite por Emissor
@@ -2317,12 +1588,6 @@ A classe de cotas de observar os seguintes limites de **CONCENTRAÇÃO POR EMISS
 * ⮚ até **5%** do patrimônio líquido do fundo quando o emissor for <u>pessoa física</u> ou <u>pessoa jurídica de direito privado</u> que não seja companhia aberta ou instituição financeira autorizada a funcionar pelo Banco Central do Brasil.
 
 * ⮚ **NÃO HAVERÁ LIMITES** quando o emissor for a <u>UNIÃO FEDERAL</u> (inclusiva para operações compromissadas lastreadas em título público federal), fundo de investimento ou a política de investimento prever a aquisição de ativos fungíveis de uma única emissão de valores mobiliários.
-
-Logo da Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-19
 
 # Fundos de Investimentos
 
@@ -2360,16 +1625,6 @@ De forma resumida, a classe de cotas deve observar os seguintes limites de conce
 
     * ▪ outros ativos financeiros não previstos anteriormente.
 
-Logo da Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-20
-
-228
-
----
-
 # Fundos de Investimentos
 
 ## <u>Limite por Modalidade de Ativo Financeiro</u>
@@ -2396,12 +1651,6 @@ Não há limite de concentração por modalidade de ativo financeiro para invest
 
 * ativos, perfeitamente fungíveis de uma única emissão de valores mobiliários, desde que essa aplicação em específico constitua a política de investimento da classe e os ativos tenham sido emitidas por companhias abertas e objeto de oferta pública.
 
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-21
-
 # Fundos de Investimentos
 
 ## <u>Ativos Financeiros no Exterior</u>
@@ -2418,16 +1667,6 @@ Vale destacar algumas peculiaridades as regras em geral, como por exemplo:
 
 * É <mark>vedado a realização de investimentos no exterior em “Renda Fixa Simples”</mark>, .
 
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-22
-
-229
-
----
-
 # Fundos de Investimentos Financeiros
 
 ## Ativos Financeiros no Exterior (Resumo)
@@ -2438,10 +1677,6 @@ ANCORD – Assessor de Investimentos
 <tr><td>Como regra geral, até 20% do PL em todas as classes</td><td></td><td></td></tr>
 <tr><td>0% do PL nos Fundos Renda Fixa Simples</td><td>Caso haja previsão em regulamento, poderá extrapolar o limite de 40% do PL</td><td></td></tr>
 </table>
-
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos 23
 
 # Resumo: Fundos de Investimentos Financeiros
 
@@ -2454,14 +1689,6 @@ ANCORD – Assessor de Investimentos 23
 <tr><td>Dívida Externa</td><td>Aplica ao menos 80% do patrimônio em títulos da dívida externa da União</td><td></td><td></td><td></td></tr>
 <tr><td>Crédito Privado</td><td>Investe mais de 50% do patrimônio líquido em ativos de crédito privado</td><td></td><td></td><td></td></tr>
 </table>
-
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos 24
-
-230
-
----
 
 Outras Modalidades de Fundos de Investimentos
 
@@ -2489,15 +1716,6 @@ Nos FIDC, a classe de cotas deve possuir parcela <u>superior a 50% de seu patrim
 
 * ⮚ Deve respeitar as regras gerais de limite de concentração.
 
-Logo
-
-26
-ANCORD – Assessor de Investimentos
-
-231
-
----
-
 # FIDC – Direitos Creditórios
 
 ## Glossário
@@ -2516,12 +1734,6 @@ Alguns conceitos são importantes para maior compreensão, tais como:
 
 * ⮚ <u>Lastro dos direitos creditórios:</u> documentação necessária para o exercício das prerrogativas decorrentes da titularidade dos ativos, e capaz de comprovar a origem, a existência e a exigibilidade do direito creditório, sem prejuízo das hipóteses de aquisição de direitos creditórios não-performados.
 
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-27
-
 # FIDC – Direitos Creditórios
 
 ## Processo Estrutural
@@ -2536,16 +1748,6 @@ ANCORD – Assessor de Investimentos
 * Gestor
 * Custodiante
 
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-28
-
-232
-
----
-
 # FIDC – Direitos Creditórios
 
 ## Tipos de Cotas
@@ -2559,12 +1761,6 @@ Não há regime fiduciário para o patrimônio do fundo, de forma que todos os c
 * ⮚ **COTA SUBORDINADA (<u>cota de subclasse subordinada</u>):** cota de emissão de subclasse que se subordina a todas as demais subclasses para fins de amortização e resgate.
 
 Como as cotas seniores são protegidas de calote (até um certo limite), elas possuem risco significantemente menor. Cotas subordinadas possuem muito mais risco, no entanto, podem gerar um lucro muito maior. Este mecanismo de quotas permite a um FIDC atrair num só fundo, diferentes classes de investidores.
-
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-29
 
 # FIDC – Direitos Creditórios
 
@@ -2590,16 +1786,6 @@ Os direitos creditórios podem ser podem ser classificados das seguintes formas:
 
 * ▪ outros tipos de créditos não regulares.
 
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-30
-
-233
-
----
-
 # FIDC – Direitos Creditórios
 
 ## Distribuição ao Público em Geral
@@ -2620,14 +1806,6 @@ A <mark>distribuição de cotas junto ao público em geral requer o cumprimento<
 
 ▪ direitos creditórios originados ou cedidos pelo administrador, gestor, consultoria especializada, custodiante, entidade registradora dos direitos creditórios e partes a eles relacionadas.
 
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-ANCORD – Assessor de Investimentos
-234
-
-31
-
 # FIDC – Direitos Creditórios
 
 ## Subscrição e Integralização
@@ -2635,15 +1813,6 @@ ANCORD – Assessor de Investimentos
 Com relação a subscrição e integralização, somente nas <mark>classes restritas</mark> a integralização de <mark>cotas seniores e subordinadas mezanino pode ser feita em direitos creditórios</mark>, de acordo com método disciplinado no regulamento. Além disso, as classes de cotas cuja política de investimento admita a aquisição de direitos <mark>creditórios não-padronizados são de subscrição exclusiva de investidores profissionais</mark>, ressalvada a hipótese de subscrição de cotas subordinadas pelo cedente e suas partes relacionadas.
 
 No caso de subscrição de cotas de classes cuja política de investimento tenha como objetivo a realização de aplicações em direitos creditórios devidos por sociedades empresárias em processo de recuperação judicial ou extrajudicial, a restrição prevista no caput pode ser afastada, desde que: a integralização de cotas seja efetuada somente em direitos creditórios
-
-Logo Rafael Toro Academia de Finanças
-
-32
-
-
-
----
-
 # FIC-FIDC – Direitos Creditórios
 
 ## Regras
@@ -2653,12 +1822,6 @@ O FIC-FIDC, também chamada de classe de investimento em cotas de FIDC, deve em 
 ❑ **OBSERVAÇÕES:**
 
 ⮚ Pode investir até 20% do seu patrimônio líquido em FIDCs voltados para investidores qualificados, sendo que, até 5% dos 20% poderá investir em FIDCs voltados para investidores qualificados.
-
-Logo da Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-33
 
 # FII – Fundo de Investimento Imobiliário
 
@@ -2682,16 +1845,6 @@ O Fundos de Investimento Imobiliário (FII) é uma comunhão de recursos captado
 
 ⮚ Deve respeitar as regras gerais de limite de concentração.
 
-Logo da Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-34
-
-235
-
----
-
 # FIP – Fundo de Investimento em Paricipações
 
 ## Caracterísicas
@@ -2707,12 +1860,6 @@ O Fundo de Investimentos em Participações (FIP), <u>constituído sob a forma d
 ⮚ A classe de investimento em cotas deve aplicar no mínimo 90% do patrimônio líquido em cotas de outros FIP e de Fundos de Ações – Mercado de Acesso.
 
 ⮚ A participação da classe de cotas no processo decisório da sociedade investida pode ocorrer pela detenção de ações que integrem o respectivo bloco de controle; pela celebração de acordo de acionistas; ou pela celebração de contratos que assegure efetiva influência na definição de sua política estratégica e na sua gestão.
-
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-35
 
 # FIP – Fundo de Investimento em Paricipações
 
@@ -2732,16 +1879,6 @@ Resumidamente, podemos classificar quanto à composição da carteira de cada cl
 
 A seguir, explicaremos mais sobre os FIP-Infraestrutura e os FIP-PD&I
 
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-36
-
-236
-
----
-
 # FIP – Fundo de Investimento em Participações
 
 ## FIP-IE e FIP-PD&I
@@ -2757,13 +1894,6 @@ Os Fundos de Investimento em Participações em Infraestrutura (FIP-IE) e Fundos
 * Terão o prazo máximo de 180 dias após obtido o registro de funcionamento na CVM para iniciar suas atividades e para se enquadrarem no nível mínimo de investimento estabelecido.
 
 * Pessoas Físicas são isentas de imposto de renda
-
-Logo Rafael Toro
-
-37
-
-ANCORD – Assessor de Investimentos
-
 # ETF – Fundos de Índice de Mercado
 
 ## Características
@@ -2791,17 +1921,6 @@ O fundo de índice, também chamado de ETF (Exchange Traded Funds), é destinado
 - inversas, que visem refletir um desempenho oposto ao índice de referência;
 
 - sintéticas, que visem refletir o desempenho do índice de referência por meio de contratos derivativos, exceto por meio de posições em mercados futuros.
-
-Logo Rafael Toro
-
-38
-
-ANCORD – Assessor de Investimentos
-
-237
-
----
-
 # ETF – Fundos de Índice de Mercado
 
 ## Vantagens
@@ -2815,12 +1934,6 @@ Os ETFs possuem algumas vantagens, como por exemplo:
 * ⮚ <u>Liquidez:</u> por serem negociados em bolsa ou em mercado de balcão organizado, o investidor pode negociar ETFs da mesma forma que negocia ações e outros ativos negociados nesses ambientes.
 
 Por fim, a <u>estratégia passiva associada a baixos custos</u> permite que ETFs tenham baixíssimos *tracking errors*, medida que reflete a diferença entre o desempenho do fundo e seu benchmark (índice de referência). Em fundos tradicionais passivos com classe aberta, *tracking error* tende a ser maior que no ETF, pois, normalmente, seus custos com taxa de administração são maiores.
-
-Logo Rafael Tor Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-39
 
 # Fundos de Investimentos
 
@@ -2842,16 +1955,6 @@ A tributação ocorrerá na “transformação” das cotas em dinheiro, sendo:
 
 * ⮚ <u>Fundos Fechados:</u> através da (I) alienação (venda) das cotas; (II) amortização de cotas; (III) dividendos; (IV) resgate (encerramento do fundo); e (V) na antecipação do imposto de renda (come-cotas).
 
-Logo Rafael Tor Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-40
-
-238
-
----
-
 Clubes de Investimentos, Carteiras Administradas e Investidor Qualificado
 
 # Clubes de Investimentos, Carteiras Administradas e Investidor Qualificado
@@ -2865,16 +1968,6 @@ O Clube de Investimento é um condomínio de **PESSOAS FÍSICAS** constituído p
 O que difere os Clubes dos Fundos de Ações, é que os clubes devem ser constituído por no <u>mínimo 3 pessoas</u> e no <u>máximo 50 pessoas físicas</u>, sendo que <u>O MÁXIMO</u> que um único investidor pode ter de um clube de investimento é de <u>40%</u> sobre o patrimônio do clube. Quando se tratar de empregados de uma mesma empresa, o número de condôminos pode ser maior. Além disso, clubes antigos, possuíam outros limites máximos.
 
 ❑ **OBS:** Comparado com os fundos de investimentos, os custos dos clubes de investimentos são menores, pois alguns encargos não são obrigatórios, como por exemplo, de auditoria independente.
-
-RAFAEL TORO ACADEMIA DE FINANÇAS
-
-42
-ANCORD – Assessor de Investimentos
-
-239
-
----
-
 # Clubes de Investimento
 
 ## Vedações
@@ -2888,13 +1981,6 @@ ANCORD – Assessor de Investimentos
 * Adquirir cotas de fundos de investimento administrados ou geridos pelo administrador, pelo gestor ou por empresas a eles ligadas.
 
 * Fazer lançamento de opções a descoberto (por exemplo, vender opções de compra sem ter o ativo-objeto).
-
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-ANCORD – Assessor de Investimentos
-
-43
 
 # Clubes de Investimento
 
@@ -2923,15 +2009,6 @@ Os principais pontos a serem destacados nos Clubes de Investimento são:
 * Menores custos comparados aos fundos de investimentos em ações.
 
 * Tributação idêntica aos fundos de ações, ou seja, não possuem IOF, não possuem come-cotas e a alíquota de IR é de 15% para o cotista.
-
-Logo Rafael Toro Academia de Finanças
-
-44
-
-240
-
----
-
 # Carteira Administrada
 
 ## Conceito
@@ -2939,11 +2016,3 @@ Logo Rafael Toro Academia de Finanças
 A Carteira Administrada <u>É UM SERVIÇO DE GESTÃO</u> de investimentos no qual o investidor contrata um gestor para cuidar especificamente dos seus recursos, desde a estratégia de alocação até o rebalanceamento (compra e venda de cada ativo que compõe a carteira). Desta forma, a tributação é a mesma de uma pessoa física sem este serviço, mantendo todos os benefícios de isenção de IR de produtos de Renda Fixa (LCI, LCA, CRI, CRA...) e do limite de venda de até R$ 20.000,00 por mês em ações. Além disso, a carteira administrada é moldada para as necessidades de cada cliente, sem ter que seguir regras rígidas como as da classificação de fundos.
 
 Portanto, diferentemente de aplicar em fundos de investimentos, na Carteira Administrada <u>o cliente é proprietário dos ativos diretamente</u> e não das cotas, como ocorre nos fundos. Outro ponto importante, é que a Carteira Administrada permite tanto a <u>Gestão Discricionária</u> (gestor toma as decisões sem consultar o cliente), quanto a <u>Não Discricionária</u> (quando há participação do cliente na tomada de decisão), tendo também um maior grau de liberdade para trabalhar derivativos.
-
-Logo da Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-45
-
-241

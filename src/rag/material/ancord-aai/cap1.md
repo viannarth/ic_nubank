@@ -14,32 +14,17 @@ Objetivo do Sistema Financeiro é facilitar a transferência de recursos entre o
 <tr><td>Menor Risco</td><td></td><td>Maior Risco</td></tr>
 <tr><td>Rentabilidade</td><td>LUCRO</td><td>Crédito</td></tr>
 </table>
-
-Logo da Academia de Finanças
-
-2
-Ancord – Agente Autônomo de Investimentos
-
-2
-
----
-
 # Sistema Financeiro Nacional
 
 ## Composição
 
 <table>
 <tr><th>Órgãos Normativos</th><th>Entidades Supervisoras</th><th>Principais Operadores</th></tr>
-<tr><td>CMN – Conselho Monetário Nacional</td><td>BACEN Banco Central do Brasil</td><td>➢ Instituições Financeiras: Bancos; Corretoras; Cooperativas de Crédito; Instituições não bancárias; etc.</td></tr>
-<tr><td></td><td>CVM – Comissão de Valores Mobiliários</td><td>➢ Bolsa de Valores, Mercadorias e Futuros (B3)</td></tr>
-<tr><td>CNSP – Conselho Nacional de Seguros Privados</td><td>SUSEP – Superintendência de Seguros Privados</td><td>➢ Seguradoras ➢ Resseguradoras ➢ EAPC - Entidades Abertas de Previdência Complementar ➢ Sociedades de Capitalização</td></tr>
-<tr><td>CNPC - Conselho Nacional de Previdência Complementar</td><td>PREVIC - Superintendência Nacional de Previdência Complementar</td><td>➢ EFPC - Entidades Fechadas de Previdência Complementar</td></tr>
+<tr><td>CMN – Conselho Monetário Nacional</td><td>BACEN Banco Central do Brasil</td><td> Instituições Financeiras: Bancos; Corretoras; Cooperativas de Crédito; Instituições não bancárias; etc.</td></tr>
+<tr><td></td><td>CVM – Comissão de Valores Mobiliários</td><td> Bolsa de Valores, Mercadorias e Futuros (B3)</td></tr>
+<tr><td>CNSP – Conselho Nacional de Seguros Privados</td><td>SUSEP – Superintendência de Seguros Privados</td><td> Seguradoras  Resseguradoras  EAPC - Entidades Abertas de Previdência Complementar  Sociedades de Capitalização</td></tr>
+<tr><td>CNPC - Conselho Nacional de Previdência Complementar</td><td>PREVIC - Superintendência Nacional de Previdência Complementar</td><td> EFPC - Entidades Fechadas de Previdência Complementar</td></tr>
 </table>
-
-Logo Rafael Toro Academia de Finanças
-
-Ancord – Agente Autônomo de Investimentos 3
-
 # Sistema Nacional de Seguros
 
 ## Resumo
@@ -52,15 +37,6 @@ Ancord – Agente Autônomo de Investimentos 3
 <tr><td>• Bancos • Corretoras CTVM • Distribuidoras • Cooperativas</td><td>• B3 S/A • Empresas Aberta • Sócio Controlador • Op. financeiras</td><td>• EAPC (Aberta) • Seguradora • Resseguradora</td><td>• EFPC (Fechada) • Fundos de Pensão</td></tr>
 <tr><td>Clientes</td><td>Sócio Minoritário Debenturista</td><td>Segurados</td><td>Participantes</td></tr>
 </table>
-
-Logo Rafael Toro Academia de Finanças
-
-Ancord – Agente Autônomo de Investimentos 4
-
-3
-
----
-
 # Conselho Monetário Nacional
 
 ## Conceito
@@ -71,54 +47,36 @@ Os membros se reúnem uma vez por mês para deliberarem sobre assuntos relaciona
 
 O Conselho Monetário Nacional é composto por 3 pessoas, que são:
 
-* ➢ **Ministro da Economia (Presidente do conselho);**
+*  **Ministro da Economia (Presidente do conselho);**
 
-* ➢ **Secretário Especial de Fazenda do Ministério da Economia;**
+*  **Secretário Especial de Fazenda do Ministério da Economia;**
 
-* ➢ **Presidente do Banco Central.**
-
-Logo Rafael Toro
-
-Ancord – Agente Autônomo de Investimentos
-
-5
-
+*  **Presidente do Banco Central.**
 # Conselho Monetário Nacional
 
 ## Principais Atribuições
 
 As principais atribuição ao Conselho Monetário Nacional são:
 
-* ➢ <u>**DEFINIR A META PARA A INFLAÇÃO (IPCA);**</u>
+*  <u>**DEFINIR A META PARA A INFLAÇÃO (IPCA);**</u>
 
-* ➢ <u>**Coordenar as políticas monetária, creditícia, orçamentária e da dívida pública interna e externa;**</u>
+*  <u>**Coordenar as políticas monetária, creditícia, orçamentária e da dívida pública interna e externa;**</u>
 
-* ➢ <u>**Disciplinar o crédito em todas as suas modalidades e as operações creditícias em todas as suas formas,**</u> inclusive aceites, avais e prestações de quaisquer garantias por parte das instituições financeiras;
+*  <u>**Disciplinar o crédito em todas as suas modalidades e as operações creditícias em todas as suas formas,**</u> inclusive aceites, avais e prestações de quaisquer garantias por parte das instituições financeiras;
 
-* ➢ Baixar normas que regulem as operações de câmbio, inclusive swaps, fixando limites, taxas, prazos e outras condições;
+*  Baixar normas que regulem as operações de câmbio, inclusive swaps, fixando limites, taxas, prazos e outras condições;
 
-* ➢ Fixar as diretrizes e normas da política cambial, inclusive a compra e venda de ouro e quaisquer operações em Direitos Especiais de Saque e em moeda estrangeira;
+*  Fixar as diretrizes e normas da política cambial, inclusive a compra e venda de ouro e quaisquer operações em Direitos Especiais de Saque e em moeda estrangeira;
 
-* ➢ Disciplinar as atividades das Bolsas de Valores e dos corretores de fundos públicos;
+*  Disciplinar as atividades das Bolsas de Valores e dos corretores de fundos públicos;
 
-* ➢ Limitar as taxas de juros, descontos, comissões entre outras, quando necessário;
+*  Limitar as taxas de juros, descontos, comissões entre outras, quando necessário;
 
-* ➢ Propiciar o aperfeiçoamento das instituições e dos instrumentos financeiros;
+*  Propiciar o aperfeiçoamento das instituições e dos instrumentos financeiros;
 
-* ➢ Regular a constituição, o funcionamento e a fiscalização de todas as instituições financeiras que operam no País, bem como a aplicação das penalidades previstas;
+*  Regular a constituição, o funcionamento e a fiscalização de todas as instituições financeiras que operam no País, bem como a aplicação das penalidades previstas;
 
-* ➢ Zelar pela liquidez e solvência das instituições financeiras.
-
-Logo Rafael Toro
-
-Ancord – Agente Autônomo de Investimentos
-
-6
-
-4
-
----
-
+*  Zelar pela liquidez e solvência das instituições financeiras.
 # Conselho Nacional de Seguros Privados
 
 ## Principais Atribuições
@@ -130,31 +88,24 @@ resseguro, das empresas de capitalização e das entidades de previdência abert
 
 **❑ PRINCIPAIS ATRIBUIÇÕES:**
 
-* ➢ Fixar diretrizes e normas da política de seguros privados;
+*  Fixar diretrizes e normas da política de seguros privados;
 
-* ➢ Fixar as características gerais dos contratos de seguro, previdência privada aberta,
+*  Fixar as características gerais dos contratos de seguro, previdência privada aberta,
 capitalização e resseguro;
 
-* ➢ Regular a constituição, organização, funcionamento e fiscalização dos que exercem
+*  Regular a constituição, organização, funcionamento e fiscalização dos que exercem
 atividades subordinadas ao SNSP (Sistema Nacional de Seguros Privados), bem como
 a aplicação das penalidades prevista;
 
-* ➢ Conhecer dos recursos de decisão da SUSEP e do IRB;
+*  Conhecer dos recursos de decisão da SUSEP e do IRB;
 
-* ➢ Estabelecer as diretrizes gerais das operações de resseguro;
+*  Estabelecer as diretrizes gerais das operações de resseguro;
 
-* ➢ Disciplinar a corretagem do mercado e a profissão do corretor;
+*  Disciplinar a corretagem do mercado e a profissão do corretor;
 
-* ➢ Prescrever os critérios de constituição das Sociedades Seguradoras, Capitalização,
+*  Prescrever os critérios de constituição das Sociedades Seguradoras, Capitalização,
 Entidades Abertas de Previdência Complementar e Resseguradoras, com fixação dos
 limites legais e técnicos das respectivas operações.
-
-Rafael Toro Academia de Finanças
-
-Ancord – Agente Autônomo de Investimentos
-
-7
-
 # Conselho Nacional de Previdência Complementar
 
 ## Principais Atribuições
@@ -170,17 +121,6 @@ Casa Civil da Presidência da República, do Ministério da Economia, das entida
 de previdência complementar, dos patrocinadores e instituidores de planos de benefícios
 das entidades fechadas de previdência complementar e dos participantes e assistidos de
 planos de benefícios das referidas entidades.
-
-Rafael Toro Academia de Finanças
-
-Ancord – Agente Autônomo de Investimentos
-
-8
-
-5
-
----
-
 # BACEN – Banco Central
 
 ## Conceito
@@ -206,13 +146,6 @@ No brasil, o BACEN (Banco Central do Brasil) é uma autarquia de natureza especi
 * Suavizar as flutuações do nível de atividade econômica;
 
 * Fomentar o pleno emprego.
-
-Logo Rafael Tor
-
-Ancord – Agente Autônomo de Investimentos
-
-9
-
 # BACEN – Banco Central
 
 ## Lei Complementar Nº 179
@@ -228,51 +161,33 @@ Em 24 de fevereiro de 2021, sob a leu complementar nº 179, foi definido os novo
 * <u>O mandato do Presidente do Banco Central do Brasil terá duração de 4 (quatro) anos</u>, com início no dia 1º de janeiro do terceiro ano de mandato do Presidente da República, ou seja, <u>não é concomitante ao do Presidente da República</u>.
 
 * Presidente do Banco Central do Brasil deverá <u>apresentar, no Senado Federal</u>, em arguição pública, <u>no primeiro e no segundo semestres de cada ano</u>, relatório de inflação e <mark>relatório de estabilidade financeira</mark>, explicando as decisões tomadas no semestre anterior.
-
-Logo Rafael Tor
-
-Ancord – Agente Autônomo de Investimentos
-
-10
-
-6
-
----
-
 # BACEN – Banco Central
 
 ## Principais Atribuições
 
 As principais atribuições do Banco Central são:
 
-* ➢ <u>EMITIR PAPEL-MOEDA;</u>
+*  <u>EMITIR PAPEL-MOEDA;</u>
 
-* ➢ <u>EXECUTAR AS DIRETRIZES E NORMAS DO CMN;</u>
+*  <u>EXECUTAR AS DIRETRIZES E NORMAS DO CMN;</u>
 
-* ➢ <u>REALIZAR OPERAÇÕES DE REDESCONTO E DEFINIR SUA TAXA;</u>
+*  <u>REALIZAR OPERAÇÕES DE REDESCONTO E DEFINIR SUA TAXA;</u>
 
-* ➢ <u>Administrar</u> o Sistema de Pagamentos Brasileiro (SPB) e o meio circulante;
+*  <u>Administrar</u> o Sistema de Pagamentos Brasileiro (SPB) e o meio circulante;
 
-* ➢ <u>Autorizar e fiscalizar</u> o funcionamento das <u>instituições financeiras(*) e aplicar as devidas penalidades</u>, ou seja, é o supervisor destas instituições;
+*  <u>Autorizar e fiscalizar</u> o funcionamento das <u>instituições financeiras(*) e aplicar as devidas penalidades</u>, ou seja, é o supervisor destas instituições;
 
-* ➢ <u>Controlar</u> o fluxo de capitais estrangeiros;
+*  <u>Controlar</u> o fluxo de capitais estrangeiros;
 
-* ➢ <u>Determinar e Receber</u> os recolhimentos compulsórios dos bancos;
+*  <u>Determinar e Receber</u> os recolhimentos compulsórios dos bancos;
 
-* ➢ <u>Executar (conduzir)</u> as políticas monetárias e cambiais, como por exemplo, efetuar operações de compra e venda de <u>títulos</u> públicos federais;
+*  <u>Executar (conduzir)</u> as políticas monetárias e cambiais, como por exemplo, efetuar operações de compra e venda de <u>títulos</u> públicos federais;
 
-* ➢ <u>Exercer</u> o controle do crédito sob todas as suas formas;
+*  <u>Exercer</u> o controle do crédito sob todas as suas formas;
 
-* ➢ <u>Regular</u> e administrar o Sistema Financeiro Nacional.
+*  <u>Regular</u> e administrar o Sistema Financeiro Nacional.
 
 Também é de responsabilidade do BACEN a conceder a autorização para a prática de operações no mercado de câmbio as instituições financeiras que desejarem (bancos, caixas econômicas, agências de fomento, sociedades de crédito, financiamento e investimento, sociedades corretoras de câmbio, DTVMs e CTVMs).
-
-Logo Rafael Toro
-
-11
-
-Ancord – Agente Autônomo de Investimentos
-
 # CVM – Comissão de Valores Mobiliários
 
 ## Conceito
@@ -281,46 +196,30 @@ Conforme a Lei nº 10.411, a CVM é uma entidade autárquica em regime especial,
 
 ❑ **RESUMO:**
 
-* ➢ Entidade autárquica, vinculada ao governo através do Ministério da Economia;
+*  Entidade autárquica, vinculada ao governo através do Ministério da Economia;
 
-* ➢ O presidente e seus diretores são escolhidos pelo Presidente da República;
+*  O presidente e seus diretores são escolhidos pelo Presidente da República;
 
-* ➢ Órgão supervisor voltado para o fortalecimento e o desenvolvimento do mercado de títulos e valores mobiliários (<u>ações, debêntures, bônus de subscrição, derivativos, venda de mercadorias, fundos de investimentos</u>).
-
-Logo Rafael Toro
-
-12
-
-Ancord – Agente Autônomo de Investimentos
-
-7
-
----
-
+*  Órgão supervisor voltado para o fortalecimento e o desenvolvimento do mercado de títulos e valores mobiliários (<u>ações, debêntures, bônus de subscrição, derivativos, venda de mercadorias, fundos de investimentos</u>).
 # CVM – Comissão de Valores Mobiliários
 
 ## <u>Principais Atribuições</u>
 
 As principais atribuições da CVM são:
 
-* ➢ <u>PROTEGER OS INVESTIDORES DE VALORES MOBILIÁRIOS;</u>
+*  <u>PROTEGER OS INVESTIDORES DE VALORES MOBILIÁRIOS;</u>
 
-* ➢ Assegurar a lisura nas operações de compra e venda de valores mobiliários (emissão fraudulenta, manipulação de preços e outros atos ilegais);
+*  Assegurar a lisura nas operações de compra e venda de valores mobiliários (emissão fraudulenta, manipulação de preços e outros atos ilegais);
 
-* ➢ <u>Assegurar</u> o funcionamento das Bolsas de Valores e Mercado de Balcão Organizado;
+*  <u>Assegurar</u> o funcionamento das Bolsas de Valores e Mercado de Balcão Organizado;
 
-* ➢ Fiscalizar permanentemente as atividades e os serviços do mercado de valores mobiliários, tais como as operações na Bolsa de Valores (B3);
+*  Fiscalizar permanentemente as atividades e os serviços do mercado de valores mobiliários, tais como as operações na Bolsa de Valores (B3);
 
-* ➢ Fiscalizar a intermediação das operações Corretoras e Distribuidoras de Valores Mobiliários e dos Fundos de Investimentos;
+*  Fiscalizar a intermediação das operações Corretoras e Distribuidoras de Valores Mobiliários e dos Fundos de Investimentos;
 
-* ➢ <u>Fiscalizar </u><u>inspecionar as companhias abertas (S/A)</u> dada prioridade às que não apresentem lucro em balanço ou às que deixem de pagar o dividendo mínimo obrigatório;
+*  <u>Fiscalizar </u><u>inspecionar as companhias abertas (S/A)</u> dada prioridade às que não apresentem lucro em balanço ou às que deixem de pagar o dividendo mínimo obrigatório;
 
-* ➢ Propor ao Conselho Monetário Nacional a eventual fixação de limites máximos de preço, comissões, emolumentos e quaisquer outras vantagens cobradas pelos intermediários do mercado.
-
-Rafael Tor Academia de Finanças logo
-
-Ancord – Agente Autônomo de Investimentos 13
-
+*  Propor ao Conselho Monetário Nacional a eventual fixação de limites máximos de preço, comissões, emolumentos e quaisquer outras vantagens cobradas pelos intermediários do mercado.
 # SUSEP – Superintendência de Seguros Privados
 
 ## <u>Conceito</u>
@@ -328,15 +227,6 @@ Ancord – Agente Autônomo de Investimentos 13
 A <u>SUSEP (Superintendência de Seguros Privados)</u>, uma autarquia vinculada ao Ministério da Economia, <u>é o órgão supervisor responsável pelo controle e fiscalização dos mercados de seguro, previdência privada aberta, capitalização e resseguro</u>.
 
 As Previdências Privadas Abertas, também são chamadas de EAPCs (<u>Entidades Abertas</u> de Previdência Complementar), que são todas as previdências “abertas ao público”, ou seja, que qualquer pessoa física possa aderir um devido plano. Esta ênfase é de suma importância para a prova para que você não confunda com as <u>EFPCs (Entidades FECHADAS)</u>, também conhecidas como fundos de pensão, e que são fiscalizadas pela <u>PREVIC</u>.
-
-Rafael Tor Academia de Finanças logo
-
-Ancord – Agente Autônomo de Investimentos 14
-
-8
-
----
-
 # SUSEP – Superintendência de Seguros Privados
 
 ## Principais Atribuições
@@ -360,13 +250,6 @@ As principais atribuições da SUSEP são:
 * Prover os serviços de Secretaria Executiva do CNSP.
 
 * Zelar pela liquidez e solvência das sociedades que integram o mercado.
-
-Logo Rafael Toro
-
-Ancord – Agente Autônomo de Investimentos
-
-15
-
 # PREVIC
 
 ## Conceito
@@ -384,17 +267,6 @@ A Superintendência Nacional de Previdência Complementar (Previc) é uma autarq
 * Nomear administrador especial de plano de benefícios específico, podendo atribuir-lhe poderes de intervenção e liquidação extrajudicial, na forma da lei;
 
 * Promover a mediação e a conciliação entre entidades fechadas de previdência complementar e entre as entidades e seus participantes, assistidos, patrocinadores ou instituidores.
-
-Logo Rafael Toro
-
-Ancord – Agente Autônomo de Investimentos
-
-16
-
-9
-
----
-
 # Tesouro Nacional
 
 ## Conceito
@@ -402,13 +274,6 @@ Ancord – Agente Autônomo de Investimentos
 O <mark>Tesouro Nacional</mark> é o órgão do Ministério da Economia <mark>responsável por garantir que os recursos arrecadados serão distribuídos conforme o orçamento</mark>. A instituição busca caminhos para que os gastos ocorram com qualidade, acompanhamento e controle. Essa responsabilidade faz com que o Tesouro leve sempre em consideração a sustentabilidade das contas públicas brasileiras.
 
 O Tesouro Nacional é como se fosse o caixa do governo. Ele recebe o dinheiro arrecadado pela Receita Federal e outros órgãos e faz a gestão destes recursos para cumprir o orçamento público, que é um planejamento dos gastos do governo. Quem faz a gestão disso é a Secretaria do Tesouro Nacional (STN), órgão da Secretaria-Especial de Fazenda, subordinado ao Ministério da Economia.
-
-Rafael Toro Academia de Finanças
-
-Ancord – Agente Autônomo de Investimentos
-
-17
-
 # Sistema Financeiro Nacional
 
 ## Resumo
@@ -422,11 +287,3 @@ Ancord – Agente Autônomo de Investimentos
 * ❑ **SUSEP**: É o BACEN do Sistema Nacional de Seguros Privados, capitalização e previdência complementar <mark>ABERTA!</mark>
 
 * ❑ **PREVIC**: Entidades <mark>FECHADAS</mark> de previdência complementar.
-
-Rafael Toro Academia de Finanças
-
-Ancord – Agente Autônomo de Investimentos
-
-18
-
-10

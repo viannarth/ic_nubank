@@ -1,4 +1,4 @@
-from utils.config import MATERIAL_TOPICS
+from src.utils.config import MATERIAL_TOPICS
 from llama_cloud import LlamaCloud, LlamaCloudError
 from dotenv import load_dotenv
 from pathlib import Path
@@ -10,18 +10,22 @@ def clean_markdown(text: str, exam:str) -> str:
     text = re.sub(r"(?i)Logo\s*(?:da\s*)?Rafael\s*Tor[o]?\s*Academia\s*de\s*Finanças(?:\s*logo)?", "", text)
     text = re.sub(r"(?i)Logo\s*(?:da\s*)?Rafael\s*Tor[o]?", "", text)
     text = re.sub(r"(?i)Rafael\s*Tor[o]?\s*Academia\s*de\s*Finanças(?:\s*logo)?", "", text)
+    text = re.sub(r"(?i)Logo\s*(?:da\s*)?\s*Academia\s*de\s*Finanças(?:\s*logo)?", "", text)
+    text = re.sub(r"(?i)Rafael\s*Tor[o]?\s*", "", text)
+    text = re.sub(r"(?i)A[Cc][Aa][Dd][Ee][Mm][Ii][Aa]\s*[Dd][Ee]\s*F[Ii][Nn][Aa][Nn][Çç][Aa][Ss](?:\s*logo)?", "", text)
+    text = re.sub(r"(?i)Logo\s*", "", text)
 
     # Remove footer
     footer_pattern = {
-        "cpa-10": r"(?i)Apostila\s*2025\s*\d*\s*CPA.*10\s*.*\s*Certificação\s*Profissional\s*ANBIMA\s*Série\s*10\s*\d*",
-        "ancord-aai": r"(?i)A[nN][cC][oO][rR][dD].*Agente\s*Autônomo\s*de\s*Investimentos\d*"
+        "cpa-10": r"(?i)Apostila\s*2025\s*\d*\s*\d*\s*(?:CPA.*10\s*)?.*(?:\s*Certificação\s*Profissional\s*ANBIMA\s*Série\s*10)?\s*\d*",
+        "ancord-aai": r"(?i)A[nN][cC][oO][rR][dD].*(?:Agente\s*Autônomo)?(?:Assessor)?\s*de\s*Inves[ti]*mentos\s*\d*"
     }
     text = re.sub(footer_pattern[exam], "", text)
     
-    # Remove blocks of blank lines and unwated characters
-    text = re.sub(r"\n\s*\d+\s*\n", "\n", text)
+    # Remove blocks of blank lines and unwanted characters
+    text = re.sub(r"\n\s*\d+\s*[\n]*", "\n", text)
     text = re.sub(r"\n{3,}", "\n\n", text)
-    text = re.sub(r"\u27A2", "", text)
+    text = re.sub(r"\n---\n", "", text)
 
     return text.strip()
 
@@ -29,8 +33,8 @@ def clean_markdown(text: str, exam:str) -> str:
 def main() -> None: 
 
     # Toogle the exam
-    exam = "ancord-aai"
-    # exam = "cpa-10"
+    # exam = "ancord-aai"
+    exam = "cpa-10"
     
     # Retrieve the LLAMA_CLOUD_API_KEY from dotenv file
     load_dotenv(dotenv_path="config.env")

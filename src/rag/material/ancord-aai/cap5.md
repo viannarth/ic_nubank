@@ -12,38 +12,21 @@ A fórmula básica desta compreensão da matemática é que o montante acumulado
 
 Valor Futuro (Montante) = Valor Presente (Principal) + **JUROS**
 
-Logo
-
-2
-
-ANCORD – Agente Autônomo de Investimentos
-
-43
-
----
-
 # Matemática Financeira
 
 ## Definições
 
 As principais definições para este início são:
 
-* ➢ <u>CAPITAL (C)</u>: Também chamado de Valor Presente (PV), representa o valor do dinheiro hoje. Este valor pode ser de um investimento, dívida ou empréstimo.
+*  <u>CAPITAL (C)</u>: Também chamado de Valor Presente (PV), representa o valor do dinheiro hoje. Este valor pode ser de um investimento, dívida ou empréstimo.
 
-* ➢ <u>JUROS (J)</u>: Representam os valores gerados pela remuneração do capital inicial. Podemos dizer que eles são o custo do dinheiro, podendo ser gerados por uma aplicação (ou empréstimo) ou ainda pela diferença entre o valor à vista e o valor pago prazo de uma compra, ou até mesmo de um pagamento de um tributo. Aqui entrará os <u>TIPOS DE JUROS</u> (Juros Simples ou Juros Compostos).
+*  <u>JUROS (J)</u>: Representam os valores gerados pela remuneração do capital inicial. Podemos dizer que eles são o custo do dinheiro, podendo ser gerados por uma aplicação (ou empréstimo) ou ainda pela diferença entre o valor à vista e o valor pago prazo de uma compra, ou até mesmo de um pagamento de um tributo. Aqui entrará os <u>TIPOS DE JUROS</u> (Juros Simples ou Juros Compostos).
 
-* ➢ <u>TAXA DE JUROS (i)</u>: É o percentual aplicado sobre os fluxos de caixa, também chamado de custo ou remuneração do dinheiro. Ela sempre será associada a um certo prazo (n), podendo ser ao dia, ao mês, ao bimestre, ao ano...
+*  <u>TAXA DE JUROS (i)</u>: É o percentual aplicado sobre os fluxos de caixa, também chamado de custo ou remuneração do dinheiro. Ela sempre será associada a um certo prazo (n), podendo ser ao dia, ao mês, ao bimestre, ao ano...
 
-* ➢ <u>PRAZO (n)</u>: é o tempo do “problema” apresentado. Vale ressaltar que no momento do cálculo, o prazo (n) e a taxa de juros (i) devem estar no mesmo período. Por exemplo, 2% ao mês aplicados por 24 meses (e não em 2 anos).
+*  <u>PRAZO (n)</u>: é o tempo do “problema” apresentado. Vale ressaltar que no momento do cálculo, o prazo (n) e a taxa de juros (i) devem estar no mesmo período. Por exemplo, 2% ao mês aplicados por 24 meses (e não em 2 anos).
 
-* ➢ <u>MONTANTE (M)</u>: Também chamado de Valor Futuro (FV), representa o capital inicial, mais os juros acrescidos.
-
-Logo Rafael Toro Academia de Finanças
-
-3
-
-ANCORD – Agente Autônomo de Investimentos
-
+*  <u>MONTANTE (M)</u>: Também chamado de Valor Futuro (FV), representa o capital inicial, mais os juros acrescidos.
 # Matemática Financeira
 
 ## Fluxo de Caixa (Cash Flow)
@@ -63,22 +46,11 @@ ANCORD – Agente Autônomo de Investimentos
 
 ## CONVENÇÃO:
 
-* ➢ <u>Seta para cima: Entrada</u> de recursos, ou seja, resgates de aplicações e tomadas de empréstimos;
+*  <u>Seta para cima: Entrada</u> de recursos, ou seja, resgates de aplicações e tomadas de empréstimos;
 
-* ➢ <u>Seta para baixo: Saída</u> de recursos, ou seja, aplicações financeiras e pagamentos de dívidas.
+*  <u>Seta para baixo: Saída</u> de recursos, ou seja, aplicações financeiras e pagamentos de dívidas.
 
 Os números 0, 1, 2, 3, 4 e 5 representam os períodos de tempo, sendo <u>saída em 0</u> (seta para baixo) e <u>entrada dos recursos em 5</u> (seta para cima).
-
-Logo Rafael Toro Academia de Finanças
-
-4
-
-ANCORD – Agente Autônomo de Investimentos
-
-44
-
----
-
 # Regimes de Capitalização: Juros Simples
 
 ## <u>Conceito</u>
@@ -104,13 +76,6 @@ Sendo que:
 * i = taxa de juros
 
 * n = prazo ou período
-
-Logo Rafael Toro Academia de Finanças
-
-5
-
-ANCORD – Agente Autônomo de Investimentos
-
 # Regimes de Capitalização: Juros Simples
 
 ## <u>Exemplo</u>
@@ -127,37 +92,19 @@ Para facilitar o entendimento, vamos demonstrar o crescimento do valor aplicado,
 <tr><td>Após 3 anos</td><td>100.000 + (3 × 0,10) × 100.000 = 130.000</td></tr>
 <tr><td>Após 4 anos</td><td>100.000 + (4 × 0,10) × 100.000 = 140.000</td></tr>
 </table>
-
-Logo Rafael Toro Academia de Finanças
-
-6
-
-ANCORD – Agente Autônomo de Investimentos
-
-45
-
----
-
 # Regimes de Capitalização: Juros Simples
 
 ## <u>Exemplo</u>
 
 ❑ **EXEMPLO:** Qual a taxa anual que devemos ter para obter R$ 40.000,00 de juros após 4 anos , se aplicarmos R$ 100.000,00 no Regime de Capitalização Simples?
 
-➢ (1) J = C x i x n
+ (1) J = C x i x n
 
-➢ (2) R$ 40.000,00 = R$ 100.000,00 × i × 4 anos
+ (2) R$ 40.000,00 = R$ 100.000,00 × i × 4 anos
 
-➢ (3) i = R$ 40.000,00 / R$ 100.000,00 × 4 ANOS
+ (3) i = R$ 40.000,00 / R$ 100.000,00 × 4 ANOS
 
-➢ (4) i = 0,10 = 10% a.a
-
-Logo Rafael Tor Academia de Finanças
-
-ANCORD – Agente Autônomo de Investimentos
-
-7
-
+ (4) i = 0,10 = 10% a.a
 # Regimes de Capitalização: Juros Simples
 
 ## <u>Proporcionalidade de Taxas</u>
@@ -166,24 +113,13 @@ Em <mark>JUROS SIMPLES</mark>, usamos <mark>TAXA PROPORCIONAL</mark>. Isso signi
 
 ❑ <u>EXEMPLO:</u> Calcular a taxa mensal proporcional a 30% ao ano?
 
-➢ Primeiro passo é reduzir o tempo a uma mesma unidade (1 ano = 12 meses).
+ Primeiro passo é reduzir o tempo a uma mesma unidade (1 ano = 12 meses).
 
-➢ Depois, fazemos a “Regra de Três”:
+ Depois, fazemos a “Regra de Três”:
 
 ▪ 30% está para 12 meses, assim como X está para 1 mês, ou seja:
 
 $$ \frac{30\%}{12} = \frac{x}{1} \rightarrow x = 2,5\%  ao mês $$
-
-Logo Rafael Tor Academia de Finanças
-
-ANCORD – Agente Autônomo de Investimentos
-
-8
-
-46
-
----
-
 # Regimes de Capitalização: Juros Simples
 
 ## <u>Desconto Bancário e Comercial</u>
@@ -195,13 +131,6 @@ Desconto = (Valor Nominal) × (Taxa de juros) × (Prazo)
 Para saber o valor que o cliente está antecipando, basta agora subtrair o “Desconto” do valor nominal (valor futuro):
 
 Valor Presente = (Valor Nominal) ‒ Desconto
-
-Logo Rafael Toro Academia de Finanças
-
-9
-
-ANCORD – Agente Autônomo de Investimentos
-
 # Regimes de Capitalização: Juros Simples
 
 ## <u>Desconto Bancário e Comercial</u>
@@ -210,30 +139,19 @@ ANCORD – Agente Autônomo de Investimentos
 
 (1) Primeiramente, devemos calcular o valor do desconto:
 
-➢ Desconto = (Valor Nominal) × (Taxa de juros) × (Prazo)
+ Desconto = (Valor Nominal) × (Taxa de juros) × (Prazo)
 
-➢ Desconto = (R$ 3.000,00) × (2% ao mês) × (6 meses)
+ Desconto = (R$ 3.000,00) × (2% ao mês) × (6 meses)
 
-➢ <u>Resposta: Desconto = R$ 360,00</u>
+ <u>Resposta: Desconto = R$ 360,00</u>
 
 (2) A partir do desconto, subtraímos este resultado do valor nominal
 
-➢ Valor Presente = (Valor nominal) – (Desconto)
+ Valor Presente = (Valor nominal) – (Desconto)
 
-➢ Valor Presente = 3.000,00 – R$ 360,00
+ Valor Presente = 3.000,00 – R$ 360,00
 
-➢ <u>Resposta: Valor Presente = R$ 2.640,00</u>
-
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Agente Autônomo de Investimentos
-
-10
-
-47
-
----
-
+ <u>Resposta: Valor Presente = R$ 2.640,00</u>
 # Regimes de Capitalização: Juros Simples
 
 ## <u>Desconto Bancário e Comercial: Gráfico</u>
@@ -246,12 +164,6 @@ ANCORD – Agente Autônomo de Investimentos
 <tr><td>P</td><td>P</td></tr>
 <tr><td>n (período de antecipação)</td><td>n</td></tr>
 </table>
-
-Logo da Academia de Finanças
-
-11
-
-ANCORD – Agente Autônomo de Investimentos
 
 # Regimes de Capitalização: Juros Compostos
 
@@ -272,17 +184,6 @@ Sendo que:
 ▪ i = taxa de juros
 
 ▪ n = prazo ou período
-
-Logo da Academia de Finanças
-
-12
-
-ANCORD – Agente Autônomo de Investimentos
-
-48
-
----
-
 # Regimes de Capitalização: Juros Compostos
 
 ## Exemplo
@@ -299,13 +200,6 @@ Para facilitar o entendimento, vamos demonstrar o crescimento do valor aplicado,
 <tr><td>Após 3 anos</td><td>121.000 + (0,10) × 121.000 = 133.100</td></tr>
 <tr><td>Após 4 anos</td><td>133.100 + (0,10) × 133.100 = 146.410</td></tr>
 </table>
-
-Rafael Toro Academia de Finanças
-
-ANCORD – Agente Autônomo de Investimentos
-
-13
-
 # Regimes de Capitalização: Juros Compostos
 
 ## Exemplo: HP 12C
@@ -314,50 +208,34 @@ ANCORD – Agente Autônomo de Investimentos
 
 ❑ **RESPOSTA:**
 
-➢ (1) Zerar os registros da HP 12C! Pressione [f][CLX]
+ (1) Zerar os registros da HP 12C! Pressione [f][CLX]
 
-➢ (2) Digite [100.000] [CHS] e pressione [PV] → aplicação = saída de caixa
+ (2) Digite [100.000] [CHS] e pressione [PV] → aplicação = saída de caixa
 
-➢ (3) Digite [500.000] e pressione [FV] → recebimento = entrada de caixa
+ (3) Digite [500.000] e pressione [FV] → recebimento = entrada de caixa
 
-➢ (4) Digite [5] e pressione [n]
+ (4) Digite [5] e pressione [n]
 
-➢ (5) Aperte [i]
+ (5) Aperte [i]
 
-➢ <mark>Resposta: 37,97% ao ano</mark>
+ <mark>Resposta: 37,97% ao ano</mark>
 
 ❑ **OBS:** sabemos que a taxa está em ano, pois o prazo (n) foi inserido em anos: 5 anos. O prazo e a taxa **SEMPRE** devem estar no mesmo período (taxa em ano, prazo em ano; prazo em dias, taxa em dias).
-
-Rafael Toro Academia de Finanças
-
-ANCORD – Agente Autônomo de Investimentos
-
-14
-
-49
-
----
-
 # Série de Pagamentos (PMT)
 
 ## Conceito
 
 Séries de pagamentos, também chamadas de renda certa ou **ANUIDADE**, são nomes dados à sequência de pagamentos, que tem por objetivo a quitação de empréstimos (amortização) de forma parcelada, ou a formação de um montante (capitalização) para utilização futura. Elas podem ser:
 
-* ➢ **Finitas**: no caso de existir uma última prestação;
+*  **Finitas**: no caso de existir uma última prestação;
 
-* ➢ Infinitas (**Perpetuidade**): quando NÃO existir uma última prestação.
+*  Infinitas (**Perpetuidade**): quando NÃO existir uma última prestação.
 
 Em relação ao vencimento de seus termos, possuímos também dois casos:
 
-* ➢ **ANTECIPADAS**: quando os termos posicionam-se no **INÍCIO** de cada período. Para utilizarmos os cálculos desta forma, devemos clicar nas teclas [g][7], o que fará surgir no visor da HP-12C a sigla “BEG” de begin (início);
+*  **ANTECIPADAS**: quando os termos posicionam-se no **INÍCIO** de cada período. Para utilizarmos os cálculos desta forma, devemos clicar nas teclas [g][7], o que fará surgir no visor da HP-12C a sigla “BEG” de begin (início);
 
-* ➢ **POSTECIPADAS**: quando os termos posicionam-se no **FINAL** de cada período. Para utilizarmos os cálculos desta forma, devemos clicar nas teclas [g][8]. Importante notar que não surgirá nenhuma informação no visor, ou seja, se não estiver mostrando no visor a palavra “BEG”, significa que os cálculos estarão sendo feitos de forma postecipada.
-
-Logo da Rafael Toro Academia de Finanças
-
-ANCORD – Agente Autônomo de Investimentos 15
-
+*  **POSTECIPADAS**: quando os termos posicionam-se no **FINAL** de cada período. Para utilizarmos os cálculos desta forma, devemos clicar nas teclas [g][8]. Importante notar que não surgirá nenhuma informação no visor, ou seja, se não estiver mostrando no visor a palavra “BEG”, significa que os cálculos estarão sendo feitos de forma postecipada.
 # Série de Pagamentos (PMT)
 
 ## Exemplo 1
@@ -366,28 +244,19 @@ ANCORD – Agente Autônomo de Investimentos 15
 
 ❑ **RESPOSTA**:
 
-* ➢ (1) Zerar os registros da HP 12C! Pressione [f][CLX]
+*  (1) Zerar os registros da HP 12C! Pressione [f][CLX]
 
-* ➢ (2) Digite [200.000][CHS] e pressione [PV]
+*  (2) Digite [200.000][CHS] e pressione [PV]
 
-* ➢ (3) Digite [0,5] e pressione [i]
+*  (3) Digite [0,5] e pressione [i]
 
-* ➢ (4) Digite [20] e [ENTER], digite [12], pressione [x] e pressione [n]
+*  (4) Digite [20] e [ENTER], digite [12], pressione [x] e pressione [n]
 
-* ➢ (5) Digite [1.000.000] e pressione [FV]
+*  (5) Digite [1.000.000] e pressione [FV]
 
-* ➢ (6) Aperte [PMT]
+*  (6) Aperte [PMT]
 
-* ➢ **Resposta**: – R$ 731,45
-
-Logo da Rafael Toro Academia de Finanças
-
-ANCORD – Agente Autônomo de Investimentos 16
-
-50
-
----
-
+*  **Resposta**: – R$ 731,45
 # Série de Pagamentos (PMT)
 
 ## Observações Importantes 1
@@ -395,13 +264,6 @@ ANCORD – Agente Autônomo de Investimentos 16
 Normalmente, em casos de acumulação para retirada futura, Valor Presente (PV) e Pagamentos (PMT) têm o mesmo sinal. Consequentemente, o Valor Futuro (FV) terá sinal contrário.
 
 Diagrama de fluxo de caixa com valor presente, pagamentos mensais e valor futuro
-
-Logo Rafael Toro
-
-ANCORD – Agente Autônomo de Investimentos
-
-17
-
 # Série de Pagamentos (PMT)
 
 ## Exemplo 2
@@ -410,30 +272,19 @@ ANCORD – Agente Autônomo de Investimentos
 
 ❑ **RESPOSTA:**
 
-➢ (1) Zerar os registros da HP 12C! Pressione [f][CLX]
+ (1) Zerar os registros da HP 12C! Pressione [f][CLX]
 
-➢ (2) Digite [200.000][CHS] e pressione [PV]
+ (2) Digite [200.000][CHS] e pressione [PV]
 
-➢ (3) Digite [2] e pressione [i]
+ (3) Digite [2] e pressione [i]
 
-➢ (4) Digite [20] e [ENTER], digite [12], pressione [x] e pressione [n]
+ (4) Digite [20] e [ENTER], digite [12], pressione [x] e pressione [n]
 
-➢ (5) Digite [1.000.000] e pressione [FV]
+ (5) Digite [1.000.000] e pressione [FV]
 
-➢ (6) Aperte [PMT]
+ (6) Aperte [PMT]
 
-➢ <mark>Resposta: + R$ 3.860,73</mark>
-
-Logo Rafael Toro
-
-ANCORD – Agente Autônomo de Investimentos
-
-18
-
-51
-
----
-
+ <mark>Resposta: + R$ 3.860,73</mark>
 # Série de Pagamentos (PMT)
 
 ## <u>Observações Importantes 2</u>
@@ -441,13 +292,6 @@ ANCORD – Agente Autônomo de Investimentos
 Neste caso, ao invés de Rafael necessitar aportar, ele poderá resgatar todos os meses R$ 3.860,73 e mesmo assim chegará no objetivo de R$ 1.000.000,00 em 20 anos. Este é um exemplo claro de que devemos <u>SEMPRE</u> fazer o fluxo de caixa, já que normalmente o PV e o PMT possuem o mesmo sinal, o que poderia nos levar ao equívoco da questão.
 
 Fluxo de caixa com R$ 3.860,73 de resgate mensal, objetivo de R$ 1.000.000,00 em 240 meses, taxa de 2,00 a.m. e aporte inicial de -R$ 200.000
-
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Agente Autônomo de Investimentos
-
-19
-
 # Série de Pagamentos (PMT)
 
 ## <u>Exemplo 3</u>
@@ -456,32 +300,21 @@ ANCORD – Agente Autônomo de Investimentos
 
 ❑ **RESPOSTA:**
 
-➢ Zerar os registros da HP 12C! Pressione [f][CLX]
+ Zerar os registros da HP 12C! Pressione [f][CLX]
 
-➢ Digite [500.000] e pressione [PV]
+ Digite [500.000] e pressione [PV]
 
-➢ Digite [0,5] e pressione [i]
+ Digite [0,5] e pressione [i]
 
-➢ Digite [30] e [ENTER], digite [12], pressione [x] e pressione [n]
+ Digite [30] e [ENTER], digite [12], pressione [x] e pressione [n]
 
-➢ Digite [0] e pressione [FV]
+ Digite [0] e pressione [FV]
 
-➢ Aperte [PMT]
+ Aperte [PMT]
 
-➢ <mark>Resposta: - R$ 2.997,75</mark>
+ <mark>Resposta: - R$ 2.997,75</mark>
 
 ❑ **OBSERVAÇÃO:** quando uma das variáveis for zero, não é necessário inseri-la. No entanto, sempre teremos as 5 variáveis: [n], [i], [PV], [PMT] e [FV]
-
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Agente Autônomo de Investimentos
-
-20
-
-52
-
----
-
 # Série de Pagamentos (PMT)
 
 ## Observações Importantes 3
@@ -489,13 +322,6 @@ ANCORD – Agente Autônomo de Investimentos
 Quando uma pessoa toma uma empréstimo, este recurso entra na conta corrente (ou seja, um valor positivo). Assim, as parcelas pagas serão negativas. Outro ponto importante é: o final de uma dívida é zero, portanto, o FV será igual a zero (salve exceções).
 
 Diagrama de fluxo de caixa mostrando um valor inicial de R$ 500.000, uma taxa de juros de 0,5 a.m. por 360 meses, com parcelas de -R$ 2.997,75 e valor final de R$ 0,00
-
-Logo da Rafael Toro Academia de Finanças
-
-21
-
-ANCORD – Agente Autônomo de Investimentos
-
 # Série de Pagamentos (PMT)
 
 ## Exemplo (Postecipado)
@@ -504,32 +330,21 @@ ANCORD – Agente Autônomo de Investimentos
 
 ❑ **RESPOSTA:**
 
-➢ (1) Zerar os registros da HP 12C! Pressione [f][CLX]
+ (1) Zerar os registros da HP 12C! Pressione [f][CLX]
 
-➢ (2) Pressione [g] e depois [8] → Informa a função <u>“END”</u> (depósitos postecipados)
+ (2) Pressione [g] e depois [8] → Informa a função <u>“END”</u> (depósitos postecipados)
 
-➢ (3) Digite [6] e pressione [n]
+ (3) Digite [6] e pressione [n]
 
-➢ (4) Digite [1] e pressione [i]
+ (4) Digite [1] e pressione [i]
 
-➢ (5) Digite [400][CHS] e pressione [PMT]
+ (5) Digite [400][CHS] e pressione [PMT]
 
-➢ (6) Aperte [FV]
+ (6) Aperte [FV]
 
-➢ <u>Resposta: R$ 2.460,81 ao mês</u>
+ <u>Resposta: R$ 2.460,81 ao mês</u>
 
 ❑ **OBSERVAÇÃO:** Se a Hp-12C não mostrar no visor a palavra “<u>BEGIN</u>” é porque ela já está na função postecipada (<u>END</u>). Vale ressaltar que as funções “<u>BEGIN</u>” e “<u>END</u>” somente terão impactos quando o PMT for diferente de zero.
-
-Logo da Rafael Toro Academia de Finanças
-
-22
-
-ANCORD – Agente Autônomo de Investimentos
-
-53
-
----
-
 # Série de Pagamentos (PMT)
 
 ## <u>Exemplo (Postecipado - Gráfico)</u>
@@ -537,13 +352,6 @@ ANCORD – Agente Autônomo de Investimentos
 Neste gráfico fica claro como a HP-12C trabalha com as parcelas postecipadas, com a primeira parcela ocorrendo no período 1 (no nosso exemplo, um mês após a assinatura do plano de previdência). Outro ponto importante, é perceber que a última parcela entrará junto com o valor final (FV).
 
 Taxa de juros (i) = 1% a.m. R$ 2.460,81 0 1 2 3 4 5 6 - 400 - 400 - 400 - 400 - 400 - 400
-
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Agente Autônomo de Investimentos
-
-23
-
 # Série de Pagamentos (PMT)
 
 ## <u>Exemplo (Postecipado - Tabela)</u>
@@ -560,17 +368,6 @@ Através desta tabela, podemos perceber como a HP-12C chegou no valor final (FV)
 <tr><td>5</td><td>R$ 400,00</td><td>R$ 16,24</td><td>R$ 2.040,40</td></tr>
 <tr><td>6</td><td>R$ 400,00</td><td>R$ 20,40</td><td>R$ 2.460,81</td></tr>
 </table>
-
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Agente Autônomo de Investimentos
-
-24
-
-54
-
----
-
 # Série de Pagamentos (PMT)
 
 ## Exemplo (Antecipado)
@@ -579,26 +376,21 @@ ANCORD – Agente Autônomo de Investimentos
 
 ❑ **RESPOSTA:**
 
-➢ (1) Zerar os registros da HP 12C! Pressione [f][CLX]
+ (1) Zerar os registros da HP 12C! Pressione [f][CLX]
 
-➢ (2) Pressione [g] e depois [7] → Informa a função “<mark>**BEGIN**</mark>” (depósitos antecipados)
+ (2) Pressione [g] e depois [7] → Informa a função “<mark>**BEGIN**</mark>” (depósitos antecipados)
 
-➢ (3) Digite [6] e pressione [n]
+ (3) Digite [6] e pressione [n]
 
-➢ (4) Digite [1] e pressione [i]
+ (4) Digite [1] e pressione [i]
 
-➢ (5) Digite [400][CHS] e pressione [PMT]
+ (5) Digite [400][CHS] e pressione [PMT]
 
-➢ (6) Aperte [FV]
+ (6) Aperte [FV]
 
-➢ Resposta: R$ 2.485,41 ao mês
+ Resposta: R$ 2.485,41 ao mês
 
 ❑ **OBSERVAÇÃO:** Após realizar algum exercício que necessite utilizar a função Begin, volte para a função END [g][8]. O normal na vida é termos parcelas postecipadas.
-
-Logo da Rafael Toro Academia de Finanças
-
-ANCORD – Agente Autônomo de Investimentos 25
-
 # Série de Pagamentos (PMT)
 
 ## Exemplo (Antecipado - Gráfico)
@@ -639,15 +431,6 @@ Neste gráfico fica claro como a HP-12C trabalha com as parcelas postecipadas, c
 <td>- 400</td>
     </tr>
 </table>
-
-Logo da Rafael Toro Academia de Finanças
-
-ANCORD – Agente Autônomo de Investimentos 26
-
-55
-
----
-
 # Série de Pagamentos (PMT)
 
 ## Exemplo (Antecipado - Tabela)
@@ -664,11 +447,6 @@ Através desta tabela, podemos perceber como a HP-12C chegou no valor final (FV)
 <tr><td>5</td><td>R$ 400,00</td><td>R$ 20,40</td><td>R$ 2.460,81</td></tr>
 <tr><td>6</td><td>-</td><td>R$ 24,61</td><td>R$ 2.485,41</td></tr>
 </table>
-
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Agente Autônomo de Investimentos 27
-
 # Perpetuidade do Valor Presente
 
 ## Conceito
@@ -679,9 +457,9 @@ $$ PV_{(per)} = \frac{PMT}{i} $$
 
 ❑ **EXEMPLO:** Qual valor Rafael precisa investir para ter uma renda perpétua de R$ 5.000,00 por mês, sabendo que a taxa de investimento é de 0,5% a.m?
 
-➢ **Fórmula:** PV<sub>PER</sub> = 5.000 /0,005 = R$ 1.000.000,00
+ **Fórmula:** PV<sub>PER</sub> = 5.000 /0,005 = R$ 1.000.000,00
 
-➢ <u>Calculando pela HP-12C:</u>
+ <u>Calculando pela HP-12C:</u>
 
 ▪ 0,5 [ENTER] → inserir taxa em %
 
@@ -690,15 +468,6 @@ $$ PV_{(per)} = \frac{PMT}{i} $$
 ▪ [%T] → tecla para calcular renda perpétua
 
 ▪ Resposta: R$ 1.000.000,00
-
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Agente Autônomo de Investimentos 28
-
-56
-
----
-
 # Regimes de Capitalização: Juros Compostos
 
 ## Equivalência de Taxas: Fórmula
@@ -709,50 +478,32 @@ $$ i_Q = [(1 + i_T)^{q/t} - 1] \times 100 $$
 
 ❑ **Regra doQUERO/TENHO:**
 
-➢ iQ = taxa de juros que desejamos encontrar (taxa que “eu quero”).
+ iQ = taxa de juros que desejamos encontrar (taxa que “eu quero”).
 
-➢ iT = taxa de juros que já sabemos (taxa que “eu tenho”).
+ iT = taxa de juros que já sabemos (taxa que “eu tenho”).
 
-➢ q = período em que está expressa a taxa que pretendemos encontrar (prazo que “eu quero”).
+ q = período em que está expressa a taxa que pretendemos encontrar (prazo que “eu quero”).
 
-➢ t = período em que está expressa a taxa que já sabemos (prazo que “eu tenho”).
-
-Rafael Toro Academia de Finanças logo
-
-ANCORD – Agente Autônomo de Investimentos
-
-29
-
+ t = período em que está expressa a taxa que já sabemos (prazo que “eu tenho”).
 # Regimes de Capitalização: Juros Compostos
 
 ## Equivalência de Taxas: Exemplo
 
 ❑ **EXEMPLO:** Qual a taxa equivalente ao mês de 12% ao ano?
 
-➢ (1) Zerar os registros da HP 12C! Pressione [f][CLX]
+ (1) Zerar os registros da HP 12C! Pressione [f][CLX]
 
-➢ (2) Digite [1] e pressione [ENTER]
+ (2) Digite [1] e pressione [ENTER]
 
-➢ (3) Digite [0.12] e pressione [+]
+ (3) Digite [0.12] e pressione [+]
 
-➢ (4) Digite [12], aperte 1/x icon pressione yx icon
+ (4) Digite [12], aperte 1/x icon pressione yx icon
 
-➢ (5) Digite [1] e pressione [-]
+ (5) Digite [1] e pressione [-]
 
-➢ (6) Digite [100] e aperte [x]
+ (6) Digite [100] e aperte [x]
 
-➢ Resposta: 0,948879
-
-Rafael Toro Academia de Finanças logo
-
-ANCORD – Agente Autônomo de Investimentos
-
-30
-
-57
-
----
-
+ Resposta: 0,948879
 # Regimes de Capitalização: Juros Compostos
 
 ## Equivalência de Taxas: Programação
@@ -777,13 +528,6 @@ ANCORD – Agente Autônomo de Investimentos
 <tr><td>G R↓ 00 ou 000</td><td>GTO: Retorna a primeira linha de programação. Observação: usar “00” para HP (dourada) e “000” para HP Platinum.</td><td>17-43.33.00 (GOLD) 017.43.33.000 (PLAT)</td></tr>
 <tr><td>F R/S</td><td>P/R: Finaliza o modo de programação</td><td>0,00000000</td></tr>
 </table>
-
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Agente Autônomo de Investimentos
-
-31
-
 # Regimes de Capitalização: Juros Compostos
 
 ## Equivalência de Taxas: Programação
@@ -801,17 +545,6 @@ ANCORD – Agente Autônomo de Investimentos
 ❑ **Resposta:** 0,948879% ao mês.
 
 Este método é sendo pela programação inserida (LIVRO APRESENTAÇÃO). Caso “limpe” a programação (f PRGM) ou haja algum outro problema, será necessário inserir o passo-a- passo novamente.
-
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Agente Autônomo de Investimentos
-
-32
-
-58
-
----
-
 # Taxa de Juros Nominal e Taxa de Juros Real
 
 ## Conceito
@@ -823,13 +556,6 @@ Exemplo: a rentabilidade do fundo de investimentos nos últimos 12 meses foi de 
 Já a **TAXA REAL** é dada pela diferença entre a **TAXA NOMINAL** e a <mark>INFLAÇÃO</mark>. Ela será a taxa que realmente terá gerado de riqueza para o investidor. Como o dinheiro somente é um meio troca, uma forma de pagamento, o que importa de verdade é o quanto ele está comprando de bens e de serviços e não o seu valor nominal, mas sim o seu valor real.
 
 Por exemplo, imagine que você tenha R$ 100, uma maçã custe R$ 1,00 e haja uma aplicação financeira no banco que renda <mark>15% por 1 ano</mark>. Hoje você poderia comprar 100 maçãs, mas caso você aplique no banco, no próximo ano terá R$ 115,00. Porém, se a fruta estiver R$ 1,10 (<mark>aumentou seu preço em 10%</mark>), você comprará 104,5 maçãs, ou seja, o seu ganho REAL por ter investido no banco, será de 4,5 maçãs (4,5%). Perceba que por se tratar de **juros compostos, não foi feito uma subtração da inflação pela da taxa nominal (<mark>15% menos 10%</mark>), mas sim, uma divisão de taxas que te ensinaremos a seguir.**
-
-Logo Rafael Toro
-
-33
-
-ANCORD – Agente Autônomo de Investimentos
-
 # Taxa de Juros Nominal e Taxa de Juros Real
 
 ## Fórmula
@@ -843,17 +569,6 @@ Importante dizer que, o retorno nominal é o retorno total do investimento. Ress
 $$ Taxa Nominal = [(1 + Taxa Real) \times (1 + Inflação) - 1] \times 100 $$
 
 Mas não se preocupe, te ensinaremos de uma forma fácil como calcular pra prova!
-
-Logo Rafael Toro
-
-34
-
-ANCORD – Agente Autônomo de Investimentos
-
-59
-
----
-
 # Taxa de Juros Nominal e Taxa de Juros Real
 
 ## Cálculo da Taxa Real: Modelo 1
@@ -861,79 +576,62 @@ ANCORD – Agente Autônomo de Investimentos
 ❑ **EXEMPLO:** Qual a taxa real de uma aplicação que rendeu 15% e a inflação foi 10%?
 
 ❑ Cálculo da Taxa Real:
-
-1 Tx Real = $\left( \left[ \frac{1+15\%}{1+10\%} \right] - 1 \right) \times 100$
-
-2 Tx Real = $\left( \left[ \frac{1,15}{1,10} \right] - 1 \right) \times 100$
-
-3 Tx Real = $(1,0455 - 1) \times 100$
-
-4 Tx Real = $(0,0455) \times 100$
+Tx Real = $\left( \left[ \frac{1+15\%}{1+10\%} \right] - 1 \right) \times 100$
+Tx Real = $\left( \left[ \frac{1,15}{1,10} \right] - 1 \right) \times 100$
+Tx Real = $(1,0455 - 1) \times 100$
+Tx Real = $(0,0455) \times 100$
 
 R Tx Real = 4,55%
 
 ## PASSO A PASSO NA HP-12C
 
-➢ (1) Pressione [f][CLx], para zerar a HP
+ (1) Pressione [f][CLx], para zerar a HP
 
-➢ (2) Digite [15] e pressione [ENTER]
+ (2) Digite [15] e pressione [ENTER]
 
-➢ (3) Digite [100] [÷]
+ (3) Digite [100] [÷]
 
-➢ (4) Digite [1] [+]
+ (4) Digite [1] [+]
 
-➢ (5) Digite [10] e pressione [ENTER]
+ (5) Digite [10] e pressione [ENTER]
 
-➢ (6) Digite [100] [÷]
+ (6) Digite [100] [÷]
 
-➢ (7) Digite [1] [+]
+ (7) Digite [1] [+]
 
-➢ (8) Pressione [÷]
+ (8) Pressione [÷]
 
-➢ (9) Digite [1] [‒]
+ (9) Digite [1] [‒]
 
-➢ (10) Digite [100] [×]
+ (10) Digite [100] [×]
 
-➢ Taxa Real: 4,55% ao ano
-
-Rafael Toro Academia de Finanças ANCORD – Agente Autônomo de Investimentos 35
-
+ Taxa Real: 4,55% ao ano
 # Taxa de Juros Nominal e Taxa de Juros Real
 
 ## Cálculo da Taxa Real: Modelo 2
 
 Neste modelo, vamos calcular através das teclas [n], [i], [PV] e [FV], da seguinte forma:
 
-➢ n: sempre receberá o valor [1]
+ n: sempre receberá o valor [1]
 
-➢ PV: aqui será inserido o valor da inflação, adicionado o valor 100. Este valor deverá ser inserido como sendo negativo, ou seja, clicando em [CHS]
+ PV: aqui será inserido o valor da inflação, adicionado o valor 100. Este valor deverá ser inserido como sendo negativo, ou seja, clicando em [CHS]
 
-➢ FV: aqui será inserido o valor da taxa nominal, adicionado o valor 100
+ FV: aqui será inserido o valor da taxa nominal, adicionado o valor 100
 
-➢ PMT: não precisa inserir nada, já que sempre iremos zerar a HP antes do cálculo
+ PMT: não precisa inserir nada, já que sempre iremos zerar a HP antes do cálculo
 
-➢ i: nossa resposta
+ i: nossa resposta
 
 ❑ **EXEMPLO:** Qual a taxa real de uma aplicação que rendeu 15% e a inflação foi 10%?
 
-➢ [f] [CLx] → zerar a hp-12c
+ [f] [CLx] → zerar a hp-12c
+[ENTER] 10 [+] [CHS] [PV] → Lançar o número “- 110”, entrada negativa
+[ENTER] 15 [+] [FV] → Lançar o número “115”, entrada positiva
+[n] → Prazo sempre será 1
 
-➢ 100 [ENTER] 10 [+] [CHS] [PV] → Lançar o número “- 110”, entrada negativa
-
-➢ 100 [ENTER] 15 [+] [FV] → Lançar o número “115”, entrada positiva
-
-➢ 1 [n] → Prazo sempre será 1
-
-➢ [i] → Esta será a nossa resposta: 4,55%
+ [i] → Esta será a nossa resposta: 4,55%
 
 ❑ **OBS:** Esta maneira de calcular serve para toda vez que for necessária “descontar taxas” (divisão de taxas) em juros compostos.
-
-Rafael Toro Academia de Finanças ANCORD – Agente Autônomo de Investimentos 36
-
-60
-
----
-
 # Taxa de Juros Nominal e Taxa de Juros Real
 
 ## Calculando a Taxa Nominal
@@ -953,11 +651,6 @@ Perceba que estes são os números que utilizamos até agora nos nossos exemplos
 * 100 [-] → estamos descontando a nossa base
 
 * <u>Resposta: 15% é a nossa taxa nominal</u>
-
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Agente Autônomo de Investimentos 37
-
 # Método de Análise de Investimentos
 
 ## Conceito
@@ -969,15 +662,6 @@ Os métodos de análise de investimento cobrados na prova são:
 * Taxa Interna de Retorno (TIR);
 
 * Valor Presente Líquido (VPL);
-
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Agente Autônomo de Investimentos 38
-
-61
-
----
-
 # Custo de Oportunidade e TMA
 
 ## Conceito
@@ -985,9 +669,6 @@ ANCORD – Agente Autônomo de Investimentos 38
 * <u>**TAXA MÍNIMA DE ATRATIVIDADE (TMA)**</u>: representa o mínimo que um investidor se propõe a ganhar quando faz um investimento, ou o máximo que um tomador de dinheiro se propõe a pagar quando faz um financiamento. Em relação investimentos, ela deve ser maior que o Custo de Oportunidade, senão, o investidor racional não tem motivos para realizar. No Brasil, utilizamos muitas vezes a Taxa Selic como a TMA, já que ela é o investimento de menor risco do país.
 
 * <u>**CUSTO DE OPORTUNIDADE**</u>: é a opção que foi renunciada, entre as opções que poderiam ter sido feitas. Ela não representa necessariamente uma taxa, mas sim o que foi deixado de lado para ser realizada outra tarefa. No mundo dos investimentos, normalmente dizemos que é uma taxa de retorno, vide que sempre que um investidor realizado uma aplicação financeira, ele também está renunciando outras aplicações ou projetos. Importante notar que o custo de oportunidade é diferente para cada ser humano, vide que as pessoas não possuem as mesmas oportunidades.
-
-Logo Rafael Toro Academia de Finanças ANCORD – Agente Autônomo de Investimentos 39
-
 # TIR – Taxa Interna de Retorno
 
 ## Conceito
@@ -997,14 +678,6 @@ A <u>**Taxa Interna de Retorno (TIR)**</u>, em do inglês *Internal Rate of Retu
 Este estudo considera que os fluxos de caixa do projeto são reinvestidos pela própria TIR, o que acaba sendo um grande problema, pois dificilmente ocorrerá na prática.
 
 $$ 0 = FC_0 + \frac{FC_1}{(1 + TIR)^1} + \frac{FC_2}{(1 + TIR)^2} + \dots + \frac{FC_n}{(1 + TIR)^n} $$
-
-Logo Rafael Toro Academia de Finanças ANCORD – Agente Autônomo de Investimentos 40
-
-ANCORD – Agente Autônomo de Investimentos 62
-
-
----
-
 # TIR – Taxa Interna de Retorno
 
 ## <u>Exemplo</u>
@@ -1012,13 +685,6 @@ ANCORD – Agente Autônomo de Investimentos 62
 Um investidor aplica R$ 50.000 em um projeto que prevê fluxos de caixa anuais positivos de: R$ 10.000,00 no primeiro ano; R$ 20.000,00 no segundo ano; R$ 30.000,00 no terceiro ano; e R$ 40.000,00 no quarto ano. Qual o retorno do investimento?
 
 Fluxo de caixa do investimento
-
-RAFAEL TOR ACADEMIA DE FINANÇAS
-
-ANCORD – Agente Autônomo de Investimentos
-
-41
-
 # TIR – Taxa Interna de Retorno
 
 ## <u>Solução do Exemplo</u>
@@ -1034,17 +700,6 @@ Como os fluxos de caixa são distintos, necessitamos calcular inserindo fluxo po
 <tr><td>40.000</td><td></td><td>CFⱼ: [g][PMT]</td><td>Recebimento do Ano 4</td><td></td></tr>
 <tr><td>TIR</td><td></td><td>IRR: [f][FV]</td><td>Retorno do Investimento</td><td>27,27% a.a</td></tr>
 </table>
-
-RAFAEL TOR ACADEMIA DE FINANÇAS
-
-ANCORD – Agente Autônomo de Investimentos
-
-42
-
-63
-
----
-
 # VPL – Valor Presente Líquido
 
 ## Conceito
@@ -1056,13 +711,6 @@ $$ VPL = FC_0 + \frac{FC_1}{(1 + i)^1} + \frac{FC_2}{(1 + i)^2} + \dots + \frac{
 O termo FC₀ representa o fluxo de caixa do período zero (investimento inicial). Normalmente este termo entrará com sinal negativo na equação do VPL.
 
 ❑ **OBS:** <u>Quando estamos analisando doisprojetos, escolheremos sempre aquele que possui o maior VPL.</u>
-
-Logo da Rafael Toro Academia de Finanças
-
-ANCORD – Agente Autônomo de Investimentos
-
-43
-
 # VPL – Valor Presente Líquido
 
 ## Exemplo
@@ -1077,17 +725,6 @@ Um investidor aplica R$ 50.000 em um projeto que prevê fluxos de caixa anuais p
 <tr><td>Ano 3</td><td>R$ 30.000</td></tr>
 <tr><td>Ano 4</td><td>R$ 40.000</td></tr>
 </table>
-
-Logo da Rafael Toro Academia de Finanças
-
-ANCORD – Agente Autônomo de Investimentos
-
-44
-
-64
-
----
-
 # VPL – Valor Presente Líquido
 
 ## Solução do Exemplo
@@ -1104,43 +741,28 @@ Para calcularmos o VPL, precisamos utilizar a função [g] das teclas [PV], [PMT
 <tr><td>10</td><td></td><td>[i]</td><td>Taxa TMA</td><td></td></tr>
 <tr><td>VPL</td><td></td><td>NPV: [f][PV]</td><td>Valor Presente Líquido</td><td>R$ 25.479,82</td></tr>
 </table>
-
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Agente Autônomo de Investimentos
-
-45
-
 # Matemática Financeira
 
 ## Lembretes
 
 Os Principais lembretes para você fazer os cálculos são:
 
-➢ Nunca se esqueça de zerar a calculadora, pois pode haver dados guardados que influenciarão seu cálculo, levando a respostas equivocadas na prova!
+ Nunca se esqueça de zerar a calculadora, pois pode haver dados guardados que influenciarão seu cálculo, levando a respostas equivocadas na prova!
 
-➢ Taxa de juros(i), períodos (n) e parcelas (PMT) devem estar sempre na mesma base (mês com mês, ano com ano, etc), sendo que quando:
+ Taxa de juros(i), períodos (n) e parcelas (PMT) devem estar sempre na mesma base (mês com mês, ano com ano, etc), sendo que quando:
 
 - Houver PMT, o prazo “n” e a taxa “i” devem ficar na SEMPRE na base do PMT;
 
 - Não houver PMT, você pode escolher qual deve transformar. Porém, é mais fácil converter a base do prazo (n) para a mesma base da taxa (ou seja, se a taxa está em ano e o prazo em mês, é mais fácil converter tudo para ano);
 
-➢ Convenção de sinais:
+ Convenção de sinais:
 
 - Entrada de caixa: sinal positivo
 
 - Saída de caixa: sinal negativo (CHS)
 
-➢ Preste muita atenção no enunciado da questão para não passar desapercebido quando indicarem que o fluxo é antecipado (ativar o modo BEGIN – “g7”)
+ Preste muita atenção no enunciado da questão para não passar desapercebido quando indicarem que o fluxo é antecipado (ativar o modo BEGIN – “g7”)
 
-➢ Sempre deixe a calculadora no modo END (“g8”), pois raramente teremos duas questões em sequência que sejam de fluxo antecipado;
+ Sempre deixe a calculadora no modo END (“g8”), pois raramente teremos duas questões em sequência que sejam de fluxo antecipado;
 
-➢ E por último, <u>FAÇA SEMPRE O FLUXO DE CAIXA!</u>
-
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Agente Autônomo de Investimentos
-
-46
-
-65
+ E por último, <u>FAÇA SEMPRE O FLUXO DE CAIXA!</u>

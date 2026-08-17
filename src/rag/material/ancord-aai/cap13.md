@@ -9,17 +9,7 @@ Um dos principais pilares de uma gestão financeira é o conceito e a mensuraç�
 Para as incertezas ocorridas na vida das pessoas (falecimento, doenças, incêndio) foram criados produtos específicos pelo mercado segurador. Já para as incertezas ocorridas nos mercados financeiros (variação cambial, de taxas de juros, valor das ações, ...), surgiram os contratos derivativos, assunto deste capítulos.
 
 Portanto, os **derivativos são instrumentos financeiros, cujo preço deriva de um ativo ou instrumento financeiro de referência (ativo-objeto), sendo um mercado de Liquidação Futura.**
-
-Logo Rafael Toro
-
-2
-
 CFG – Certificação de Fundamentos de Gestão
-
-264
-
----
-
 # Derivativos
 
 ## Tipos de Derivativos
@@ -34,12 +24,7 @@ Os derivativos podem ser divididos em 4 grupos:
 
 * **OPÇÃO:** O contrato de opção tem característica semelhante a um seguro, no qual um dos lados paga um prêmio, recebendo um direito (opção de querer ou não querer a realização do contrato) e a contraparte que recebeu o prêmio, fica com a obrigação. Nos seguros de carro, o segurado paga o prêmio e tem o direito de exercer o seu seguro, já a seguradora que recebeu o prêmio, tem a obrigação de honrar o contrato, caso assim o segurado deseje.
 
-Rafael Toro Academia de Finanças
-
 CFG – Certificação de Fundamentos de Gestão
-
-3
-
 # Derivativos
 
 ## Principais Estratégias
@@ -54,16 +39,7 @@ São quatro as principais estratégias que podemos utilizar os derivativos:
 
 * **ESPECULAÇÃO:** ocorre pela compra e venda sistemática de ativos, com a intenção de obter lucro rápido e elevado, aproveitando a oscilação dos preços.
 
-Rafael Toro Academia de Finanças
-
 CFG – Certificação de Fundamentos de Gestão
-
-4
-
-265
-
----
-
 # Derivativos
 
 ## Participantes do Mercado
@@ -76,12 +52,7 @@ Desta forma, os agentes que utilizam estas estratégias, são chamados de:
 
 * **ESPECULADORES:** São a maioria do mercado e estão interessados em auferir ganhos com as flutuações de preços. Podem usar tanto análises fundamentalistas quanto análise gráficas. São aqueles que utilizam operações de Alavancagem ou de Especulação.
 
-Logo Rafael Toro Academia de Finanças
-
 CFG – Certificação de Fundamentos de Gestão
-
-5
-
 # Local de Negociação
 
 ## B3 – Brasil, Bolsa e Balcão
@@ -90,16 +61,7 @@ A B3 foi criada em março de 2017 como fruto da combinação entre a BM&FBOVESPA
 
 Ela é uma sociedade por ações com fins lucrativos que atua, no mercado de derivativos, como contraparte (como a vendedora de todos os compradores e como compradora para todos os vendedores). Para tanto, exige garantias prévias dos participantes (margem). Além disso, ela organiza, regulamenta e fiscaliza os mercados de liquidação futura. Ela também <mark>administrar as margens de garantia, os ajustes diários e as entregas físicas na Bolsa</mark>. Em resumo, a B3 reduz ao máximo o risco de crédito entre os agentes, além de mitigar o risco de liquidação.
 
-Logo Rafael Toro Academia de Finanças
-
 CFG – Certificação de Fundamentos de Gestão
-
-6
-
-266
-
----
-
 # Local de Negociação
 
 ## <u>Mercado de Balcão</u>
@@ -109,11 +71,6 @@ O **MERCADO DE BALCÃO ORGANIZADO** é um ambiente com sistemas informatizados e
 As transações no mercado de balcão organizado são feitas por telefone ou eletronicamente entre as instituições financeiras, não tendo mais um local físico definido. Existem uma série de requisitos que uma instituição deve obedecer para atuar como intermediário financeiro, englobando a conduta, a fiscalização e a aplicação de penalidades aos infratores. Outro ponto importante é que nesse sistema, além de se ter o risco de mercado, há o risco de contraparte também.
 
 Quando se trata somente de Mercado de Balcão (não organizado), considera-se uma negociação criado por duas partes em qualquer outro local.
-
-Logo Rafael Toro Academia de Finanças
-
-7
-
 CFG – Certificação de Fundamentos de Gestão
 
 # Sistemas de Garantias
@@ -125,17 +82,7 @@ A B3 reavalia diariamente o montante de garantias necessárias para que as obrig
 * **MARGEM DE GARANTIA:** corresponde ao valor que deverá ser colocado de garantia para realizar uma operação. O valor da margem representa apenas um percentual do valor total do contrato, devendo permanecer depositado na conta da corretora enquanto o comprador/vendedor mantiver sua posição em aberto. Quando as posições forem encerradas, a B3 devolve <u>a margem de garantia dos contratos, já que é ela que faz a administração.</u>
 
 * **AJUSTE DIÁRIO:** É um mecanismo de equalização da posição de todos os participantes que estão negociando o derivativo chamado de <mark>Contrato Futuro</mark>. Diariamente, as contas de compradores e vendedores que possuem posições em aberto neste mercado, sofrem um ajuste financeiro (crédito ou débito) de acordo com o preço de ajuste do dia. Veremos a seguir um exemplo e não se preocupe, adiante será explanado todas as características deste tipo de contrato, o importante agora é entender a ideia do <u>Ajuste Diário</u>.
-
-Logo Rafael Toro Academia de Finanças
-
-8
-
 CFG – Certificação de Fundamentos de Gestão
-
-267
-
----
-
 # Sistemas de Garantias
 
 ## Ajuste Diário: Exemplo
@@ -145,25 +92,12 @@ Rafael comprou dólares através de um contrato futuro no dia 03/03/2019 a R$ 4,
 Neste dia 04/03/2019, no qual houve o crédito na sua conta, o preço de ajuste do fechamento foi de R$ 3,90 (ou seja, o dólar se desvalorizou neste dia). Como o preço base para o ajuste agora é de R$ 4,10, será <mark>DEBITADO</mark> um valor de R$ 0,20 por dólar na sua conta da corretora.
 
 Esse processo de AJUSTE DIÁRIO ocorre diariamente, fazendo com que se o ativo tiver se valorizado, o comprador terá um <mark>CRÉDITO</mark> e o vendedor terá um <mark>DÉBITO</mark>. Já se o ativo se desvalorizar, o comprador terá um <mark>DÉBITO</mark> e o vendedor terá um <mark>CRÉDITO</mark>.
-
-Logo da Rafael Toro Academia de Finanças 
-
- 9 
-
  CFG – Certificação de Fundamentos de Gestão
 
 Mapa de Chipre sobre uma moeda de Euro
 
 Modalidades: Termo & Futuro
-
-10
-
 CFG – Certificação de Fundamentos de Gestão
-
-268
-
----
-
 # Mercado a Termo
 
 ## <u>Conceito</u>
@@ -174,12 +108,7 @@ Em outras palavras, quando efetivamos uma compra a termo, estamos tratando de um
 
 Por se tratarem de “operações a prazo” são exigidos garantias (Cobertura e Margem) mas <u>não possuem ajuste diário.</u> Outro ponto importante é que são contratos <u>NÃO PADROZINADOS.</u>
 
-Logo Rafael Toro Academia de Finanças
-
 CFG – Certificação de Fundamentos de Gestão
-
-11
-
 # Mercado a Termo
 
 ## <u>Caracterís</u><u>ticas</u>
@@ -200,16 +129,7 @@ As principais características do Mercado a Termo são:
 
   o <u>Margem:</u> estabelecido um percentual do valor do contrato.
 
-Logo Rafael Toro Academia de Finanças
-
 CFG – Certificação de Fundamentos de Gestão
-
-12
-
-269
-
----
-
 # Mercado a Termo
 
 ## <u>Termo de Dólar</u>
@@ -220,12 +140,7 @@ A operação de termo sem garantia dispensa desembolso inicial e intermediário,
 
 Um cliente deve optar por esta operação ao invés do Contrato Futuro, quando ele não deseja dispor de capital para os possíveis ajustes diários, colocando somente ativos como garantia. No entanto, por não ser padronizado, pode ocorrer de ser mais caro.
 
-Logo Rafael Toro Academia de Finanças
-
 CFG – Certificação de Fundamentos de Gestão
-
-13
-
 # Mercado a Termo
 
 ## <u>Termo de Dólar: Exemplo</u>
@@ -244,16 +159,7 @@ Um investidor que acredita na desvalorização do Real (valorização do dólar)
 * Valor Atual da Posição: USD 1MM x R$ 1,80 = R$ 1.800.000,00
 * Resultado = R$ 1,8MM – R$ 2,1MM = - <mark><u>R$ 300.00,00 (Prejuízo)</u></mark>
 
-Logo Rafael Toro Academia de Finanças
-
 CFG – Certificação de Fundamentos de Gestão
-
-14
-
-270
-
----
-
 # NDF – Non Deliverable Forward
 
 ## Conceito
@@ -264,12 +170,7 @@ Sua utilização ocorre principalmente em cenários onde se deseja proteger cont
 
 Sua vantagem em relação ao contrato futuro de câmbio é que <u>não há ajuste diário</u>, somente chamada de margem.
 
-Logo da Rafael Toro Academia de Finanças
-
 CFG – Certificação de Fundamentos de Gestão
-
-15
-
 # Contrato Futuro
 
 ## Conceito
@@ -290,16 +191,7 @@ Os contratos futuros mais relevantes para a prova são:
 
 * FRA de Cupom (FRC).
 
-Logo da Rafael Toro Academia de Finanças
-
 CFG – Certificação de Fundamentos de Gestão
-
-16
-
-271
-
----
-
 # Contrato Futuro
 
 ## <u>Formação de Preço</u>
@@ -337,12 +229,7 @@ Um conceito importante é o de <u>BASE</u>, que é a diferença entre o preço f
     </tr>
 </table>
 
-Logo da Rafael Toro Academia de Finanças
-
 CFG – Certificação de Fundamentos de Gestão
-
-17
-
 # Contrato Futuro
 
 ## <u>Ibovespa Futuro</u>
@@ -359,16 +246,7 @@ O <u>ÍNDICE FUTURO DE IBOVESPA</u> é o principal contrato futuro cobrado em pr
 
 * Possibilidade de arbitragem entre as ações no mercado a vista, quando os devidos preços não condizerem com o seu valor mais taxa de juros brasil (SELIC).
 
-Logo da Rafael Toro Academia de Finanças
-
 CFG – Certificação de Fundamentos de Gestão
-
-18
-
-272
-
----
-
 # Contrato Futuro
 
 ## **Exemplo: Compra de Contrato Futuro**
@@ -390,9 +268,6 @@ Gráfico de resultado financeiro de compra de contrato futuro
 </table>
 
 CFG – Certificação de Fundamentos de Gestão
-
-19
-
 # Contrato Futuro
 
 ## **Exemplo: Venda de Contrato Futuro**
@@ -414,13 +289,6 @@ Gráfico de resultado financeiro de venda de contrato futuro
 </table>
 
 CFG – Certificação de Fundamentos de Gestão
-
-20
-
-273
-
----
-
 # Contrato Futuro
 
 ## DI Futuro
@@ -431,12 +299,7 @@ Quando o investidor está acreditando que a **TAXA DE JUROS IRÁ CAIR**, ele ir�
 
 Já quando o investidor está acreditando que a **TAXA DE JUROS IRÁ SUBIR**, ele irá **VENDER** o contrato de DI FUTURO (dizemos que ele está vendendo PU e comprando taxa). Isso ocorre, pois quanto maior for a taxa de juros, menor será o valor presente de um título!
 
-Logo Rafael Toro Academia de Finanças
-
 CFG – Certificação de Fundamentos de Gestão
-
-21
-
 # Contrato Futuro
 
 ## DI Futuro: Exemplo
@@ -471,16 +334,7 @@ O contrato futuro de DI com vencimento em 504 dias úteis, está sendo negociado
 
 * **Valorização de R$ 3.089,25 (3,74%)!**
 
-Logo Rafael Toro Academia de Finanças
-
 CFG – Certificação de Fundamentos de Gestão
-
-22
-
-274
-
----
-
 # Contrato Futuro
 
 ## Dólar Futuro
@@ -501,12 +355,7 @@ O mercado financeiro entende o CONTRATO FUTURO DE DÓLAR, não como uma moeda f�
 
 **TÓPICO DE PROVA:** para se proteger o EXPORTADOR VENDE dólar futuro (fica passivo em dólar) e o IMPORTADOR COMPRA dólar futuro (fica ativo em dólar).
 
-Logo Rafael Toro
-
 CFG – Certificação de Fundamentos de Gestão
-
-23
-
 # Contrato Futuro
 
 ## Cupom Cambial
@@ -521,16 +370,7 @@ Para facilitarmos o cálculo, podemos dizer que o valor do dólar futuro, nada m
 
 $$ Forward = Spot \times \frac{(1 + Pré  em  R\$)^{\frac{du}{252}}}{(1 + Cupom  Cambial \times \frac{DC}{360})} $$
 
-Logo Rafael Toro
-
 CFG – Certificação de Fundamentos de Gestão
-
-24
-
-275
-
----
-
 # Contrato Futuro
 
 ## Cupom Cambial: Cálculo
@@ -538,29 +378,16 @@ CFG – Certificação de Fundamentos de Gestão
 Qual o cupom cambial de um papel com 90 dias corridos (63 DU), a TLR é igual a 12% a.a. (base 252), a taxa spot é R$ 2,07/U$ e o forward para 3 meses é R$ 2,10/U$?
 
 $$ Fórmula: Forward = Spot \times \frac{(1 + Taxa Real)^{(DU/252)}}{(1 + Cupom Cambial \times (DC/360))} $$
-
-1. $$ R\$ 2,10 = R\$ 2,07 \times \frac{(1 + 12\%)^{\frac{63}{252}}}{(1 + CC \times \frac{90}{360})} $$
-
-2. $$ \frac{R\$ 2,10}{R\$ 2,07} = \frac{(1,028737)}{(1 + CC \times \frac{90}{360})} $$
-
-3. $$ 1,014493 \times \left(1 + CC \times \frac{90}{360}\right) = (1,028737) $$
-
-4. $$ \left(1 + CC \times \frac{90}{360}\right) = \frac{(1,028737)}{1,014493} $$
-
-5. $$ 1 + CC \times 0,25 = 1,014041 $$
-
-6. $$ CC \times 0,25 = 1,014041 - 1 $$
-
-7. $$ CC = 0,014041 \div 0,25 $$
-
-8. $$ CC = 0,056164 = 5,62\%  a. a. $$
-
-Rafael Toro Academia de Finanças
+. $$ R\$ 2,10 = R\$ 2,07 \times \frac{(1 + 12\%)^{\frac{63}{252}}}{(1 + CC \times \frac{90}{360})} $$
+. $$ \frac{R\$ 2,10}{R\$ 2,07} = \frac{(1,028737)}{(1 + CC \times \frac{90}{360})} $$
+. $$ 1,014493 \times \left(1 + CC \times \frac{90}{360}\right) = (1,028737) $$
+. $$ \left(1 + CC \times \frac{90}{360}\right) = \frac{(1,028737)}{1,014493} $$
+. $$ 1 + CC \times 0,25 = 1,014041 $$
+. $$ CC \times 0,25 = 1,014041 - 1 $$
+. $$ CC = 0,014041 \div 0,25 $$
+. $$ CC = 0,056164 = 5,62\%  a. a. $$
 
 CFG – Certificação de Fundamentos de Gestão
-
-25
-
 # Contrato Futuro
 
 ## FRA de Cupom Cambial
@@ -575,16 +402,7 @@ Conforme a definição da B3, “O Forward Rate Agreement (FRC) é um produto es
 
 * Auxilia investidores a alongar a exposição cambial com baixo risco de execução se combinado com Contratos Futuros de Dólar e de DI.
 
-Rafael Toro Academia de Finanças
-
 CFG – Certificação de Fundamentos de Gestão
-
-26
-
-276
-
----
-
 # Contrato Futuro
 
 ## <u>Alavancagem: Exemplo</u>
@@ -600,12 +418,7 @@ Preço à vista da do ETF BOVA11 (cesta de ações da Bovespa) é de R$ 100,00 e
 <tr><td>Retorno</td><td>20,00%</td><td>200%</td></tr>
 </table>
 
-Logo Rafael Toro Academia de Finanças
-
 CFG – Certificação de Fundamentos de Gestão
-
-27
-
 # Resumo 1 : Contratos Futuros e a Termo
 
 <table>
@@ -626,16 +439,7 @@ CFG – Certificação de Fundamentos de Gestão
 <tr><td>Disseminação Preço</td><td>Contínua</td><td>Sob cotação</td></tr>
 </table>
 
-Logo Rafael Toro Academia de Finanças
-
 CFG – Certificação de Fundamentos de Gestão
-
-28
-
-277
-
----
-
 # Resumo 2: Contratos Futuros
 
 ## Tabela
@@ -648,24 +452,10 @@ CFG – Certificação de Fundamentos de Gestão
 <tr><td>INDFUT</td><td>Cotação Futuro x R$ 1,00</td><td>Quarta-feira mais próxima do dia 15 do mês de vencimento</td><td>Meses Pares</td></tr>
 </table>
 
-Logo da Rafael Toro Academia de Finanças
-
 CFG – Certificação de Fundamentos de Gestão
-
-29
-
 Ilustração de setas de negociação
 
 Modalidade: Swap
-
-30
-
-278
-
----
-
-Logo da Rafael Toro Academia de Finanças
-
 ## Conceito
 
 O Swap é um contrato que estabelece a troca de fluxo de caixa e risco entre empresas/investidores, sendo um contrato de obrigações recíprocas, sendo que cada uma das partes possui uma posição Ativa (Credora) e a outra Passiva (Devedora). O valor inicial e a(s) data(s) de vencimento são livremente pactuados entre as partes, portanto, no início as taxas são estabelecidas por equilíbrio financeiro (equivalentes).
@@ -684,14 +474,7 @@ Sendo:
 
 * “i<sub>(B)</sub>”, variação do ativo B.
 
-Logo da Rafael Toro Academia de Finanças
-
 CFG – Certificação de Fundamentos de Gestão
-
-31
-
-Logo da Rafael Toro Academia de Finanças
-
 ## Gráfico
 
 O Swap Pode ocorrer trocas de dois fluxos de caixa com taxa pós (exemplo: CDI x IPCA) ou pré com pós (exemplo: LTN x CDI) em várias datas futuras. Abaixo um exemplo de swap de Dólar por CDI.
@@ -704,16 +487,7 @@ O Swap Pode ocorrer trocas de dois fluxos de caixa com taxa pós (exemplo: CDI x
 <tr><td>PAGA A VARIAÇÃO DO CDI</td><td></td><td></td><td>x</td></tr>
 </table>
 
-Logo da Rafael Toro Academia de Finanças
-
 CFG – Certificação de Fundamentos de Gestão
-
-32
-
-279
-
----
-
 # Swap
 
 ## <u>Caracteríscas</u>
@@ -739,11 +513,6 @@ As principais caracteríscas do Swap são:
 * Para se proteger o <mark>EXPORTADOR FICA PASSIVO EM DÓLAR</mark> (e avo em taxa de juros) e o <mark>IMPORTADOR FICA ATIVO EM DÓLAR</mark> (e passivo em taxa de juros).
 
 * Em swap de juros, quem está avo em prefixado (passivo em pós-fixado) acredita na queda da taxa de juros; já quem está avo em pós-fixado (passivo em prefixado), acredita na alta da taxa de juros.
-
-Rafael Toro Academia de Finanças
-
-33
-
 CFG – Certificação de Fundamentos de Gestão
 
 # Swap
@@ -760,17 +529,7 @@ Assim, a empresa pode levar a situação ao banco e fazer um contrato de SWAP, n
 <tr><td>CONTRATO DE SWAP (TROCA DE FLUXOS)</td><td></td></tr>
 <tr><td>ATIVO EM CDI (Recebe Taxa CDI)</td><td>PASSIVO EM CDI (Paga Taxa CDI)</td></tr>
 </table>
-
-Rafael Toro Academia de Finanças
-
-34
-
 CFG – Certificação de Fundamentos de Gestão
-
-280
-
----
-
 # Swap
 
 ## Exemplo
@@ -790,18 +549,11 @@ Desta forma, a RToro Education S/A ficará no swap <mark>ATIVA em pós-fixada</m
 <tr><td>12,00%</td><td>+ R$ 1.120.000</td><td>- R$ 1.100.000</td><td>+ R$ 20.000 RToro Education RECEBE</td></tr>
 </table>
 
-Logo Rafael Toro, Academia de Finanças, CFG – Certificação de Fundamentos de Gestão, 35
+, Academia de Finanças, CFG – Certificação de Fundamentos de Gestão, 35
 
 Photograph of a clipboard with a checklist
 
 ## Modalidade: Opções
-
-36
-
-281
-
----
-
 # Opções
 
 ## Conceito
@@ -818,12 +570,7 @@ Photograph of a clipboard with a checklist
 
 * **Prêmio:** É o valor pago pelo titular (e recebido pelo lançador) para adquirir o direito de comprar ou vender o ativo pelo preço de exercício em data futura.
 
-Logo Rafael Toro
-
 CFG – Certificação de Fundamentos de Gestão
-
-37
-
 # Opções
 
 ## Tipos de Opções
@@ -846,16 +593,7 @@ Em relação a seu exercício, as opções podem ser:
 <tr><td>Vendedor (Lançador / Emissor)</td><td>Obrigação de vender</td><td>Obrigação de comprar</td></tr>
 </table>
 
-Logo Rafael Toro
-
 CFG – Certificação de Fundamentos de Gestão
-
-38
-
-282
-
----
-
 # Valor do Prêmio da Opção
 
 ## Precificação
@@ -870,12 +608,7 @@ O valor (prêmio) de uma opção pode ser dividido em duas partes:
     - Valor Temporal (VT) = (prêmio da opção) **MENOS** (valor intrínseco).
     - Ela também é vista como uma função da probabilidade do valor da opção mudar até o vencimento. No dia do vencimento, o valor temporal deve ser ZERO, existindo somente o Valor Intrínseco.
 
-Logo da Rafael Toro Academia de Finanças
-
 CFG – Certificação de Fundamentos de Gestão
-
-39
-
 # Valor da posição no vencimento
 
 ## Exemplo
@@ -900,16 +633,7 @@ Uma ação está sendo negociada a R$ 100,00. Analisando as opções abaixo, qua
 
 (4) PUT (Strike 120): Titular deseja <mark>VENDER</mark> a R$ 120? SIM, VI = 120 – 100 = R$ 20,00
 
-Logo da Rafael Toro Academia de Finanças
-
 CFG – Certificação de Fundamentos de Gestão
-
-40
-
-283
-
----
-
 Opções
 
 # Classificação das Opções
@@ -937,9 +661,6 @@ As opções podem ser classificados de três formas:
     - Preço de exercício = preço à vista do ativo-objeto
 
 CFG – Certificação de Fundamentos de Gestão
-
-41
-
 CFG – Certificação de Fundamentos de Gestão
 
 Opções
@@ -956,15 +677,7 @@ As opções com valor de exercício (strike) R$ 80,00, R$ 100,00 e R$ 120,00 das
 </table>
 
 CFG – Certificação de Fundamentos de Gestão
-
-42
-
 CFG – Certificação de Fundamentos de Gestão
-
-284
-
----
-
 # Operações Básicas
 
 ## Long Call - Exemplo
@@ -985,11 +698,6 @@ Este é o gráfico do resultado financeiro de um investidor que **COMPRA** uma *
 <tr><td>150</td><td>120</td><td>-10</td><td>+20</td></tr>
 <tr><td>160</td><td>120</td><td>-10</td><td>+30</td></tr>
 </table>
-
-Rafael Toro Academia de Finanças logo
-
-43
-
 CFG – Certificação de Fundamentos de Gestão
 
 # Operações Básicas
@@ -1012,17 +720,7 @@ Este é o gráfico do resultado financeiro de um investidor que **VENDE** uma **
 <tr><td>150</td><td>120</td><td>+10</td><td>-20</td></tr>
 <tr><td>160</td><td>120</td><td>+10</td><td>-30</td></tr>
 </table>
-
-Rafael Toro Academia de Finanças logo
-
-44
-
 CFG – Certificação de Fundamentos de Gestão
-
-285
-
----
-
 # Operações Básicas
 
 ## Long PUT - Exemplo
@@ -1045,9 +743,6 @@ Gráfico de payoff de uma Long PUT
 <tr><td>140</td><td>120</td><td>-10</td><td>-10</td></tr>
 <tr><td>150</td><td>120</td><td>-10</td><td>-10</td></tr>
 </table>
-
-45
-
 CFG – Certificação de Fundamentos de Gestão
 
 # Operações Básicas
@@ -1072,17 +767,7 @@ Gráfico de payoff de uma Short PUT
 <tr><td>140</td><td>120</td><td>+10</td><td>+10</td></tr>
 <tr><td>150</td><td>120</td><td>+10</td><td>+10</td></tr>
 </table>
-
-46
-
-Logo Rafael Toro
-
 CFG – Certificação de Fundamentos de Gestão
-
-286
-
----
-
 # CALL – Opção de Compra
 
 ## Gráfico
@@ -1097,9 +782,6 @@ Boca do Crocodilo: Call
 Crocodile
 
 CFG – Certificação de Fundamentos de Gestão
-
-47
-
 # PUT – Opção de Venda
 
 ## Gráfico
@@ -1114,13 +796,6 @@ Peixe: Put
 Fish
 
 CFG – Certificação de Fundamentos de Gestão
-
-48
-
-287
-
----
-
 # Operações Estruturadas
 
 ## <u>Financiamento (Lançamento Coberto)</u>
@@ -1130,11 +805,6 @@ A operação <u>FINANCIAMENTO</u>, também conhecida como Lançamento Coberto ou
 Esta Operação tem como objetivo aumentar a rentabilidade caso o ativo comprado não suba muita, recebendo o prêmio da opção vendida, além de proteger uma leve queda. Em contrapartida, o lucro do investidor fica limitado ao teto do strike CALL vendido.
 
 O termo “coberto” significa que a ação cobre o prejuízo ilimitado que uma venda de uma CALL possa ter, já que o investidor possui a ação para entregar.
-
-Logo da Rafael Toro Academia de Finanças
-
-49
-
 CFG – Certificação de Fundamentos de Gestão
 
 # Operações Estruturadas
@@ -1165,17 +835,7 @@ Este é o gráfico do resultado financeiro de um investidor que <u>COMPRA</u> um
 </table>
 
 Preço de Equilíbrio = (Preço de compra do ativo) – (Prêmio)
-
-Logo da Rafael Toro Academia de Finanças
-
-50
-
 CFG – Certificação de Fundamentos de Gestão
-
-288
-
----
-
 # Operações Estruturadas
 
 ## <u>Box de 4 Pontas</u>
@@ -1189,11 +849,6 @@ A realização da operação ocorre da seguinte forma:
 * Compra *Put* de exercício maior (X₂) e vende *Put* de exercício menor (X₁).
 
 * **Resultado:** O investidor exerce ou será exercido de modo que comprará ativo a X₁ e exerce ou será exercido de modo que venderá ativo a X₂. O seu resultado financeira será a diferença dos strikes, descontado do valor investido.
-
-Logo Rafael Toro Academia de Finanças
-
-51
-
 CFG – Certificação de Fundamentos de Gestão
 
 # Operações Estruturadas
@@ -1221,17 +876,7 @@ Analisando os cenários abaixo, você perceberá que, não importa o valor que e
 <tr><td>120</td><td>+20</td><td>0</td><td>0</td><td>0</td><td>+ R$ 20,00</td></tr>
 <tr><td>150</td><td>+50</td><td>-30</td><td>0</td><td>0</td><td>+ R$ 20,00</td></tr>
 </table>
-
-Logo Rafael Toro Academia de Finanças
-
-52
-
 CFG – Certificação de Fundamentos de Gestão
-
-289
-
----
-
 # Cap (Teto), Floor (Piso) & Collar
 
 ## Definição
@@ -1240,16 +885,11 @@ Este tipo de operação consiste em fixar a taxa máxima de juro do financiament
 
 * <mark>Cap (Teto):</mark> pode ser visto como um tipo especial de opção de compra (CALL), em que o titular adquire o direito, mas não a obrigação, de receber a acumulação das taxas de juros flutuantes diárias, pagando com uma taxa e juros fixa (preço de exercício).
 
-* <mark>Floor (Piso):</mark> é análogo a uma opção de venda, em que o titular tem o direito, mas não a obrigação de receber uma taxa de juros prefixada, pagando com a acumulação das taxa de juros flutuantes diárias.
+* <mark>Floor (Piso):</mark> é anáa uma opção de venda, em que o titular tem o direito, mas não a obrigação de receber uma taxa de juros prefixada, pagando com a acumulação das taxa de juros flutuantes diárias.
 
 * Collar: Consiste na combinação de um Cap e um Floor, onde obtém-se tanto um limite inferior (determinado pelo preço de exercício do Floor) quanto um limite superior (determinado pelo preço de exercício do Cap) para a taxa de juro.
 
-Logo da Rafael Toro Academia de Finanças
-
 CFG – Certificação de Fundamentos de Gestão
-
-53
-
 # Opções exóticas (com barreiras)
 
 ## Definição
@@ -1260,22 +900,10 @@ As opções podem ser montadas fora dos padrões estabelecidos pela B3, com a li
 
 O exercício da opção deve ser solicitado pelos respectivos titulares, pois a B3 somente registra as opções. Importante ressaltar que, uma vez acionado o "gatilho", a opção não será revertida, mesmo que os preços voltem ao patamar original. Com isso, a condição acionada ficará valendo até o vencimento da opção.
 
-Logo da Rafael Toro Academia de Finanças
-
 CFG – Certificação de Fundamentos de Gestão
-
-54
-
-290
-
----
-
 # Opções exóticas (com barreiras)
 
 ## Tipos
-
-55
-
 As quatro principais formas de opções com barreiras são:
 
 * *Up-and-in* (SUBIR-E-ULTRAPASSAR): A opção somente irá ser ativada se o preço do ativo-objeto <u>valorizar e ultrapassar</u> o valor do strike (preço de exercício). Por exemplo, as ações da ART valem hoje R$ 10,00. Se em algum momento, elas forem negociadas acima de “R$ 12,00” a opção irá ser ativada. Caso contrário, a opção irá expirar sem valor (virar pó).
@@ -1286,16 +914,11 @@ As quatro principais formas de opções com barreiras são:
 
 * *Down-and-out*: A opção DEIXARÁ DE EXISTIR caso o ativo-objeto desvalorize abaixo do strike. Por exemplo, as ações da ART valem hoje R$ 10,00. Se em algum momento, elas forem negociadas abaixo de “R$ 7,00” a opção irá expirar e virar pó.
 
-Logo da Rafael Toro Academia de Finanças
-
 CFG – Certificação de Fundamentos de Gestão
 
 # Modelo Binomial
 
 ## Conceito
-
-56
-
 O modelo binomial de precificação de opções foi desenvolvido por Cox, Ross e Rubinstein em 1979. O modelo envolve a construção de uma árvore binomial, que é um diagrama que representa diferentes caminhos de preços que pode ser seguido pelo ativo-objeto durante a vida da opção, procurando identificar as possíveis trajetórias do preço do ativo.
 
 A fórmula que eles criaram, levam em consideração algumas premissas, que são:
@@ -1314,14 +937,7 @@ A fórmula que eles criaram, levam em consideração algumas premissas, que são
 * p = probabilidade;
 * r = taxa de juros
 
-Logo da Rafael Toro Academia de Finanças
-
 CFG – Certificação de Fundamentos de Gestão
-
-291
-
----
-
 # Modelo Binomial
 
 ## <u>Árvore Binomial</u>
@@ -1329,11 +945,6 @@ CFG – Certificação de Fundamentos de Gestão
 O exemplo abaixo demonstra a ideia da Árvore Binomial, no qual temos o cenário de uma ação que está valendo no mercado hoje R$ 50,00 e que em 1 ano poderá valer R$ 60,00 ou R$ 40,00, com uma certa probabilidade em cada um desses cenários. Não entraremos no detalhe do cálculo, mas apenas da ideia deste modelo.
 
 Diagrama da Árvore Binomial mostrando a precificação de um ativo-objeto e de uma opção de compra
-
-57
-
-Logo Rafael Toro Academia de Finanças
-
 CFG – Certificação de Fundamentos de Gestão
 
 # Modelo Black-Scholes
@@ -1357,17 +968,7 @@ O **modelo Black & Scholes** desenvolvido em 1973 por Fischer Black e Myron Scho
 * A TLR é constantes e idêntica a qualquer prazo.;
 
 * O retorno esperado do investimento ativo-objeto é constantes.
-
-58
-
-Logo Rafael Toro Academia de Finanças
-
 CFG – Certificação de Fundamentos de Gestão
-
-292
-
----
-
 # Modelo Black-Scholes
 
 ## <u>Fatores que determinam o preço de uma Call</u>
@@ -1397,16 +998,8 @@ Antes do vencimento, existem seis fatores que afetam o preço de uma opção de 
 
 Ícone de seta vermelha para baixo
 
-Logotipo da Rafael Toro Academia de Finanças
-
-59
-
+tipo da 
 CFG – Certificação de Fundamentos de Gestão
-
-293
-
----
-
 Derivativos 2 CFG – Certificação de Fundamentos de Gestão
 
 # Derivativos 2
@@ -1414,11 +1007,6 @@ Derivativos 2 CFG – Certificação de Fundamentos de Gestão
 Modalidade: Opções 2 CFG – Certificação de Fundamentos de Gestão
 
 # Modalidade: Opções
-
-294
-
----
-
 # Operações Estruturadas
 
 ## <u>Covered Call e Protective Put</u>
@@ -1426,11 +1014,6 @@ Modalidade: Opções 2 CFG – Certificação de Fundamentos de Gestão
 Um investidor cria uma **Covered Call** comprando o ativo-objeto e vendendo uma opção de compra. Tal estratégia é utilizada para gerar rendimento adicional à carteira quando o investidor acredita que o preço da ação subjacente permanecerá inalterado no curto prazo.
 
 Já uma **Protective Put** é construída mantendo uma posição comprada no ativo objeto e comprando uma opção de venda. Essa estratégia pode ser usada para limitar o risco de queda ao custo do prêmio da opção de venda. O investidor ainda poderá se beneficiar dos aumentos no preço da ação, mas o ganho será menor por conta do valor pago pela opção de venda.
-
-Logo Rafael Toro Academia de Finanças
-
-3
-
 CFG – Certificação de Fundamentos de Gestão
 
 # Operações Estruturadas
@@ -1461,17 +1044,7 @@ Este é o gráfico do resultado financeiro de um investidor que <u>COMPRA O ATIV
 <tr><td>7</td><td>2</td><td>2</td><td>4</td></tr>
 <tr><td>9</td><td>4</td><td>0</td><td>4</td></tr>
 </table>
-
-Logo Rafael Toro Academia de Finanças
-
-4
-
 CFG – Certificação de Fundamentos de Gestão
-
-295
-
----
-
 # Operações Estruturadas
 
 ## Protective Put
@@ -1581,32 +1154,18 @@ Este é o gráfico do resultado financeiro de um investidor que **COMPRA O ATIVO
 <tr><td>9</td><td>4</td><td>-1</td><td>3</td></tr>
 </table>
 
-Logo Rafael Toro Academia de Finanças
-
 CFG – Certificação de Fundamentos de Gestão
-
-5
-
 # Cap (Teto) e Floor (Piso)
 
 ## Definição
 
 Este tipo de operação consiste em fixar a taxa máxima de juro do financiamento ou garantir um valor mínimo para a taxa de juro da aplicação financeira. Desta forma, as operações são:
 
-* ➢ <u>Cap(Teto)</u>: estrutura que envolve a compra de uma opção de compra (call) de taxa de juros. Na prática, funciona como um limite de taxa de juros em um produto de crédito de taxa variável. Isso porque um devedor de um empréstimo com taxa de juros variável é prejudicado com a elevação dos juros. Ao adquirir uma call de taxa de juros, ele continua sendo prejudicado com a elevação dos juros, mas os ganhos com a opção neutralizam esse movimento. Assim, é estabelecido um teto (cap) para elevação dos juros.
+*  <u>Cap(Teto)</u>: estrutura que envolve a compra de uma opção de compra (call) de taxa de juros. Na prática, funciona como um limite de taxa de juros em um produto de crédito de taxa variável. Isso porque um devedor de um empréstimo com taxa de juros variável é prejudicado com a elevação dos juros. Ao adquirir uma call de taxa de juros, ele continua sendo prejudicado com a elevação dos juros, mas os ganhos com a opção neutralizam esse movimento. Assim, é estabelecido um teto (cap) para elevação dos juros.
 
-* ➢ <u>Floor (Piso)</u>: estrutura análoga à do cap, mas que envolve a compra de uma opção de venda (put) e, com isso, funciona como um limite mínimo de rentabilidade dos papéis de um investidor. Com a queda dos juros, o investidor pós-fixado é prejudicado; porém, a compra da put, nesse cenário, proporciona ganhos, neutralizando a perda com a redução dos juros, funcionando como um piso (floor).
-
-Logo Rafael Toro Academia de Finanças
+*  <u>Floor (Piso)</u>: estrutura análoga à do cap, mas que envolve a compra de uma opção de venda (put) e, com isso, funciona como um limite mínimo de rentabilidade dos papéis de um investidor. Com a queda dos juros, o investidor pós-fixado é prejudicado; porém, a compra da put, nesse cenário, proporciona ganhos, neutralizando a perda com a redução dos juros, funcionando como um piso (floor).
 
 CFG – Certificação de Fundamentos de Gestão
-
-6
-
-296
-
----
-
 # Collar
 
 ## Definição
@@ -1615,20 +1174,15 @@ Consiste na combinação de um Cap e um Floor, em que se obtém tanto um limite 
 
 É possível também montar uma operação de *collar* possuindo o ativo-objeto. O objetivo é proteger o investidor contra quedas do ativo-objeto; porém, em compensação, essa estrutura também limita os ganhos. Para montar essa estrutura, é necessário:
 
-➢ Comprar o ativo-objeto;
+ Comprar o ativo-objeto;
 
-➢ Comprar opção de venda (put) com strike próximo ao valor do ativo-objeto. Isso protegerá o investidor contra quedas abaixo desse strike;
+ Comprar opção de venda (put) com strike próximo ao valor do ativo-objeto. Isso protegerá o investidor contra quedas abaixo desse strike;
 
-➢ Vende opção de compra (call) com strike superior, que será o limitador do lucro máximo.
+ Vende opção de compra (call) com strike superior, que será o limitador do lucro máximo.
 
 Essa operação geralmente não envolve desembolso inicial, pois o prêmio pago pela compra da put é praticamente subsidiado por completo pela venda da call.
 
-Logo Rafael Toro
-
 CFG – Certificação de Fundamentos de Gestão
-
-7
-
 # Operações Estruturadas
 
 ## Collar
@@ -1661,16 +1215,7 @@ Este é o gráfico do resultado financeiro de um investidor que COMPRA uma PUT (
 <tr><td>16</td><td>-2</td><td>0</td><td>4</td><td>2</td></tr>
 </table>
 
-Logo Rafael Toro
-
 CFG – Certificação de Fundamentos de Gestão
-
-8
-
-297
-
----
-
 # Call Spread
 
 ## <u>Definição</u>
@@ -1681,14 +1226,9 @@ Geralmente é usado quando há expectativa de <mark>valorização do ativo-objet
 
 Para montar essa estrutura, é necessário:
 
-* ➢ Comprar opção de compra (Call) de strike menor;
+*  Comprar opção de compra (Call) de strike menor;
 
-* ➢ Vender opção de compra (Call) de strike maior, diminuindo assim o custo da operação.
-
-Logo Rafael Toro Academia de Finanças
-
-9
-
+*  Vender opção de compra (Call) de strike maior, diminuindo assim o custo da operação.
 CFG – Certificação de Fundamentos de Gestão
 
 # Operações Estruturadas
@@ -1722,17 +1262,7 @@ Este é o gráfico do resultado financeiro de um investidor que <mark>COMPRA</ma
 <tr><td>15</td><td>2</td><td>-0,5</td><td>1,5</td></tr>
 <tr><td>16</td><td>3</td><td>-1,5</td><td>1,5</td></tr>
 </table>
-
-Logo Rafael Toro Academia de Finanças
-
-10
-
 CFG – Certificação de Fundamentos de Gestão
-
-298
-
----
-
 # Put Spread
 
 ## Definição
@@ -1747,12 +1277,7 @@ Para montar essa estrutura, é necessário:
 
 * Comprar opção de venda (Put) de strike maior.
 
-Rafael Toro Academia de Finanças
-
 CFG – Certificação de Fundamentos de Gestão
-
-11
-
 # Operações Estruturadas
 
 ## Put Spread (Trava de baixa)
@@ -1784,17 +1309,7 @@ Este é o gráfico do resultado financeiro de um investidor que **VENDE** uma **
 <tr><td>15</td><td>0,5</td><td>-1</td><td>-0,5</td></tr>
 <tr><td>16</td><td>0,5</td><td>-1</td><td>-0,5</td></tr>
 </table>
-
-Rafael Toro Academia de Finanças
-
-12
-
 CFG – Certificação de Fundamentos de Gestão
-
-299
-
----
-
 # Opções exóticas (com barreiras)
 
 ## Definição
@@ -1805,36 +1320,22 @@ As opções podem ser montadas fora dos padrões estabelecidos pela B3, com a li
 
 O exercício da opção deve ser solicitado pelos respectivos titulares, pois a B3 somente registra as opções. Importante ressaltar que, uma vez acionado o "gatilho", a opção não será revertida, mesmo que os preços voltem ao patamar original. Com isso, a condição acionada ficará valendo até o vencimento da opção.
 
-Logo da Rafael Toro Academia de Finanças
-
 CFG – Certificação de Fundamentos de Gestão
-
-13
-
 # Opções exóticas (com barreiras)
 
 ## Tipos
 
 As quatro principais formas de opções com barreiras são:
 
-* ➢ *<mark>Up-and-in(SUBIR-E-ULTRAPASSAR)</mark>*: A opção somente irá ser ativada se o preço do ativo-objeto <mark>valorizar e ultrapassar</mark> o valor da barreira. Por exemplo, as ações da ART valem hoje R$ 10,00. Se em algum momento, elas forem negociadas acima de “R$ 12,00” a opção irá ser ativada. Caso contrário, a opção irá expirar sem valor (virar pó).
+*  *<mark>Up-and-in(SUBIR-E-ULTRAPASSAR)</mark>*: A opção somente irá ser ativada se o preço do ativo-objeto <mark>valorizar e ultrapassar</mark> o valor da barreira. Por exemplo, as ações da ART valem hoje R$ 10,00. Se em algum momento, elas forem negociadas acima de “R$ 12,00” a opção irá ser ativada. Caso contrário, a opção irá expirar sem valor (virar pó).
 
-* ➢ *<mark>Down-and-in (DESCER-E-ULTRAPASSAR)</mark>*: A opção somente irá ser ativada se o preço do ativo-objeto <mark>desvalorizar e ultrapassar</mark> o valor da barreira. Por exemplo, as ações da ART valem hoje R$ 10,00. Se em algum momento, elas forem negociadas abaixo de “R$ 7,00” a opção irá ser ativada. Caso contrário, a opção irá expirar sem valor (virar pó).
+*  *<mark>Down-and-in (DESCER-E-ULTRAPASSAR)</mark>*: A opção somente irá ser ativada se o preço do ativo-objeto <mark>desvalorizar e ultrapassar</mark> o valor da barreira. Por exemplo, as ações da ART valem hoje R$ 10,00. Se em algum momento, elas forem negociadas abaixo de “R$ 7,00” a opção irá ser ativada. Caso contrário, a opção irá expirar sem valor (virar pó).
 
-* ➢ *<u>Up-and-out</u>*: A opção <u>DEIXARÁ DE EXISTIR</u> caso o ativo-objeto valorize acima da barreira. Por exemplo, se ações da ART valem hoje R$ 10,00. Se em algum momento, elas forem negociadas acima de “R$ 12,00” a opção irá expirar e virar pó.
+*  *<u>Up-and-out</u>*: A opção <u>DEIXARÁ DE EXISTIR</u> caso o ativo-objeto valorize acima da barreira. Por exemplo, se ações da ART valem hoje R$ 10,00. Se em algum momento, elas forem negociadas acima de “R$ 12,00” a opção irá expirar e virar pó.
 
-* ➢ *<u>Down-and-out</u>*: A opção <u>DEIXARÁ DE EXISTIR</u> caso o ativo-objeto desvalorize abaixo da barreira. Por exemplo, as ações da ART valem hoje R$ 10,00. Se em algum momento, elas forem negociadas abaixo de “R$ 7,00” a opção irá expirar e virar pó.
-
-Logo da Rafael Toro Academia de Finanças
+*  *<u>Down-and-out</u>*: A opção <u>DEIXARÁ DE EXISTIR</u> caso o ativo-objeto desvalorize abaixo da barreira. Por exemplo, as ações da ART valem hoje R$ 10,00. Se em algum momento, elas forem negociadas abaixo de “R$ 7,00” a opção irá expirar e virar pó.
 
 CFG – Certificação de Fundamentos de Gestão
-
-14
-
-300
-
----
-
 # Operações Estruturadas
 
 ## <u>Long Straddle</u>
@@ -1843,12 +1344,7 @@ A operação “Long Straddle” também é conhecida como “Compra de Volatili
 
 Esta operação consiste em que o investidor espera que o ativo se mova acentuadamente em qualquer direção (alta volatilidade), pois se cair demasiadamente ele ganhará na compra da PUT e se o ativo (ação) subir muito ele ganhará na CALL. Desta forma, o lucro é ilimitado e o prejuízo limitado (custo das opções). O investidor perderá seu dinheiro caso o ativo fique estável (não haja volatilidade).
 
-Logo da Rafael Toro Academia de Finanças
-
 CFG – Certificação de Fundamentos de Gestão
-
-15
-
 # Operações Estruturadas
 
 ## <u>Long Straddle</u>
@@ -1876,16 +1372,7 @@ Este é o gráfico do resultado financeiro de um investidor que <mark>COMPRA</ma
 <tr><td>99</td><td>82</td><td>+15</td><td>-2</td><td>+13</td></tr>
 </table>
 
-Logo da Rafael Toro Academia de Finanças
-
 CFG – Certificação de Fundamentos de Gestão
-
-16
-
-301
-
----
-
 # Operações Estruturadas
 
 ## <u>Short Straddle</u>
@@ -1894,12 +1381,7 @@ A operação “Short Straddle” também é conhecida como “Venda de Volatili
 
 Nesta operação o investidor espera que o ativo em referência não tenha muita volatilidade, com o ativo ficando estável até a data do exercício das opções. Lembrando que as opções CALL e PUT necessitam ser do mesmo vencimento e do mesmo strike (mesmo valor de vencimento).
 
-Logo da Academia de Finanças
-
 CFG – Certificação de Fundamentos de Gestão
-
-17
-
 # Operações Estruturadas
 
 ## <u>Short Straddle</u>
@@ -1934,16 +1416,7 @@ Este é o gráfico do resultado financeiro de um investidor que **VENDE** uma **
 <tr><td>99</td><td>82</td><td>-15</td><td>+2</td><td>-13</td></tr>
 </table>
 
-Logo da Academia de Finanças
-
 CFG – Certificação de Fundamentos de Gestão
-
-18
-
-302
-
----
-
 # Operações Estruturadas
 
 ## <u>Long Strangle</u>
@@ -1951,11 +1424,6 @@ CFG – Certificação de Fundamentos de Gestão
 O Long Strangle é uma estratégia que consiste em comprar uma CALL fora do dinheiro e comprar uma Put também Out-The-Money, com diferentes preços de exercícios mas com o mesmo prazo de vencimento.
 
 Assim, esta operação busca ganhos em um mercado volátil, onde há bastante oscilação do ativo. Essa estratégia é bastante utilizada quando se acredita que a ação vai se movimentar, porém sem saber ao certo em qual direção (para cima ou para baixo), sendo utilizada pelos investidores agressivos, através da compra dessas duas opções. Essa estratégia é parecida com a Long Straddle, com a diferença que o prejuízo máximo será menor.
-
-Logo Rafael Toro Academia de Finanças
-
-19
-
 CFG – Certificação de Fundamentos de Gestão
 
 # Operações Estruturadas
@@ -1979,16 +1447,7 @@ Este é o gráfico do resultado financeiro de um investidor que <mark>COMPRA</ma
 
 ### Resultado da operação Long Straddle
 
-Logo Rafael Toro Academia de Finanças
-
 CFG – Certificação de Fundamentos de Gestão
-
-20
-
-303
-
----
-
 # Operações Estruturadas
 
 ## <u>Short Strangle</u>
@@ -1996,11 +1455,6 @@ CFG – Certificação de Fundamentos de Gestão
 O *Short Strangle*, também chamada de MESA, é uma estratégia que consiste em <u>vender</u> uma CALL fora do dinheiro e <u>vender</u> uma Put também *Out-The-Money*, com diferentes preços de exercícios mas com o mesmo prazo de vencimento.
 
 Ao contrário da *Long Strangle*, esta operação busca ter ganhos em um mercado ESTÁVEL, sem grandes oscilações. Esta estratégia também possui o problema do prejuízo ilimitado, já que estará vendida em uma CALL.
-
-Logo Rafael Toro Academia de Finanças
-
-21
-
 CFG – Certificação de Fundamentos de Gestão
 
 # Operações Estruturadas
@@ -2036,17 +1490,7 @@ Este é o gráfico do resultado financeiro de um investidor que **VENDE** uma **
 <tr><td>90</td><td>84/80</td><td>-5</td><td>+1</td><td>-4</td></tr>
 <tr><td>99</td><td>84/80</td><td>-14</td><td>+1</td><td>-13</td></tr>
 </table>
-
-Logo Rafael Toro Academia de Finanças
-
-22
-
 CFG – Certificação de Fundamentos de Gestão
-
-304
-
----
-
 # Operações Estruturadas
 
 ## <u>Long Butterfly</u>
@@ -2063,12 +1507,7 @@ A Butterfly é uma estrutura com opções em que o investidor se beneficia o qua
 
 A proporção 1:2:1 deve sempre ser mantida!
 
-Logo Rafael Toro Academia de Finanças
-
 CFG – Certificação de Fundamentos de Gestão
-
-23
-
 # Operações Estruturadas
 
 ## <u>Long Butterfly</u>
@@ -2103,16 +1542,7 @@ Este é o gráfico do resultado financeiro de um investidor que <mark>COMPRA</ma
 <tr><td>70</td><td>5</td><td>-6</td><td>-1</td></tr>
 </table>
 
-Logo Rafael Toro Academia de Finanças
-
 CFG – Certificação de Fundamentos de Gestão
-
-24
-
-305
-
----
-
 # Operações Estruturadas
 
 ## <u>Short Butterfly</u>
@@ -2131,13 +1561,8 @@ Já a Short Butterfly também é uma estrutura com opções, mas em que o invest
 
 A proporção 1:2:1 deve sempre ser mantida!
 
-Logo Rafael Toro Academia de Finanças
-
 CFG – Certificação de Fundamentos de Gestão
 CFG – Certificação de Fundamentos de Gestão
-
-25
-
 # Operações Estruturadas
 
 ## <u>Short Butterfly</u>
@@ -2171,15 +1596,6 @@ Este é o gráfico do resultado financeiro de um investidor que <mark>VENDE</mar
 <tr><td>65</td><td>5</td><td>-4</td><td>+1</td></tr>
 <tr><td>70</td><td>-5</td><td>6</td><td>+1</td></tr>
 </table>
-
-Logo Rafael Toro Academia de Finanças
-
-26
-
-306
-
----
-
 # Modelo Black-Scholes: as Gregas
 
 ## <u>Conceito</u>
@@ -2196,12 +1612,7 @@ As chamadas gregas são derivadas do modelo de precificação de ativos de Black
 
 Há ainda uma quinta grega, o **Gamma (Γ)**, que mede a taxa de variação do delta em relação ao preço do ativo-objeto.
 
-Logo da Rafael Toro Academia de Finanças
-
 CFG – Certificação de Fundamentos de Gestão
-
-27
-
 # Modelo Black-Scholes: as Gregas
 
 ## <u>Conceito</u>
@@ -2215,16 +1626,7 @@ CFG – Certificação de Fundamentos de Gestão
 <tr><td>Gamma (Γ)</td><td>Delta x preço do ativo-objeto</td></tr>
 </table>
 
-Logo da Rafael Toro Academia de Finanças
-
 CFG – Certificação de Fundamentos de Gestão
-
-28
-
-307
-
----
-
 # Put-call Parity
 
 ## Conceito
@@ -2244,11 +1646,6 @@ PV (x) = Valor presente do preço de exercício (x), descontado pela taxa livre 
 P = preço da opção de venda (put);
 
 S = preço à vista (spot) do ativo subjacente.
-
-Logo da Rafael Toro Academia de Finanças
-
-29
-
 CFG – Certificação de Fundamentos de Gestão
 
 # Put-call Parity
@@ -2261,17 +1658,7 @@ $$ C + PV(x) = P + S $$
 $$ C + \frac{55}{(1+0,05)} = 10 + 50 $$
 $$ C + 52,38 = 60 $$
 $$ C = 60 – 52,38 = 7,62. $$
-
-Logo da Rafael Toro Academia de Finanças
-
-30
-
 CFG – Certificação de Fundamentos de Gestão
-
-308
-
----
-
 # Delta Hedge
 
 ## Conceito
@@ -2286,12 +1673,7 @@ Se as flutuações de preços do ativo forem perfeitamente combinadas para neutr
 
 Outra forma é comprar uma opção de compra (Call) com um delta de X, e comprar uma opção de venda (Put) com um delta de -X, para compensar o delta positivo, o que faria com que a posição tivesse um delta de zero.
 
-Logo Rafael Toro Academia de Finanças
-
 CFG – Certificação de Fundamentos de Gestão
-
-31
-
 # Delta Hedge
 
 ## Como funciona?
@@ -2304,16 +1686,7 @@ Por exemplo, se uma opção de compra de ações ART tiver um delta de 0,5, sign
 
 O delta de uma opção de compra (Call) varia entre zero e um, enquanto o delta de uma opção de venda (Put) varia entre menos um e zero. Espera-se que o preço de uma opção de venda com um delta de - 0,50 suba 50 centavos se o ativo subjacente cair $ 1. O contrário também é verdadeiro.
 
-Logo Rafael Toro Academia de Finanças
-
 CFG – Certificação de Fundamentos de Gestão
-
-32
-
-309
-
----
-
 # Delta Hedge
 
 ## <u>Vantagens e riscos</u>
@@ -2330,32 +1703,18 @@ CFG – Certificação de Fundamentos de Gestão
 
 * Pode ocorrer *over-hedging*, se o delta for compensado demais ou se os mercados mudarem inesperadamente depois que o hedge estiver em vigor.
 
-Logo da Rafael Tor Academia de Finanças
-
 CFG – Certificação de Fundamentos de Gestão
-
-33
-
 # Delta Hedge
 
 ## <u>Exemplo</u>
 
 Um investidor possui 10.000 contratos de opção de compra da ação X, que por sua vez é negociada a R$ 5,00 no mercado à vista. Cada contrato de opção de compra equivale a 100 opções e a opção tem um delta de 0,80.
 
-Isso significa que a exposição do investidor será de 10.000 contratos x 100 ações/contrato = 1.000.000 ações. Se a ação X subir 1%, isso significa que o preço da opção subirá 0,8 x 1% = 0,80%. Logo, o financeiro da carteira do investidor subirá 0,80%.
+Isso significa que a exposição do investidor será de 10.000 contratos x 100 ações/contrato = 1.000.000 ações. Se a ação X subir 1%, isso significa que o preço da opção subirá 0,8 x 1% = 0,80%. , o financeiro da carteira do investidor subirá 0,80%.
 
 Sendo R$ 5,00 o valor de cada ação, a variação do financeiro da carteira será de R$ 5,00/ação x 1.000.000 ações x 0,80 (delta) x 1,01 (variação de 1% no preço da ação) = R$ 40.000,00.
 
-Logo da Rafael Tor Academia de Finanças
-
 CFG – Certificação de Fundamentos de Gestão
-
-34
-
-310
-
----
-
 # Delta Hedge
 
 ## Exemplo
@@ -2370,10 +1729,4 @@ Isso porque, se o preço da ação subir 1%, a variação do financeiro da carte
 
 Como ele está comprado em 4.000.000 ações, 1% de alta significa R$ 40.000,00 de ganhos, neutralizando a perda calculada acima.
 
-Logo da Rafael Toro Academia de Finanças
-
 CFG – Certificação de Fundamentos de Gestão
-
-35
-
-311

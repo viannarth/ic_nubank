@@ -8,39 +8,23 @@ Quando este devedor for o governo federal, dizemos que é um <u>título público
 
 Atualmente, os títulos do Governo Federal possuem a maior relevância dentre o mercado de renda fixa nacional, movimentando aproximadamente 95% do volume financeiro. Isso demonstra que os títulos privados de crédito ainda possuem pouca relevância no mercado nacional. Vale ressaltar que o Governo Federal também utiliza os títulos do Tesouro Nacional como ferramenta para a rolagem da dívida pública federal.
 
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-3
-
 # Renda Fixa
 
 ## Glossário
 
 Alguns conceitos serão importantes dentro da renda fixa, tais como:
 
-➢ <u>TÍTULO</u>: É a obrigação legal assumida entre um emissor (devedor) e um credor (investidor), ou seja, o título de renda fixa é um contrato de dívida.
+ <u>TÍTULO</u>: É a obrigação legal assumida entre um emissor (devedor) e um credor (investidor), ou seja, o título de renda fixa é um contrato de dívida.
 
-➢ <u>VALOR DE FACE</u>: também chamado de <u>“valor nominal”</u> ou <u>“valor de resgate”</u>, ele é o valor que o emissor devolverá ao credor no vencimento do título, a menos que não tenha ocorrido default.
+ <u>VALOR DE FACE</u>: também chamado de <u>“valor nominal”</u> ou <u>“valor de resgate”</u>, ele é o valor que o emissor devolverá ao credor no vencimento do título, a menos que não tenha ocorrido default.
 
-➢ <u>VALOR PRINCIPAL</u>: Este é o valor que o emissor recebeu sobre a emissão do título e que será devolvido ao credor acrescido dos juros pactuados.
+ <u>VALOR PRINCIPAL</u>: Este é o valor que o emissor recebeu sobre a emissão do título e que será devolvido ao credor acrescido dos juros pactuados.
 
-➢ <u>CUPOM</u>: É a remuneração periódica em dinheiro feita ao investidor, ou seja, os juros pagos pelo título pactuados entre o credor e o emissor.
+ <u>CUPOM</u>: É a remuneração periódica em dinheiro feita ao investidor, ou seja, os juros pagos pelo título pactuados entre o credor e o emissor.
 
-➢ <u>CUPOM RATE</u>: este é o percentual que será calculado o valor de cupom a ser pago ao investidor, sendo sempre aplicado sobre o valor principal e não sobre os valores negociados no mercado secundário.
+ <u>CUPOM RATE</u>: este é o percentual que será calculado o valor de cupom a ser pago ao investidor, sendo sempre aplicado sobre o valor principal e não sobre os valores negociados no mercado secundário.
 
-➢ <u>MATURIDADE (VENCIMENTO)</u>: Não devemos confundir “MATURIDADE” com “PRAZO MÉDIO” do título. Maturidade é quando a dívida irá encerrar. Já o Prazo Médio leva em consideração todos os recebimentos de juros pagos. Títulos sem Cupom, possuem Maturidade e Prazo Médio Iguais.
-
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-4
-
-103
-
----
+ <u>MATURIDADE (VENCIMENTO)</u>: Não devemos confundir “MATURIDADE” com “PRAZO MÉDIO” do título. Maturidade é quando a dívida irá encerrar. Já o Prazo Médio leva em consideração todos os recebimentos de juros pagos. Títulos sem Cupom, possuem Maturidade e Prazo Médio Iguais.
 
 # Renda Fixa
 
@@ -48,22 +32,15 @@ ANCORD – Assessor de Investimentos
 
 Esses títulos possuem uma remuneração financeira pré-estabelecida e por este motivo o nome de “renda fixa”, pois a renda (retorno) será fixado em algo, podendo ser:
 
-* ➢ <u>Prefixados</u>: Onde a taxa de juros é previamente conhecida, ou seja, sabemos a remuneração final <u>desde o início</u>. Pode ser um desconto sobre o valor de face (ex: um desconto sobre um cheque) ou uma taxa pré-estabelecida (ex: 10% ao ano).
+*  <u>Prefixados</u>: Onde a taxa de juros é previamente conhecida, ou seja, sabemos a remuneração final <u>desde o início</u>. Pode ser um desconto sobre o valor de face (ex: um desconto sobre um cheque) ou uma taxa pré-estabelecida (ex: 10% ao ano).
 
-* ➢ <u>Pós-Fixados</u>: Onde a taxa será atrelada a uma referência de mercado (CDI, IPCA, IGP-M) e que iremos saber a rentabilidade <u>somente no final</u> da aplicação. Por exemplo, CDB rendendo 100% do CDI. No final da aplicação, calcula-se o CDI do período do contrato e corrige o título a esta taxa.
+*  <u>Pós-Fixados</u>: Onde a taxa será atrelada a uma referência de mercado (CDI, IPCA, IGP-M) e que iremos saber a rentabilidade <u>somente no final</u> da aplicação. Por exemplo, CDB rendendo 100% do CDI. No final da aplicação, calcula-se o CDI do período do contrato e corrige o título a esta taxa.
 
 Por se tratar de uma dívida, ela poderá ser paga aos poucos ou apenas no final. Desta forma, poderemos classificar os títulos de renda fixa também como::
 
-* ➢ <u>ZeroCupom (Bullet)</u>: São títulos que toda a remuneração é paga no final, ou seja, não possui juros periódicos e por isso o nome “sem cupom”.
+*  <u>ZeroCupom (Bullet)</u>: São títulos que toda a remuneração é paga no final, ou seja, não possui juros periódicos e por isso o nome “sem cupom”.
 
-* ➢ <u>Amortizados</u>: São títulos no qual, além dos juros serem pagos durante a dívida, parte do principal também será paga antes da data de vencimento. Pois juros é o “fruto” do que você investiu, já amortização é o próprio valor que você investiu.
-
-Rafael Toro Academia de Finanças logo
-
-5
-
-ANCORD – Assessor de Investimentos
-
+*  <u>Amortizados</u>: São títulos no qual, além dos juros serem pagos durante a dívida, parte do principal também será paga antes da data de vencimento. Pois juros é o “fruto” do que você investiu, já amortização é o próprio valor que você investiu.
 # Relação entre Títulos Públicos e Privados
 
 ## Formação de Preços e a TLR
@@ -71,17 +48,6 @@ ANCORD – Assessor de Investimentos
 Cada título de dívida possui uma taxa de juros relacionada, que considera uma taxa livre de riscos (TLR) mais um prêmio pelo risco. Chamamos de <u>Taxa Livre de Risco</u> o investimento que possui o menor risco de crédito possível (no Brasil, utilizamos os títulos públicos e como referência a LFT – Tesouro Selic, que é um título pós-fixado atrelado a taxa básica da economia brasileira). Essa taxa é importante pois a partir dela, balizamos todos os outros investimentos (Princípio da Dominância).
 
 Isso por que os títulos públicos possuem uma avaliação de risco, via de regra, menor do que os privados. Por exemplo, o risco soberano de um país é menor do que o risco de uma empresa desse país. Dessa forma, os títulos privados costumam pagar um juro (remuneração) superior aos títulos públicos, devido ao seu prêmio por risco de crédito ser maior. Sendo assim, cada título de dívida possui uma taxa de juros relacionada, que considera uma taxa livre de riscos mais um prêmio pelo risco e esta diferença a chamamos de *Spread*.
-
-Rafael Toro Academia de Finanças logo
-
-6
-
-ANCORD – Assessor de Investimentos
-
-104
-
----
-
 # Relação entre Títulos Públicos e Privados
 
 ## Spread de Crédito
@@ -92,86 +58,51 @@ O Spread de Crédito é uma medida que representa a probabilidade de inadimplên
 <tr><th></th><th>Título Privado B</th><th>Título Privado A</th><th>Título Público (benchmark)</th></tr>
 <tr><td>Taxa de Juros (%)</td><td>Spread B</td><td>Spread A</td><td></td></tr>
 </table>
-
-Logo Rafael Toro Academia de Finanças 7
-
-ANCORD – Assessor de Investimentos
-
 # Resgate Antecipado ou Vencimento Antecipado
 
 ## Conceito
 
 Como os ativos de renda fixa são dívidas, diversas vezes apresentam garantias reais, como um terreno ou uma sala comercial. No entanto, existem outras formas do credor se proteger. Essas formas são cláusulas impostas nos contratos e eles podem ser de duas maneiras. São elas:
 
-* ➢ <u>Quebra de Covenants:</u> Covenants são cláusulas contratuais de títulos de dívida, que protegem o interesse do credor estabelecendo condições que não devem ser descumpridas. De maneira geral, caso um covenant seja quebrado, <u>o credor tem o direito de requerer o vencimento antecipado da dívida</u>. Estas condições tem por objetivo reduzir o risco de não recebimento por parte do credor e, também reduzir o custo da dívida do credor.
+*  <u>Quebra de Covenants:</u> Covenants são cláusulas contratuais de títulos de dívida, que protegem o interesse do credor estabelecendo condições que não devem ser descumpridas. De maneira geral, caso um covenant seja quebrado, <u>o credor tem o direito de requerer o vencimento antecipado da dívida</u>. Estas condições tem por objetivo reduzir o risco de não recebimento por parte do credor e, também reduzir o custo da dívida do credor.
 
-* ➢ <u>Cross Default:</u> Esta regra, também chamado de cláusula de vencimento antecipado, quer dizer que se uma dívida do emissor vencer e ele ficar inadimplente, os outros títulos de dívida também estarão vencidos automaticamente. O contrário é verdadeiro, ou seja, se ele não pagar a dívida referenciada, ou os juros, as outras dívidas podem ser declaradas vencidas automaticamente. É como se fosse um “bloco único” de obrigações inter-relacionadas.
-
-Logo Rafael Toro Academia de Finanças 8
-
-ANCORD – Assessor de Investimentos
-
-105
-
----
-
+*  <u>Cross Default:</u> Esta regra, também chamado de cláusula de vencimento antecipado, quer dizer que se uma dívida do emissor vencer e ele ficar inadimplente, os outros títulos de dívida também estarão vencidos automaticamente. O contrário é verdadeiro, ou seja, se ele não pagar a dívida referenciada, ou os juros, as outras dívidas podem ser declaradas vencidas automaticamente. É como se fosse um “bloco único” de obrigações inter-relacionadas.
 # Garantias
 
 ## Tipos
 
 As debêntures podem ser classificadas em 4 tipos de garantias. São elas:
 
-* ➢ <u>GARANTIA REAL</u>: fornecida pela emissora pressupõe a obrigação de não alienar ou onerar o bem registrado em garantia, tem preferência sobre outros credores, desde que averbada no registro. <u>É UMA GARANTIA FORTE</u>;
+*  <u>GARANTIA REAL</u>: fornecida pela emissora pressupõe a obrigação de não alienar ou onerar o bem registrado em garantia, tem preferência sobre outros credores, desde que averbada no registro. <u>É UMA GARANTIA FORTE</u>;
 
-* ➢ <u>GARANTIA FLUTUANTE</u>: assegura privilégio geral sobre o ativo da companhia, mas não impede a negociação dos bens que compõem esse ativo. Ela marca lugar na fila dos credores, e está na preferência, após as garantias reais, dos encargos trabalhistas e dos impostos. <u>É UMA GARANTIA FRACA</u>, e sua execução privilegiada é de difícil realização, pois caso a emissora esteja em situação financeira delicada, dificilmente haverá um ativo não comprometido pela companhia;
+*  <u>GARANTIA FLUTUANTE</u>: assegura privilégio geral sobre o ativo da companhia, mas não impede a negociação dos bens que compõem esse ativo. Ela marca lugar na fila dos credores, e está na preferência, após as garantias reais, dos encargos trabalhistas e dos impostos. <u>É UMA GARANTIA FRACA</u>, e sua execução privilegiada é de difícil realização, pois caso a emissora esteja em situação financeira delicada, dificilmente haverá um ativo não comprometido pela companhia;
 
-* ➢ <u>GARANTIA QUIROGRAFÁRIA</u>: ou sem preferência, não oferece privilégio algum sobre o ativo da emissora, concorrendo em igualdade de condições com os demais credores quirografários (sem preferência), em caso de falência da companhia;
+*  <u>GARANTIA QUIROGRAFÁRIA</u>: ou sem preferência, não oferece privilégio algum sobre o ativo da emissora, concorrendo em igualdade de condições com os demais credores quirografários (sem preferência), em caso de falência da companhia;
 
-* ➢ <u>GARANTIA SUBORDINADA</u>: na hipótese de liquidação da companhia, oferece preferência de pagamento tão somente sobre o crédito de seus acionistas.
+*  <u>GARANTIA SUBORDINADA</u>: na hipótese de liquidação da companhia, oferece preferência de pagamento tão somente sobre o crédito de seus acionistas.
 
 ❑ **LEMBRE-SE**: REFLUQSU!
-
-Logo da Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-9
 
 Bandeira do Brasil
 
 # Títulos Públicos Federais
-
-10
-
-ANCORD – Assessor de Investimentos
-
-106
-
----
-
 # Títulos Públicos Federais (TPF)
 
 ## Conceito
 
 Os Títulos Públicos Federais (TPF) são títulos de renda fixa emitidos pelo Tesouro Nacional. Esse rendimento pode ter sua remuneração prefixada ou pós-fixada (diferentes indexadores). <u>Servem para cobertura de déficits do Tesouro Nacional, rolagem da dívida pública.</u> Além disso, eles são escriturais, nominativos e negociáveis no mercado secundário. Os principais Títulos Públicos Federais são:
 
-* ➢ LTN (Tesouro Prefixado);
+*  LTN (Tesouro Prefixado);
 
-* ➢ LFT (Tesouro Selic);
+*  LFT (Tesouro Selic);
 
-* ➢ NTN-B Principal (Tesouro IPCA);
+*  NTN-B Principal (Tesouro IPCA);
 
-* ➢ NTN-B (Tesouro IPCA com Juros Semestrais);
+*  NTN-B (Tesouro IPCA com Juros Semestrais);
 
-* ➢ NTN-F (Tesouro Prefixado com Juros Semestrais).
+*  NTN-F (Tesouro Prefixado com Juros Semestrais).
 
 Importante salientar que, conceitualmente, os títulos públicos federais são considerados os ativos livre de risco para as aplicações em moeda nacional, ou seja, não possuem risco de crédito, mas sim, <mark>risco soberano</mark>. Isto ocorre somente em teoria, pois havendo uma aplicação em renda fixa, há um devedor, gerando risco de crédito.
-
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-11
 
 # Títulos Públicos Federais (TPF)
 
@@ -181,29 +112,19 @@ As Letras do Tesouro Nacional (LTN), com nome atual de Tesouro Prefixado, são t
 
 ❑ <u>PRINCIPAIS CARACTERÍSTICAS:</u>
 
-* ➢ <u>Emissores:</u> Governo Federal;
+*  <u>Emissores:</u> Governo Federal;
 
-* ➢ <u>Investidor:</u> Pessoas físicas e jurídicas;
+*  <u>Investidor:</u> Pessoas físicas e jurídicas;
 
-* ➢ <u>Remuneração:</u> Prefixada (aplica-se um desconto sobre o valor de R$ 1.000,00);
+*  <u>Remuneração:</u> Prefixada (aplica-se um desconto sobre o valor de R$ 1.000,00);
 
-* ➢ <u>Cupom:</u> não possui;
+*  <u>Cupom:</u> não possui;
 
-* ➢ <u>Relação inversa:</u> quanto maior a taxa de desconto, menor o seu PU;
+*  <u>Relação inversa:</u> quanto maior a taxa de desconto, menor o seu PU;
 
-* ➢ <u>Riscos:</u> alto risco de mercado (taxa de juros) e baixo risco de crédito (governo);
+*  <u>Riscos:</u> alto risco de mercado (taxa de juros) e baixo risco de crédito (governo);
 
-* ➢ <u>Quando devemos investir:</u> indicado para investidores que desejam baixíssimo risco de crédito e que acreditam na queda da taxa de juros (SELIC), pois ela já está com a sua rentabilidade garantida até o final.
-
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-12
-
-107
-
----
+*  <u>Quando devemos investir:</u> indicado para investidores que desejam baixíssimo risco de crédito e que acreditam na queda da taxa de juros (SELIC), pois ela já está com a sua rentabilidade garantida até o final.
 
 # Títulos Públicos Federais (TPF)
 
@@ -213,25 +134,19 @@ As Letras Financeiras do Tesouro (LFT), com nome atual de Tesouro Pós-fixado), 
 
 ❑ **PRINCIPAIS CARACTERÍSTICAS:**
 
-* ➢ **Emissores:** Governo Federal;
+*  **Emissores:** Governo Federal;
 
-* ➢ **Investidor:** Pessoas físicas e jurídicas;
+*  **Investidor:** Pessoas físicas e jurídicas;
 
-* ➢ **Remuneração:** Pós-fixada (valor aplicado corrigido pela taxa Selic);
+*  **Remuneração:** Pós-fixada (valor aplicado corrigido pela taxa Selic);
 
-* ➢ **Cupom:** não possui;
+*  **Cupom:** não possui;
 
-* ➢ **Relação DIRETA:** quanto maior a taxa Selic for no período, maior a rentabilidade;
+*  **Relação DIRETA:** quanto maior a taxa Selic for no período, maior a rentabilidade;
 
-* ➢ **Riscos:** baixo risco de mercado (taxa de juros) e baixo risco de crédito (governo);
+*  **Riscos:** baixo risco de mercado (taxa de juros) e baixo risco de crédito (governo);
 
-* ➢ **Quando devemos investir:** indicado para investidores que desejam baixíssimo risco de crédito e que acreditam na ALTA da taxa de juros (SELIC).
-
-Logo da Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-13
+*  **Quando devemos investir:** indicado para investidores que desejam baixíssimo risco de crédito e que acreditam na ALTA da taxa de juros (SELIC).
 
 # Títulos Públicos Federais (TPF)
 
@@ -241,29 +156,19 @@ As Notas do Tesouro Nacional série B Principal (NTN-B Principal), com nome atua
 
 ❑ **PRINCIPAIS CARACTERÍSTICAS:**
 
-* ➢ **Emissores:** Governo Federal;
+*  **Emissores:** Governo Federal;
 
-* ➢ **Investidor:** Pessoas físicas e jurídicas;
+*  **Investidor:** Pessoas físicas e jurídicas;
 
-* ➢ **Remuneração:** Híbrida (valor aplicado corrigido pelo IPCA + uma taxa fixa);
+*  **Remuneração:** Híbrida (valor aplicado corrigido pelo IPCA + uma taxa fixa);
 
-* ➢ **Cupom:** não possui;
+*  **Cupom:** não possui;
 
-* ➢ **Relação:** relação direta com o IPCA;
+*  **Relação:** relação direta com o IPCA;
 
-* ➢ **Riscos:** moderado risco de mercado (taxa de juros) e baixo risco de crédito;
+*  **Riscos:** moderado risco de mercado (taxa de juros) e baixo risco de crédito;
 
-* ➢ **Quando devemos investir:** indicado para investidores que desejam baixíssimo risco de crédito e que desejam se proteger do risco da inflação (IPCA) ou que acreditam na alta do IPCA.
-
-Logo da Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-14
-
-108
-
----
+*  **Quando devemos investir:** indicado para investidores que desejam baixíssimo risco de crédito e que desejam se proteger do risco da inflação (IPCA) ou que acreditam na alta do IPCA.
 
 # Títulos Públicos Federais (TPF)
 
@@ -273,25 +178,19 @@ As Notas do Tesouro Nacional série B (NTN-B), com nome atual de Tesouro IPCA co
 
 ❑ **<u>PRINCIPAIS CARACTERÍSTICAS:</u>**
 
-* ➢ **<u>Emissores:</u>** Governo Federal.
+*  **<u>Emissores:</u>** Governo Federal.
 
-* ➢ **<u>Invesdor:</u>** Pessoas sicas e jurídicas.
+*  **<u>Invesdor:</u>** Pessoas sicas e jurídicas.
 
-* ➢ **<u>Remuneração:</u>** Híbrida (valor aplicado corrigido pelo IPCA + uma taxa fixa).
+*  **<u>Remuneração:</u>** Híbrida (valor aplicado corrigido pelo IPCA + uma taxa fixa).
 
-* ➢ **<u>Cupom:</u>** <mark>SIM, sendo ele semestral.</mark>
+*  **<u>Cupom:</u>** <mark>SIM, sendo ele semestral.</mark>
 
-* ➢ **<u>Relação:</u>** relação direta com o IPCA;
+*  **<u>Relação:</u>** relação direta com o IPCA;
 
-* ➢ **<u>Riscos:</u>** moderado risco de mercado (taxa de juros) e baixo risco de crédito.
+*  **<u>Riscos:</u>** moderado risco de mercado (taxa de juros) e baixo risco de crédito.
 
-* ➢ **<u>Quando devemos invesr:</u>** indicado para invesdores que desejam baixíssimo risco de crédito e que desejam se proteger do risco da inflação (IPCA) ou que acreditam na alta do IPCA, além de fluxo de caixa semestral. Possui menos risco de mercado que as NTN-B Principal.
-
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Invesmentos
-
-15
+*  **<u>Quando devemos invesr:</u>** indicado para invesdores que desejam baixíssimo risco de crédito e que desejam se proteger do risco da inflação (IPCA) ou que acreditam na alta do IPCA, além de fluxo de caixa semestral. Possui menos risco de mercado que as NTN-B Principal.
 
 # Títulos Públicos Federais (TPF)
 
@@ -301,29 +200,19 @@ As Notas do Tesouro Nacional série F (NTN-F), com nome atual de Tesouro Prefixa
 
 ❑ **<u>PRINCIPAIS CARACTERÍSTICAS:</u>**
 
-* ➢ **<u>Emissores:</u>** Governo Federal.
+*  **<u>Emissores:</u>** Governo Federal.
 
-* ➢ **<u>Invesdor:</u>** Pessoas sicas e jurídicas.
+*  **<u>Invesdor:</u>** Pessoas sicas e jurídicas.
 
-* ➢ **<u>Remuneração:</u>** Prefixada (aplica-se um desconto sobre o valor de R$ 1.000,00);
+*  **<u>Remuneração:</u>** Prefixada (aplica-se um desconto sobre o valor de R$ 1.000,00);
 
-* ➢ **<u>Cupom:</u>** <mark>SIM, sendo ele semestral.</mark>
+*  **<u>Cupom:</u>** <mark>SIM, sendo ele semestral.</mark>
 
-* ➢ **<u>Relação inversa:</u>** quanto maior a taxa de desconto, menor o seu PU.
+*  **<u>Relação inversa:</u>** quanto maior a taxa de desconto, menor o seu PU.
 
-* ➢ **<u>Riscos:</u>** alto risco de mercado (taxa de juros) e baixo risco de crédito (governo).
+*  **<u>Riscos:</u>** alto risco de mercado (taxa de juros) e baixo risco de crédito (governo).
 
-* ➢ **<u>Quando devemos invesr:</u>** indicado para invesdores que desejam baixíssimo risco de crédito e que acreditam na queda da taxa de juros (SELIC), pois ela já está com a sua rentabilidade garantida até o final, além de fluxo de caixa semestral. Possui menos risco de mercado que as LTN.
-
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Invesmentos
-
-16
-
-109
-
----
+*  **<u>Quando devemos invesr:</u>** indicado para invesdores que desejam baixíssimo risco de crédito e que acreditam na queda da taxa de juros (SELIC), pois ela já está com a sua rentabilidade garantida até o final, além de fluxo de caixa semestral. Possui menos risco de mercado que as LTN.
 
 # Tesouro Direto
 
@@ -333,30 +222,17 @@ O Tesouro Direto é um programa de venda de títulos públicos desenvolvido pelo
 
 ❑ **PRINCIPAIS CARACTERÍSTICAS:**
 
-➢ Compra de títulos públicos pela internet, a partir de R$ 30,00, com <u>aplicação máxima de R$ 1 milhão por mês</u>, sendo a quantidade mínima de 0,01 de um título (1% do valor do título). Caso o investidor deseje investir mais que R$ 1 milhão, ele poderá, mas não poderá ser pelo Tesouro Direto, mas pelos meios tradicionais.
+ Compra de títulos públicos pela internet, a partir de R$ 30,00, com <u>aplicação máxima de R$ 1 milhão por mês</u>, sendo a quantidade mínima de 0,01 de um título (1% do valor do título). Caso o investidor deseje investir mais que R$ 1 milhão, ele poderá, mas não poderá ser pelo Tesouro Direto, mas pelos meios tradicionais.
 
-➢ A liquidez das aplicações é garantida através do programa diário de recompra do Tesouro Nacional, gerando liquidez para ao investidor. Importante ressaltar que não há limite financeiro para vendas.
+ A liquidez das aplicações é garantida através do programa diário de recompra do Tesouro Nacional, gerando liquidez para ao investidor. Importante ressaltar que não há limite financeiro para vendas.
 
-➢ Taxa de custódia cobrada pela B3, em 2023, é de 0,20%a.a, podendo ser acrescida por taxa de custódia de instituições financeiras acordadas com o seu investidor;
+ Taxa de custódia cobrada pela B3, em 2023, é de 0,20%a.a, podendo ser acrescida por taxa de custódia de instituições financeiras acordadas com o seu investidor;
 
-➢ Pode ser adquirido diretamente pelo site do Tesouro Direto ou no site da Instituição Financeira.
-
-Rafael Toro Academia de Finanças logo
-
-ANCORD – Assessor de Investimentos
-
-17
+ Pode ser adquirido diretamente pelo site do Tesouro Direto ou no site da Instituição Financeira.
 
 Títulos Emitidos por Instituições Financeiras
 
 Títulos Emitidos por Instituições Fianceiras
-
-18
-
-110
-
----
-
 # Títulos Privados de Renda Fixa
 
 ## Conceito
@@ -365,25 +241,19 @@ Os títulos privados de renda fixa podem ser de instituições financeiras, de i
 
 Os títulos de renda fixa de Instituições Financeiras cobrados em prova são:
 
-* ➢ CDB – Certificado de Depósito Bancário;
+*  CDB – Certificado de Depósito Bancário;
 
-* ➢ RDB – Recibo de Depósito Bancário;
+*  RDB – Recibo de Depósito Bancário;
 
-* ➢ CDI – Certificado de Depósito Interbancário;
+*  CDI – Certificado de Depósito Interbancário;
 
-* ➢ LC – Letra de Câmbio;
+*  LC – Letra de Câmbio;
 
-* ➢ LCI – Letra de Crédito Imobiliário;
+*  LCI – Letra de Crédito Imobiliário;
 
-* ➢ LH – Letra Hipotecária;
+*  LH – Letra Hipotecária;
 
-* ➢ LF – Letra Financeira.
-
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-19
+*  LF – Letra Financeira.
 
 # CDB – Certificado de Depósito Bancário
 
@@ -393,13 +263,13 @@ O CDB (Certificado de Depósito Bancário) é uma das principais ferramentas de 
 
 ## ❑ PRINCIPAIS CARACTERÍSTICAS:
 
-* ➢ **Emissores:** Bancos (Comerciais; de Investimento; de Desenvolvimento; Múltiplos)
+*  **Emissores:** Bancos (Comerciais; de Investimento; de Desenvolvimento; Múltiplos)
 
 e as Financeiras (sociedades de crédito, financiamento e investimento).
 
-* ➢ **Investidor:** Pessoas físicas e jurídicas.
+*  **Investidor:** Pessoas físicas e jurídicas.
 
-* ➢ **Rentabilidade:** Prefixado ou Pós-fixado (DI, TR, TLP, IPCA, ...).
+*  **Rentabilidade:** Prefixado ou Pós-fixado (DI, TR, TLP, IPCA, ...).
 
 o Prazo mínimo com base na remuneração:
 
@@ -409,19 +279,9 @@ o Prazo mínimo com base na remuneração:
 
 - ▪ Índices de inflação – 1 ano.
 
-* ➢ **Tributação:** tabela regressiva de renda fixa (22,5% a 15%).
+*  **Tributação:** tabela regressiva de renda fixa (22,5% a 15%).
 
-* ➢ <u>Garantia de FGC: SIM.</u>
-
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-20
-
-111
-
----
+*  <u>Garantia de FGC: SIM.</u>
 
 # RDB – Recibo de Depósito Bancário
 
@@ -431,23 +291,17 @@ O RDB possui as mesmas características do CDB, sendo que a diferença entre amb
 
 ❑ **PRINCIPAIS CARACTERÍSTICAS:**
 
-➢ **Emissores:** Bancos (Comerciais; de Investimento; de Desenvolvimento; Múltiplos) e as Financeiras (sociedades de crédito, financiamento e investimento).
+ **Emissores:** Bancos (Comerciais; de Investimento; de Desenvolvimento; Múltiplos) e as Financeiras (sociedades de crédito, financiamento e investimento).
 
-➢ **Investidor:** Pessoas físicas e jurídicas.
+ **Investidor:** Pessoas físicas e jurídicas.
 
-➢ **Rentabilidade:** Prefixado ou Pós-fixado (DI, TR, TLP, IPCA, ...).
+ **Rentabilidade:** Prefixado ou Pós-fixado (DI, TR, TLP, IPCA, ...).
 
-➢ **Tributação:** tabela regressiva de renda fixa (22,5% a 15%).
+ **Tributação:** tabela regressiva de renda fixa (22,5% a 15%).
 
-➢ **Mercado Secundário:** Não possui, <u>o RDB é intrasferível einegociável.</u>
+ **Mercado Secundário:** Não possui, <u>o RDB é intrasferível einegociável.</u>
 
-➢ <u>Garantia de FGC: SIM.</u>
-
-Logo Rafael Toro
-
-ANCORD – Assessor de Investimentos
-
-21
+ <u>Garantia de FGC: SIM.</u>
 
 # CDI – Certificado de Depósito Interbancário
 
@@ -457,16 +311,6 @@ Os <u>Certificados de Depósito Interbancário</u> são os títulos de emissão 
 
 O DI é utilizado para avaliar o custo do dinheiro negociado entre os bancos, no setor privado e, como o CDB (Certificado de Depósito Bancário), essa modalidade de aplicação pode render taxa de prefixada ou pós-fixada.
 
-Logo Rafael Toro
-
-ANCORD – Assessor de Investimentos
-
-22
-
-112
-
----
-
 # LCI – Letra de Crédito Imobiliário
 
 ## Características
@@ -475,23 +319,17 @@ A LCI (Letra de Crédito Imobiliário) é um título de crédito, lastreado por 
 
 ❑ **PRINCIPAIS CARACTERÍSTICAS:**
 
-* ➢ **Emissores:** Instituições financeiras (banco comercial, de investimento e múltiplo); Sociedades de crédito imobiliário, associações de poupança e empréstimo; e companhias hipotecária.
+*  **Emissores:** Instituições financeiras (banco comercial, de investimento e múltiplo); Sociedades de crédito imobiliário, associações de poupança e empréstimo; e companhias hipotecária.
 
-* ➢ **Investidores:** Pessoas Físicas e Jurídicas.
+*  **Investidores:** Pessoas Físicas e Jurídicas.
 
-* ➢ **Remuneração:** Prefixado ou Pós-fixado (DI, TR, TLP, IPCA, ...).
+*  **Remuneração:** Prefixado ou Pós-fixado (DI, TR, TLP, IPCA, ...).
 
-* ➢ **Tributação:** isenta de imposto de renda <mark>SOMENTE</mark> para as Pessoas Físicas.
+*  **Tributação:** isenta de imposto de renda <mark>SOMENTE</mark> para as Pessoas Físicas.
 
-* ➢ **Prazo mínimo:** Prazo mínimo de 90 dias ou limitado pelo prazo das obrigações que serviram de base para o seu lançamento.
+*  **Prazo mínimo:** Prazo mínimo de 90 dias ou limitado pelo prazo das obrigações que serviram de base para o seu lançamento.
 
-* ➢ <mark>Garantia de FGC: SIM.</mark>
-
-Logo Rafael Toro
-
-ANCORD – Assessor de Investimentos
-
-23
+*  <mark>Garantia de FGC: SIM.</mark>
 
 # LH – Letra Hipotecária
 
@@ -501,25 +339,15 @@ A LH (Letra Hipotecária), segundo a B3, é um título de renda fixa lastreado e
 
 ❑ **PRINCIPAIS CARACTERÍSTICAS:**
 
-* ➢ **Emissores:** bancos múltiplos com carteira de crédito imobiliário, companhias hipotecárias, associações de poupança e empréstimo e sociedades de crédito imobiliário.
+*  **Emissores:** bancos múltiplos com carteira de crédito imobiliário, companhias hipotecárias, associações de poupança e empréstimo e sociedades de crédito imobiliário.
 
-* ➢ **Investidores:** Pessoas Físicas e Jurídicas.
+*  **Investidores:** Pessoas Físicas e Jurídicas.
 
-* ➢ **Remuneração:** Prefixado ou Pós-fixado.
+*  **Remuneração:** Prefixado ou Pós-fixado.
 
-* ➢ **Tributação:** isenta de imposto de renda <mark>SOMENTE</mark> para as Pessoas Físicas.
+*  **Tributação:** isenta de imposto de renda <mark>SOMENTE</mark> para as Pessoas Físicas.
 
-* ➢ <mark>Garantia de FGC: SIM.</mark>
-
-Logo Rafael Toro
-
-ANCORD – Assessor de Investimentos
-
-24
-
-113
-
----
+*  <mark>Garantia de FGC: SIM.</mark>
 
 # LC – Letras de Câmbio
 
@@ -529,21 +357,15 @@ As LCs são emitidas (sacadas) pelos financiados dos contratos de créditos, sen
 
 ❑ **PRINCIPAIS CARACTERÍSTICAS:**
 
-➢ **Emissores:** bancos múltiplos com carteira de crédito, financiamento e investimento e as sociedades de crédito, financiamento e investimento.
+ **Emissores:** bancos múltiplos com carteira de crédito, financiamento e investimento e as sociedades de crédito, financiamento e investimento.
 
-➢ **Investidores:** Pessoas Físicas e Jurídicas.
+ **Investidores:** Pessoas Físicas e Jurídicas.
 
-➢ **Remuneração:** Prefixado ou Pós-fixado (DI, TR, TLP, IPCA, ...).
+ **Remuneração:** Prefixado ou Pós-fixado (DI, TR, TLP, IPCA, ...).
 
-➢ **Tributação:** tabela regressiva de renda fixa (22,5% a 15%).
+ **Tributação:** tabela regressiva de renda fixa (22,5% a 15%).
 
-➢ <mark>**Garantia de FGC: SIM.**</mark>
-
-Logo Rafael Toro
-
-ANCORD – Assessor de Investimentos
-
-25
+ <mark>**Garantia de FGC: SIM.**</mark>
 
 # LF – Letras Financeiras
 
@@ -553,28 +375,17 @@ São títulos de longo prazo emitidos por instituições financeiras, **devendo 
 
 ❑ **PRINCIPAIS CARACTERÍSTICAS:**
 
-➢ **Emissores:** Instituições Financeiras (Bancos, cooperativas de crédito, financeiras).
+ **Emissores:** Instituições Financeiras (Bancos, cooperativas de crédito, financeiras).
 
-➢ **Investidor:** Pessoas físicas e jurídicas.
+ **Investidor:** Pessoas físicas e jurídicas.
 
-➢ **Rentabilidade:** taxas de juros prefixadas, combinadas ou não com taxas flutuantes ou índices de preço, ocorrendo pagamento de rendimentos em intervalos de, no mínimo, 180 dias.
+ **Rentabilidade:** taxas de juros prefixadas, combinadas ou não com taxas flutuantes ou índices de preço, ocorrendo pagamento de rendimentos em intervalos de, no mínimo, 180 dias.
 
-➢ **Tributação:** tabela regressiva de renda fixa (22,5% a 15%).
+ **Tributação:** tabela regressiva de renda fixa (22,5% a 15%).
 
-➢ **Prazo mínimo:** mínimo de 2 anos, sendo vedado o resgate total ou parcial antes do vencimento (porém, podem ser negociadas no mercado secundário).
+ **Prazo mínimo:** mínimo de 2 anos, sendo vedado o resgate total ou parcial antes do vencimento (porém, podem ser negociadas no mercado secundário).
 
-➢ **Garantia de FGC: <mark>NÃO POSSUI!</mark>**
-
-Logo Rafael Toro
-
-ANCORD – Assessor de Investimentos
-114
-
-26
-
-
-
----
+ **Garantia de FGC: <mark>NÃO POSSUI!</mark>**
 
 # FGC – Fundo Garantidor de Crédito
 
@@ -589,12 +400,6 @@ O Fundo Garantidor de Créditos (FGC) é uma **entidade privada, sem fins lucrat
 * Proteger o pequeno investidor.
 
 Todas as instituições financeiras e associações de poupança e empréstimos contam com a garantia do FGC. Vale ressaltar que as cooperativas de crédito não fazem parte do FGC, mas elas possuem outro sistema chamado de FGCoop.
-
-Logo da Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-27
 
 # FGC – Fundo Garantidor de Crédito
 
@@ -632,16 +437,6 @@ Os produtos que <mark>NÃO</mark> são garantidos pelo FGC:
 
 * <mark>Ações e Fundos de Investimentos.</mark>
 
-Logo da Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-28
-
-115
-
----
-
 # FGC – Fundo Garantidor de Crédito
 
 ## Limites de Garantias
@@ -652,12 +447,6 @@ Nas contas conjuntas, o valor da garantia é limitado a R$ 250.000,00 (duzentos 
 
 <u>Portanto, o limite de R$ 250 mil é por CPF/CNPJ e por instituição financeira, não</u>
 <u>podendo ser ultrapassado este valor.</u>
-
-Logo Rafael Tor Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-29
 
 # FGC – Fundo Garantidor de Crédito
 
@@ -694,17 +483,6 @@ No caso de uma conta conjunta com 3 titulares (esposa, marido e filho) e saldo d
 
 <u>Detalhe:</u> Se algum dos 3 titulares possuir outra conta na mesma instituição financeira, essa outra conta possui R$ 200.000,00 garantidos (R$ 250.000 menos R$ 50.000).
 
-Logo Rafael Tor Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-30
-
-116
-
-
----
-
 # FGC – Fundo Garantidor de Crédito
 
 ## Exemplo 2
@@ -719,76 +497,45 @@ ANCORD – Assessor de Investimentos
 </table>
 
 Com estas informações, o que você lhes diria?
-
-Logo da Rafael Toro Academia de Finanças
-
-31
-
-ANCORD – Assessor de Investimentos
-
 # FGC – Fundo Garantidor de Crédito
 
 ## Exemplo 2: Resposta
 
 A Garantia do FGC é de R$ 250 mil por CPF, por instituição financeira, mas também por conta. Como no exercício, a conta (3) possui valor de R$ 650.000,00, ela será reduzida para R$ 250.000,00 (limite máximo por conta). Somente após isso, devemos dividir o valor desta conta entre os 3 correntistas. O segundo passo, é lembrar que nenhuma pessoa poderá receber mais de R$ 250.000,00. Assim, o cálculo das de cada amigo será:
 
-➢ Conta (1) Eduardo e Marcelo: R$ 200.000 ÷ 2 = R$ 100.000,00 para cada
+ Conta (1) Eduardo e Marcelo: R$ 200.000 ÷ 2 = R$ 100.000,00 para cada
 
-➢ Conta (2) Eduardo e Pedro: R$ 250.000 ÷ 2 = R$ 125.000,00 para cada
+ Conta (2) Eduardo e Pedro: R$ 250.000 ÷ 2 = R$ 125.000,00 para cada
 
-➢ Conta (3) Eduardo, Pedro e Rafael: R$ 250.000 ÷ 3 = R$ 83.333,33 para cada.
+ Conta (3) Eduardo, Pedro e Rafael: R$ 250.000 ÷ 3 = R$ 83.333,33 para cada.
 
 Agora que temos o valor que cada amigo receberá em cada conta, faremos a análise individual (limite máximo de R$ 250.000,00 por CPF):
 
-➢ Eduardo: R$ 100.000,00 + R$ 125.000,00 + R$ 83.333,33 = R$ 308.333,33. No entanto, como ultrapassou o limite de R$ 250 mil por CPF, Eduardo receberá o teto da garantia do FGC: R$ 250.000,00
+ Eduardo: R$ 100.000,00 + R$ 125.000,00 + R$ 83.333,33 = R$ 308.333,33. No entanto, como ultrapassou o limite de R$ 250 mil por CPF, Eduardo receberá o teto da garantia do FGC: R$ 250.000,00
 
-➢ Marcelo: R$ 100.000,00
+ Marcelo: R$ 100.000,00
 
-➢ Pedro: R$ 125.000,00 + R$ 83.333,33 = R$ 208.333,33
+ Pedro: R$ 125.000,00 + R$ 83.333,33 = R$ 208.333,33
 
-➢ Rafael: R$ 83.333,33
-
-Logo da Rafael Toro Academia de Finanças
-
-32
-
-ANCORD – Assessor de Investimentos
-
-117
-
----
-
+ Rafael: R$ 83.333,33
 Títulos Emitidos por Empresas Não Financeiras
 
 # Títulos Emitidos por Empresas Não Financeiras
-
-33
-
 ## Títulos de Renda Fixa de Não Financeiras
 
 ## Conceito
 
 Os títulos de renda fixa de Instituições <mark>NÃO</mark> Financeiras cobrados em prova são:
 
-* ➢ NP – Nota Promissória
+*  NP – Nota Promissória
 
-* ➢ Debêntures
+*  Debêntures
 
-* ➢ Debêntures Incentivadas
+*  Debêntures Incentivadas
 
-* ➢ CRI – Certificado de Recebíveis Imobiliários
+*  CRI – Certificado de Recebíveis Imobiliários
 
-* ➢ CRA – Certificado de Recebíveis do Agronegócio
-
-Logo da Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-34
-
-118
-
----
+*  CRA – Certificado de Recebíveis do Agronegócio
 
 # Nota Promissória (Commercial Paper)
 
@@ -796,31 +543,25 @@ ANCORD – Assessor de Investimentos
 
 A nota promissória é uma promessa de pagamento e deve conter estes requisitos essenciais, lançados, por extenso no contexto:
 
-* ➢ Denominação de “Nota Promissória” ou termo correspondente;
+*  Denominação de “Nota Promissória” ou termo correspondente;
 
-* ➢ Soma de dinheiro a pagar;
+*  Soma de dinheiro a pagar;
 
-* ➢ Nome da pessoa a quem deve ser paga;
+*  Nome da pessoa a quem deve ser paga;
 
-* ➢ Assinatura do próprio punho da emitente ou do mandatário especial.
+*  Assinatura do próprio punho da emitente ou do mandatário especial.
 
 Quando se tratar de uma oferta pública, ela deverá seguir as regras da ICVM 566 e somente poderá ser emida <u>por companhias e as sociedades limitadas</u>. Também poderão emir desta forma, as cooperavas que tenham por avidade a produção, comercialização, beneficiamento ou industrialização de produtos ou insumos agropecuários, ou de máquinas e implementos utilizados na avidade agropecuária. Desta forma, as principais <u>CARACTERÍSTICAS PARA DISTRIBUIÇÃO PÚBLICA</u> são:
 
-* ➢ Sujeito a registro na CVM;
+*  Sujeito a registro na CVM;
 
-* ➢ Não podem possuir cupom;
+*  Não podem possuir cupom;
 
-* ➢ Garantia: pode ou não possuir (quando possui, em geral, é mera fiança bancária);
+*  Garantia: pode ou não possuir (quando possui, em geral, é mera fiança bancária);
 
-* ➢ <u>Prazo Máximo</u>: 360 DIAS e quando tratar de oferta restrita, não há prazo máximo.
+*  <u>Prazo Máximo</u>: 360 DIAS e quando tratar de oferta restrita, não há prazo máximo.
 
-* ➢ Não confundir Nota Promissória com Nota Comercial (possui outras regras).
-
-Logo Rafael Toro
-
-ANCORD – Assessor de Invesmentos
-
-35
+*  Não confundir Nota Promissória com Nota Comercial (possui outras regras).
 
 # Debêntures
 
@@ -828,27 +569,17 @@ ANCORD – Assessor de Invesmentos
 
 Debêntures são dívidas de médio e longo prazo, podendo ser emitidas por (1) <u>Sociedades Anônimas NÃO FINANCEIRAS ABERTAS OU FECHADAS</u>; (2) <u>Sociedades de arrendamento mercantil</u>; ou (3) <u>Companhias hipotecárias</u>. No entanto, a sua captação voltada ao público em geral, só é permida para as sociedades anônimas de capital aberto, com registro na CVM, podendo exisr duas formas de emissão, que são:
 
-* ➢ <u>Nominativas</u>: quando a própria companha emissora, em seu livro de registro, realiza o registro dos investidores e a transferências dos recursos.
+*  <u>Nominativas</u>: quando a própria companha emissora, em seu livro de registro, realiza o registro dos investidores e a transferências dos recursos.
 
-* ➢ <u>Escriturais</u>: quando uma instuição financeira autorizada pela CVM, realiza o registro e o controle de transferência, mantendo sob sua custódia a debênture.
+*  <u>Escriturais</u>: quando uma instuição financeira autorizada pela CVM, realiza o registro e o controle de transferência, mantendo sob sua custódia a debênture.
 
 Além disso, as debêntures também são classificadas como:
 
-* ➢ <u>DEBÊNTURE SIMPLES (NÃO CONVERSÍVEIS)</u>: No vencimento, o pagamento é feito em dinheiro, sendo o modelo mais comum dentre todos os modelos;
+*  <u>DEBÊNTURE SIMPLES (NÃO CONVERSÍVEIS)</u>: No vencimento, o pagamento é feito em dinheiro, sendo o modelo mais comum dentre todos os modelos;
 
-* ➢ <u>DEBÊNTURE CONVERSÍVEL (DCA)</u>: é permido ao investidor, converter o valor a ser recebido em dinheiro, em condições predeterminadas, receber em ações.
+*  <u>DEBÊNTURE CONVERSÍVEL (DCA)</u>: é permido ao investidor, converter o valor a ser recebido em dinheiro, em condições predeterminadas, receber em ações.
 
-* ➢ <u>PERMUTÁVEIS</u>: similar a DCA, mas com pagamento em ações de outra companhia.
-
-Logo Rafael Toro
-
-ANCORD – Assessor de Invesmentos
-
-36
-
-119
-
----
+*  <u>PERMUTÁVEIS</u>: similar a DCA, mas com pagamento em ações de outra companhia.
 
 # Debêntures Incentivadas
 
@@ -858,27 +589,21 @@ As <mark>Debêntures Incentivadas</mark>, conhecidas como “Debêntures de Infr
 
 ❑ **PRINCIPAIS CARACTERÍSTICAS:**
 
-➢ **Emissor:** Sociedades de Propósito Específico (SPE), de capital aberto ou fechado;
+ **Emissor:** Sociedades de Propósito Específico (SPE), de capital aberto ou fechado;
 
-➢ **Rentabilidade:** Taxa de Juros Prefixada + índice de preços ou TR;
+ **Rentabilidade:** Taxa de Juros Prefixada + índice de preços ou TR;
 
-➢ **Tributação:** Isento para pessoas físicas e de 15% para pessoas jurídicas;
+ **Tributação:** Isento para pessoas físicas e de 15% para pessoas jurídicas;
 
-➢ Obrigatório pagamento de cupom, com periodicidade mínima de 180 dias;
+ Obrigatório pagamento de cupom, com periodicidade mínima de 180 dias;
 
-➢ Obrigatório prazo médio ponderado superior a 4 anos;
+ Obrigatório prazo médio ponderado superior a 4 anos;
 
-➢ Vedada recompra da debênture pelo emissor nos dois primeiros anos após a sua emissão;
+ Vedada recompra da debênture pelo emissor nos dois primeiros anos após a sua emissão;
 
-➢ Não pode haver compromisso de revenda por parte do comprador.
+ Não pode haver compromisso de revenda por parte do comprador.
 
-➢ <mark>Garantia de FGC: NÃO</mark>, porém pode haver outras garantias.
-
-Logo Rafael Toro
-
-ANCORD – Assessor de Investimentos
-
-37
+ <mark>Garantia de FGC: NÃO</mark>, porém pode haver outras garantias.
 
 # Debêntures & Debêntures Incentivadas
 
@@ -887,16 +612,6 @@ ANCORD – Assessor de Investimentos
 Repactuação é uma possibilidade de renegociar as condições acertadas com os debenturistas, de forma a adequar as características dos títulos às condições de mercado. Essa renegociação por parte de empresa poderá ser relacionado a rentabilidade, prazo de pagamento ou até mesmo, referente as garantias.
 
 Caso haja a possibilidade desse mecanismo, ele deverá estar previsto na escrituro de emissão. Além disso, se houver esta cláusula e ela for acionada pela empresa, oferecendo novas condições para a debênture, se o investidor não aceitar a repactuação de algum dos itens citados, a empresa emissora estará obrigada a recomprar os devidos títulos dos debêntures que não aceitarem as novas condições.
-
-Logo Rafael Toro
-
-ANCORD – Assessor de Investimentos
-
-38
-
-120
-
----
 
 # Debêntures & Debêntures Incentivadas
 
@@ -908,47 +623,31 @@ Desta forma, na escritura de emissão, a empresa poderá colocar as cláusulas d
 
 Inicialmente, aparenta serem a mesma cláusula, somente mudando o nome, mas há uma diferença relevante. Quando se tratar de (1) **RESGATE ANTECIPADO** a empresa emissora é obrigada a cancelar as debêntures. Já quando se tratar de (2) **OPÇÃO DE COMPRA** a empresa emissora poderá manter as debêntures em tesouraria e, posteriormente, vendê-las no mercado secundário.
 
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-39
-
 # Debêntures & Debêntures Incentivadas
 
 ## Principais Características
 
 Diante disso, as principais características das Debêntures são:
 
-* ➢ O documento mais importante é a sua ESCRITURA DE EMISSÃO, onde estão definidas as suas características (prazo, indexador, fórmula de cálculo, fluxo de pagamentos, condições que a companhia precisa obedecer).
+*  O documento mais importante é a sua ESCRITURA DE EMISSÃO, onde estão definidas as suas características (prazo, indexador, fórmula de cálculo, fluxo de pagamentos, condições que a companhia precisa obedecer).
 
-* ➢ <u>Instituições financeiras NÃO PODEM emitir debêntures</u>.
+*  <u>Instituições financeiras NÃO PODEM emitir debêntures</u>.
 
-* ➢ Valor total de emissão NÃO poderá ultrapassar o capital social da empresa.
+*  Valor total de emissão NÃO poderá ultrapassar o capital social da empresa.
 
-* ➢ Nas distribuições pública, os investidores devem ter acesso ao prospecto.
+*  Nas distribuições pública, os investidores devem ter acesso ao prospecto.
 
-* ➢ Somente as sociedades anônimas de capital aberto, com registro na CVM podem fazer emissões públicas de debêntures (captação via público em geral).
+*  Somente as sociedades anônimas de capital aberto, com registro na CVM podem fazer emissões públicas de debêntures (captação via público em geral).
 
-* ➢ Remuneração pode ser Prefixado, Pós-fixado ou até mesmo a variação cambial.
+*  Remuneração pode ser Prefixado, Pós-fixado ou até mesmo a variação cambial.
 
-* ➢ Não possui garantia do FGC, mas podem apresentar garantias específicas.
+*  Não possui garantia do FGC, mas podem apresentar garantias específicas.
 
-* ➢ Tributada como renda fixa.
+*  Tributada como renda fixa.
 
-* ➢ Podem possuir mecanismo de repactuação para adequar a remuneração dos títulos às condições do mercado, desde que esteja descrito na escritura.
+*  Podem possuir mecanismo de repactuação para adequar a remuneração dos títulos às condições do mercado, desde que esteja descrito na escritura.
 
-* ➢ Cláusulas que beneficiam o debenturista: Repactuação e vencimento antecipado.
-
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-40
-
-121
-
----
+*  Cláusulas que beneficiam o debenturista: Repactuação e vencimento antecipado.
 
 # Companhia Securitizadora
 
@@ -959,13 +658,6 @@ Primeiramente, o que significa essa “securitização? A securitização nada m
 Por exemplo, uma incorporadora vende 500 terrenos de um loteamento a prazo, originando um grupo de ativos de 500 contratos de Compra & Venda (que são créditos a receber). A partir desse momento, a construtora passa a ser credora desses 500 comprados. Qual o problema? Ela não tem mais dinheiro para construir novos empreendimentos, o que ela tem são créditos a receber. É neste momento que surge a Securitizadora, uma instituição não-financeira cuja sua atividade será converter esse grupo de ativos em títulos mobiliários com maior liquidez, transferindo o risco de calote aos investidores desses novos títulos mobiliários, chamados de CRI ou CRA (Certificado de Recebíveis Imobiliários ou do Agronegócio), ou até mesmo através de debêntures.
 
 Portanto, a securitização corresponde a essa atividade de converter o grupo de ativos em títulos mobiliários de maior liquidez, transferindo dinheiro dos investidores, através de valores mobiliários (CRI, CRA ou Debêntures) para a empresa originadora, em troca do recebimento do fluxo de recursos original.
-
-Logo Rafael Toro Academia de Finanças
-
-41
-
-ANCORD – Assessor de Investimentos
-
 # Companhia Securitizadora
 
 ## Fluxo (Securitização)
@@ -978,52 +670,29 @@ ANCORD – Assessor de Investimentos
 </table>
 
 Responsável em proteger os Direitos dos investidores.
-
-1 – Cessão dos direitos de crédito / fluxo financeiro.
-
-2 – Emissão CRI/CRA lastreados recebíveis / Colocação no mercado.
-
-3 – Captação de recursos.
-
-4 – Pagamento pela cessão dos direitos de crédito.
-
-5 – Pagamento de fluxo financeiro dos direitos de crédito.
-
-6 – Remuneração aos investidores de acordo com o estabelecido no Termo de Securitização
-
-Logo Rafael Toro Academia de Finanças
-
-42
-
-ANCORD – Assessor de Investimentos
-
-122
-
----
-
+– Cessão dos direitos de crédito / fluxo financeiro.
+– Emissão CRI/CRA lastreados recebíveis / Colocação no mercado.
+– Captação de recursos.
+– Pagamento pela cessão dos direitos de crédito.
+– Pagamento de fluxo financeiro dos direitos de crédito.
+– Remuneração aos investidores de acordo com o estabelecido no Termo de Securitização
 # Companhia Securitizadora
 
 ## Principais Características
 
 As principais características de uma securitização são:
 
-* ➢ As Companhias Securitizadoras <u>NÃO SÃO INSTITUIÇÕES FINANCEIRAS</u> e tem como objeto exclusivo a aquisição e securitização de créditos oriundos de operações de empréstimo, de financiamento e de arrendamento mercantil;
+*  As Companhias Securitizadoras <u>NÃO SÃO INSTITUIÇÕES FINANCEIRAS</u> e tem como objeto exclusivo a aquisição e securitização de créditos oriundos de operações de empréstimo, de financiamento e de arrendamento mercantil;
 
-* ➢ A <u>Securitizadora é normalizada pela Comissão de Valores Mobiliários (CVM)</u> e não pelo Banco Central, como outras instituições financeiras.
+*  A <u>Securitizadora é normalizada pela Comissão de Valores Mobiliários (CVM)</u> e não pelo Banco Central, como outras instituições financeiras.
 
-* ➢ CRI, CRA e Debêntures <u>NÃO POSSUEM GARANTIA DO FGC</u>, mas podem possuir garantias específicas, caso esteja especificado na sua estruturação;
+*  CRI, CRA e Debêntures <u>NÃO POSSUEM GARANTIA DO FGC</u>, mas podem possuir garantias específicas, caso esteja especificado na sua estruturação;
 
-* ➢ Os valores mobiliários criados (CRI, CRA e Debêntures) são ativos de renda fixa;
+*  Os valores mobiliários criados (CRI, CRA e Debêntures) são ativos de renda fixa;
 
-* ➢ É um processo de transferência do risco de crédito aos novos investidores;
+*  É um processo de transferência do risco de crédito aos novos investidores;
 
-* ➢ Os ativos adquiridos do originador (empresa detentora dos títulos de créditos), são removidos dos seus balanços patrimoniais associados, sendo movido a dívida inicial para a carteira securitizada, reduzindo o valor do passivo da empresa originadora.
-
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-43
+*  Os ativos adquiridos do originador (empresa detentora dos títulos de créditos), são removidos dos seus balanços patrimoniais associados, sendo movido a dívida inicial para a carteira securitizada, reduzindo o valor do passivo da empresa originadora.
 
 # CRI – Certificados de Recebíveis Imobiliários
 
@@ -1033,25 +702,15 @@ Os CRIs são títulos de crédito nominativos, escriturais e transferíveis, las
 
 ❑ <u>PRINCIPAIS CARACTERÍSTICAS:</u>
 
-* ➢ <u>Emissores</u>: Securitizadora de Créditos Imobiliários.
+*  <u>Emissores</u>: Securitizadora de Créditos Imobiliários.
 
-* ➢ <u>Investidores</u>: Pessoas Físicas e Jurídicas.
+*  <u>Investidores</u>: Pessoas Físicas e Jurídicas.
 
-* ➢ <u>Remuneração</u>: Prefixado, Pós-fixado e também atrelado à variação cambial.
+*  <u>Remuneração</u>: Prefixado, Pós-fixado e também atrelado à variação cambial.
 
-* ➢ <u>Tributação</u>: isenta de imposto de renda <mark>SOMENTE</mark> para as Pessoas Físicas.
+*  <u>Tributação</u>: isenta de imposto de renda <mark>SOMENTE</mark> para as Pessoas Físicas.
 
-* ➢ <u>Garantia de FGC: NÃO!</u>
-
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-44
-
-123
-
----
+*  <u>Garantia de FGC: NÃO!</u>
 
 # CRA – Certificados de Recebíveis do Agronegócio
 
@@ -1061,21 +720,15 @@ Os CRAs são títulos semelhantes aos CRIs, tendo como principal diferença o la
 
 ❑ <u>PRINCIPAIS CARACTERÍSTICAS:</u>
 
-➢ <u>Emissores</u>: Securitizadora de Direitos Creditórios do Agronegócio.
+ <u>Emissores</u>: Securitizadora de Direitos Creditórios do Agronegócio.
 
-➢ <u>Investidores</u>: Pessoas Físicas e Jurídicas.
+ <u>Investidores</u>: Pessoas Físicas e Jurídicas.
 
-➢ <u>Remuneração</u>: Prefixado ou Pós-fixado e também atrelado a variação cambial.
+ <u>Remuneração</u>: Prefixado ou Pós-fixado e também atrelado a variação cambial.
 
-➢ <u>Tributação</u>: isenta de imposto de renda <mark>SOMENTE</mark> para as Pessoas Físicas.
+ <u>Tributação</u>: isenta de imposto de renda <mark>SOMENTE</mark> para as Pessoas Físicas.
 
-➢ <u>Garantia de FGC: NÃO!</u>
-
-Logo Rafael Toro
-
-ANCORD – Assessor de Investimentos
-
-45
+ <u>Garantia de FGC: NÃO!</u>
 
 # Títulos de Instituições Não Financeiras
 
@@ -1091,16 +744,6 @@ ANCORD – Assessor de Investimentos
 
 ❑ <u>OBS: LCI respeita a regra geral do IOF, porém como exige prazo mínimo de aplicação superior a 29 dias, a alíquota é zero.</u>
 
-Logo Rafael Toro
-
-ANCORD – Assessor de Investimentos
-
-46
-
-124
-
----
-
 # Debêntures x Notas Promissórias
 
 <u>RESUMO</u>
@@ -1113,11 +756,3 @@ ANCORD – Assessor de Investimentos
 <tr><td>Prazo mínimo para resgate</td><td>Depende do tipo de Remuneração</td><td>Não tem</td></tr>
 <tr><td>Prazo máximo para resgate</td><td>Não tem</td><td>360 dias (em esforços restritos não há prazo máximo)</td></tr>
 </table>
-
-RAFAEL TORO ACADEMIA DE FINANÇAS
-
-ANCORD – Assessor de Investimentos
-
-47
-
-125

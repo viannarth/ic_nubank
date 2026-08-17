@@ -29,13 +29,6 @@ o Títulos Imobiliários (LCI, CRI, CCI);
 o Aluguel de ações (DOADOR);
 
 o Demais títulos ou operações: COE; SWAP; Box de 4 pontas (opções)
-
-Logo Rafael Toro Academia de Finanças
-
-3
-
-ANCORD – Assessor de Investimentos
-
 # Tributação: Renda Fixa
 
 ## Alíquotas e Isenções
@@ -75,17 +68,6 @@ ISENÇÃO de imposto (<u>IR e IOF</u>) para **PESSOAS FÍSICAS**
 ⮚ Debêntures Incentivadas.
 
 **OBS:** LCI não possui isenção de IOF pelo governo.
-
-Logo Rafael Toro Academia de Finanças
-
-4
-
-ANCORD – Assessor de Investimentos
-
-243
-
----
-
 # Tributação: Renda Fixa
 
 ## Fato Gerador
@@ -104,12 +86,6 @@ O conceito de fato gerador é “ocorrência, em si, que traz à tona a exigênc
 
 Importante ressaltar que não há fato gerador quando se transfere a custódia de uma instituição financeira para outra, desde que seja para o mesmo CPF ou CNPJ. Por exemplo, a transferência de ações através de uma STVM (Solicitação de Transferência de Valores Mobiliários) entre instituições financeiras, não gera imposto de renda.
 
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-5
-
 # Aluguel de Ações (BTC)
 
 ## Doador e Tomador
@@ -119,16 +95,6 @@ O aluguel de ações é um contrato no qual existem duas partes:
 * <mark>DOADOR:</mark> Investidor proprietário das ações que as empresta em troca de uma remuneração fixa, com prazo e garantias definidas. Desta forma, seus rendimentos serão tributados como <u>renda fixa</u> (tabela regressiva). Importante ressaltar que os dividendos e a JCP ainda são de recebimento do Doador e a bonificação de ações, os valores são corrigidos e repassados apenas na data de liquidação.
 
 * <mark>TOMADOR:</mark> É aquele que não possui as ações e as toma emprestadas para vender, para posteriormente recomprar (um dos motivos é tentar lucrar com a queda dos preços). Assim, sua tributação será como renda variável, podendo incorporar ao custo da operação, as despesas com o aluguel. Se houver dividendos ou JCP pagos durante o período em que o tomador possui as ações, este valor deverá ser descontado do tomador, após o pagamento do Imposto de Renda.
-
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-6
-
-244
-
----
 
 # Aluguel de Ações (BTC)
 
@@ -140,12 +106,6 @@ Um investidor A possui 10.000 ações da *RToro Education* e as aluga (doa) para
 
 * ⮚ **Investidor B:** irá incrementar no custo da sua operação.
 
-Logo da Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-7
-
 # IOF: Imposto sobre Operações Financeiras
 
 ## Conceito
@@ -155,16 +115,6 @@ O **IMPOSTO SOBRE OPERAÇÕES FINANCEIRAS (IOF)** incide sobre operações de cr
 Em relação aos investimentos, <mark>o IOF ocorrerá principalmente sobre as aplicações classificadas pela receita federal como renda fixa</mark>. Importante ressaltar que o seu desconto ocorrerá <mark>sobre o lucro</mark> e <mark>antes da aplicação do Imposto de Renda</mark>, sendo ele zerado a partir do 30º dia de aplicação.
 
 <mark>No fundos de investimentos com carência, o IOF cobrado em um resgate ocorrido durante este período será de 0,5% ao dia fixa, limitada ao rendimento, vigente durante todo o período de carência.</mark>
-
-Logo da Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-8
-
-245
-
----
 
 # IOF/TVM (Título de Valores Mobiliários):
 
@@ -185,12 +135,6 @@ ANCORD – Assessor de Investimentos
 <tr><td>9</td><td>70%</td><td>19</td><td>36%</td><td>29</td><td>3%</td></tr>
 <tr><td>10</td><td>66%</td><td>20</td><td>33%</td><td>30</td><td>0%</td></tr>
 </table>
-
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-9
 
 # IOF/TVM (Título de Valores Mobiliários):
 
@@ -220,16 +164,6 @@ São isentas (ou com alíquota zero) do IOF as operações com títulos ou valor
 
 ❑ **OBS: LCI respeita a regra geral do IOF, porém como seu prazo mínimo de aplicação é superior a 29 dias, sua alíquota acaba sendo zero. No entanto, quando negociada no mercado secundário, poderá ocorrer a cobrança de IOF.**
 
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-10
-
-246
-
----
-
 # IOF/TVM (Título de Valores Mobiliários):
 
 ## Exemplo
@@ -252,20 +186,9 @@ Para chegarmos no valor exato, primeiramente devemos descontar o IOF da operaç�
 
 ❑ **OBS:** Para não inverter as ordens de IOF e IR, lembre-se do alfabeto, primeiro vem a letra **F** para depois vir o **R**, ou seja, primeiro o io**F** e depois o i**R**.
 
-Logo Rafael Tor Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-11
-
 Tributação de Renda Variável
 
 Tributação de Renda Variável
-
-247
-
----
-
 # Tributação: Renda Variável
 
 ## <u>Introdução</u>
@@ -285,12 +208,6 @@ A Receita Federal considera para tributação do Imposto de Renda como renda var
  - o Mercado de Opções.
 
 Relembrando que o derivativo Swap e a operação com opções na estratégia “box de 4 pontas” são tributados como renda fixa.
-
-Logo da Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-13
 
 # Tributação: Renda Variável
 
@@ -314,16 +231,6 @@ ANCORD – Assessor de Investimentos
 Instituição Financeira: 3º dia útil subsequente ao decêndio do fato gerador para repassar IRRF
 
 (3) Somente para Pessoa Física: Considera valor bruto de venda, sem descontar despesas.
-
-Logo da Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-14
-
-248
-
----
 
 # Tributação: Renda Variável
 
@@ -350,12 +257,6 @@ Mercado à vista, também chamadas de <mark>“não day trade”</mark>, ocorrem
 * ⮚ **Alíquota:** 0,005% sobre o valor da alienação, com valor mínimo de R$ 1,01.
 
 * ⮚ **Responsável pelo recolhimento:** instituição financeira.
-
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-15
 
 # Tributação: Renda Variável
 
@@ -385,16 +286,6 @@ ANCORD – Assessor de Investimentos
 
 * ⮚ **Valor mínimo da DARF:** não tem.
 
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-16
-
-249
-
----
-
 # Tributação: Renda Variável
 
 ## Compensação de Perdas
@@ -408,13 +299,6 @@ ANCORD – Assessor de Investimentos
 * ⮚ **Tempo para compensação:** não há prazo. O investidor pode transferir o saldo para o ano seguinte (ou anos seguintes) até efetivar a compensação do prejuízo, desde que lançado na Declaração de Ajuste Anual.
 
 * ⮚ **NÃO É POSSÍVEL COMPENSAR PREJUÍZOS FUTUROS COM LUCROS PASSADOS**, ou seja, se o investidor lucrou R$ 50.000,00 em janeiro/2020 e teve um prejuízo de R$ 50.000,00 em fevereiro/2020, deverá pagar o imposto sobre o lucro de janeiro e manter o “crédito” do prejuízo a compensar para o futuro.
-
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-ANCORD – Assessor de Investimentos
-
-17
 
 # Tributação: Renda Variável
 
@@ -437,15 +321,6 @@ o Deduzido do imposto sobre ganhos apurados no mês;
 o Compensado com o imposto incidente sobre ganhos apurados nos meses subsequentes; ou
 
 o Se houver saldo de IRRF a compensar em 31/12, a pessoa física deverá solicitar sua restituição diretamente à RFB.
-
-Logo Rafael Toro Academia de Finanças
-
-18
-
-250
-
----
-
 # Tributação: Renda Variável
 
 ## Exemplo 1: Mercado a Vista
@@ -471,10 +346,6 @@ o IRRF = 0,005% × R$ 40.000,00 = R$ 2,00
 ⮚ **DARF:** IR total descontado do IRRF, a ser pago no mês posterior à venda.
 
 o DARF: R$ 1.470,00 – R$ 2,00 = <u>R$ 1.468,00</u>
-
-Logo da Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos 19
 
 # Tributação: Renda Variável
 
@@ -502,14 +373,6 @@ o IRRF = 1% × R$ 9.800,00 = R$ 98,00
 
 o DARF: R$ 1.960,00 – R$ 98,00 = <u>R$ 1.862,00</u>
 
-Logo da Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos 20
-
-251
-
----
-
 # Tributação: Renda Variável
 
 ## Exemplo 3: Mercado à Vista
@@ -536,12 +399,6 @@ o IRRF = 0,005% × R$ 40.000,00 = R$ 2,00
 
 o DARF: 0,00
 
-Logo Rafael Toro
-
-ANCORD – Assessor de Investimentos
-
-21
-
 # Tributação: Renda Variável
 
 ## Exemplo 4: Day Trade
@@ -567,16 +424,6 @@ o IRRF = 1% × R$ 0,00 = R$ 0,00
 ⮚ **DARF:** IR total descontado do IRRF, a ser pago no mês posterior à venda.
 
 o DARF: R$ 0,00
-
-Logo Rafael Toro
-
-ANCORD – Assessor de Investimentos
-
-22
-
-252
-
----
 
 # Tributação: Renda Variável
 
@@ -608,12 +455,6 @@ Rafael compra R$ 5.000,00 em ações da *RToro Education S/A* na bolsa de valore
 
     o DARF: R$ 2.235,00 – R$ 1,01 = **R$ 2.233,99**
 
-Logo da Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-23
-
 # Tributação: Renda Variável
 
 ## Exemplo 6: Day Trade
@@ -640,16 +481,6 @@ Rafael compra R$ 5.000,00 em ações da *RToro Education S/A* na bolsa de valore
 
     o DARF: R$ 2.960,00 – R$ 148,00 = **R$ 2.812,00**
 
-Logo da Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-24
-
-253
-
----
-
 # Tributação: Derivativos
 
 ## Regra
@@ -672,20 +503,9 @@ Os derivativos (contratos futuros, termo e opções) possuem como regra básica,
 
 * ⮚ **Contrato Futuro do Ibovespa:** O contrato vale o mesmo número de pontos do índice, ou seja, cada ponto equivale a R$ 1,00. Por exemplo, se o Ibovespa está 60.000 pontos, um contrato futuro padrão vale R$ 60.000,00.
 
-Logo da Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-25
-
 Imagem de fundo com mapa mundi e título Tributação de Fundos de Investimentos
 
 Tributação de Fundos de Investimentos
-
-254
-
----
-
 # Fundos de Investimentos
 
 ## <u>Classificação</u>
@@ -706,12 +526,6 @@ A tributação ocorrerá na “transformação” das cotas em dinheiro, sendo:
 
 * ⮚ <u>Fundos Fechados:</u> através da (I) alienação (venda) das cotas; (II) amortização de cotas; (III) dividendos; (IV) resgate (encerramento do fundo); e (V) na antecipação do imposto de renda (come-cotas).
 
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-27
-
 # Fundos de Investimentos
 
 ## Tabela
@@ -726,16 +540,6 @@ ANCORD – Assessor de Investimentos
 
 O Administrador do fundo é o responsável pelo recolhimento do IR no RESGATE, do Come-Cotas e do IOF.
 
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos
-
-28
-
-255
-
----
-
 # Fundos de Investimentos
 
 ## Come-Cotas
@@ -749,13 +553,6 @@ O “Come-cotas” é a **ANTECIPAÇÃO** do Imposto de Renda devido nos **FUNDO
 Chama-se “come-cotas”, pois a cobrança é através de cotas (diminui-se da quantidade total do cotista), sendo que o **responsável por seu recolhimento é o administrador**, tendo que recolher até o 3º dia útil subsequente ao decêndio do fato gerador.
 
 Nos fundos sem carência (ou com carência superior a 90 dias), ele ocorre no último dia útil dos meses de maio e novembro. Já nos fundos com carência menor que 90 dias, o “come-cotas” ocorrerá na data em que completar cada período de carência. Para efeito de apuração do imposto, a instituição administradora do fundo de investimento poderá adotar o critério do custo médio ou do custo específico de cada certificado ou cota. A opção por um dos critérios será exercida em relação a todos os cotistas do fundo e somente poderá ser alterada no 1º (primeiro) dia útil de janeiro de cada ano-calendário.
-
-Logo Rafael Toro Academia de Finanças
-
-29
-
-ANCORD – Assessor de Investimentos
-
 # Fundos de Investimentos
 
 ## Fundos que NÃO possuem Come-Cotas
@@ -775,17 +572,6 @@ Os principais fundos de investimentos que **NÃO** sofrerão incidência de come
 ❑ **OBS 1:** Para que o fundos classificados como FIP, FIDC e ETF de Renda Variável não sofram a incidência do come-cotas, os mesmos deverão ser enquadrados como entidade de investimentos, caso contrário, sofrerão incidência de 15%, sem prejuízo da tributação nos eventos de resgate, amortização ou alienação. Podemos definir de forma resumida um fundo como “Entidade de Investimento”, quando o mesmo possui uma estrutura de gestão profissional e que os cotistas majoritários não possam determinar ou vetar decisões de investimento ou desinvestimento.
 
 ❑ **OBS 2:** Os fundos classificados como Ações (FIA), Imobiliários (FII) ou ETF de Renda Fixa, não possuem a incidência do come-cotas, independentemente de serem classificados como entidades de investimentos ou não.
-
-Logo Rafael Toro Academia de Finanças
-
-30
-
-ANCORD – Assessor de Investimentos
-
-256
-
----
-
 # Fundos de Investimentos
 
 ## Come-Cotas: Exemplo
@@ -805,13 +591,6 @@ Desta forma, será antecipado o imposto através de 13,64 cotas, deixando o coti
 o <u>Valor final do patrimônio</u> = (986,36 cotas) × (R$ 1,10)
 
 o <u>Valor final do patrimônio</u> = R$ 1.085,00
-
-Logo Rafael Toro Academia de Finanças
-
-31
-
-ANCORD – Assessor de Investimentos
-
 # Fundos Abertos
 
 ## Compensação de Perdas
@@ -831,17 +610,6 @@ A compensação deverá respeitar um dos dois casos:
 ⮚ As perdas apuradas no resgate de aplicações <u>por conta e ordem</u> de um distribuidor, poderão ser compensadas com lucros auferidos em resgates futuros, podendo a compensação ser entre fundos de diferentes administradores, desde que seja nesta mesma instituição que atuou por conta e ordem.
 
 Em relação ao prazo para se fazer a compensação, a instituição deve manter em seus sistemas o controle e registro dos prejuízos dos seus clientes, <mark>NO MÍNIMO</mark>, até o fim do ano-calendário seguinte ao resgate total das cotas, ou seja, o administrador poderá compensar a perda por um prazo indeterminado.
-
-Logo Rafael Toro Academia de Finanças
-
-32
-
-ANCORD – Assessor de Investimentos
-
-257
-
----
-
 # Fundos Fechados
 
 ## <u>Características</u>
@@ -859,11 +627,6 @@ Diferentemente dos fundos abertos, onde o cotista resgata as suas cotas a qualqu
 ❑ <u>Base de cálculo:</u> dependerá da operação que deu origem ao rendimento para o cotista (alienação, amortização, resgate ou dividendos).
 
 ❑ <u>Come-Cotas:</u> Os fundos fechados podem sofrer também a incidência de come-cotas, conforme demonstrado anteriormente (mudança ocorreu por causa da lei nº 14.754, de 12 de dezembro de 2023).
-
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos 33
-ANCORD – Assessor de Investimentos 34
 
 # FII – Fundo de Investimento Imobiliário
 
@@ -892,13 +655,6 @@ Fundos Imobiliários devem possuir a mesma classificação CVM, sendo sempre fun
     o <u>Rendimentos e Amortização:</u> administrador.
 
     o <u>Alienação:</u> o investidor vendedor.
-
-Logo Rafael Toro Academia de Finanças
-
-258
-
----
-
 # FII – Fundo de Investimento Imobiliário
 
 ## Isenção e Compensação
@@ -913,12 +669,6 @@ As pessoas físicas, e somente elas, poderão possuir <mark>ISENÇÃO PARA OS RE
 
 ❑ <mark>OBS:</mark> por se tratar de alienação e não de resgate, perdas geradas pelas vendas de cotas de FII em bolsa de valores, poderão ser compensadas em lucros advindos de alienações de outros fundos imobiliários (não precisando ser do mesmo administrador, como ocorre nos fundos abertos). Vale ressaltar também que fundos imobiliários não possuem isenção de IR para vendas no valor de até R$ 20 mil, como ocorre com as ações.
 
-Logo Rafael Toro
-
-ANCORD – Assessor de Investimentos
-
-35
-
 # FIDC – Fundo em Direitos Creditórios
 
 ## Características
@@ -932,16 +682,6 @@ No entanto, os FIDCs (tanto aberto, quanto fechados) poderão ficar com <mark>al
 * ⮚ <mark>investirem no mínimo 67% de sua carteira em direitos creditórios.</mark>
 
 Outro ponto interessante é que existem <mark>“FIDCs com Incentivo Fiscal”</mark>, onde a sua captação de recursos tem como objetivo implementar projetos de investimento na área de infraestrutura, ou de produção econômica intensiva em pesquisa, desenvolvimento e inovação, considerados como prioritários. Com isso, o cotista pessoa física será isento de Imposto de Renda e o cotista pessoa jurídica, terá alíquota de 15% de IRRF.
-
-Logo Rafael Toro
-
-ANCORD – Assessor de Investimentos
-
-36
-
-259
-
----
 
 # Fundos de Índice (ETF)
 
@@ -960,13 +700,6 @@ Os fundos de invesmentos de índice (ETF) podem ser classificados de duas formas
 * ▪ <u>Prazo médio da carteira de 721 dias ou mais:</u> 15% de IR
 
 ❑ <u>OBS:</u> Os <u>ETFs de renda fixa não possuem IOF, e tão pouco come-cotas</u>. Além disso, a responsabilidade do recolhimento dependerá do fato gerador. Caso seja por alienação no mercado secundário, a responsabilidade recairá sobre a instuição financeira que intermediou a operação e caso seja por outro motivo, será pelo administrador do fundo.
-
-Logo Rafael Toro
-
-37
-
-ANCORD – Assessor de Invesmentos
-
 # Fundos de Invesmentos
 
 ## <u>Desenquadramento Tributário</u>
@@ -982,17 +715,6 @@ A Receita Federal (RFB), através da instrução normava RFB nº 1585 (e suas al
 * ⮚ Fundos de Ações para Renda Fixa Longo Prazo ou Curto Prazo;
 
 * ⮚ Fundos de Índice de Renda Fixa.
-
-Logo Rafael Toro
-
-38
-
-ANCORD – Assessor de Invesmentos
-
-260
-
----
-
 # Fundos de Investimentos
 
 ## <u>Desenquadramento: RF Longo Prazo</u>
@@ -1004,10 +726,6 @@ No caso de alteração da composição ou do prazo médio da carteira dos fundos
 ⮚ Caso haja resgate, a alíquota aplicável será aquela correspondente ao prazo da aplicação para o rendimento produzido até o dia imediatamente anterior ao da alteração de condição. Após, será aplicado a alíquota de curto prazo para o rendimento produzido a partir do dia do desenquadramento.
 
 O fundo de investimento de longo prazo, cujo prazo médio da carteira de títulos permaneça igual ou inferior a 365 dias por mais de três vezes ou por mais de 45 dias, no ano-calendário, ficará desenquadrado. Esse desenquadramento poderá ocorrer uma única vez a cada ano-calendário, retornando ao enquadramento anterior a partir do 1º (primeiro) dia do ano-calendário subsequente; e não implica em interrupção da contagem do prazo original da aplicação.
-
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos 39
 
 # Fundos de Investimentos
 
@@ -1023,14 +741,6 @@ Os fundos de investimento em ações são aqueles cujo patrimônio líquido seja
 
 Caso de fato ocorre o desenquadramento e a mudança de tributação, esses fundos não poderão ocorrer em nova alteração no período de doze meses subsequentes. Além disso, esse desenquadramento não implica em interrupção da contagem do prazo original da aplicação.
 
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos 40
-
-261
-
----
-
 # Fundos de Investimentos
 
 ## Desenquadramento: ETF Renda Fixa
@@ -1042,13 +752,6 @@ No caso de alteração do prazo médio de repactuação da carteira dos Fundos d
 * Da distribuição de qualquer valor pelo Fundo de Índice de Renda Fixa; ou
 
 * Do resgate de cotas do Fundo de Índice de Renda Fixa.
-
-Logo Rafael Toro Academia de Finanças
-
-41
-
-ANCORD – Assessor de Investimentos
-
 # Fundos de Investimentos
 
 ## Informações Relevantes
@@ -1060,17 +763,6 @@ Como a classificação para a receita federal é diferente da classificação da
 * <u>Fundo Multimercado</u>: depende da constituição da carteira, mas em geral é aberto e tributado como renda fixa de longo prazo.
 
 * <u>IOF</u>: Sua cobrança funciona exatamente igual aos ativos de renda fixa: tabela regressiva, zerando no 30º dia. Importante salientar que os <u>fundos de ações NÃO possuem IOF</u>.
-
-Logo Rafael Toro Academia de Finanças
-
-42
-
-ANCORD – Assessor de Investimentos
-
-262
-
----
-
 # Fundos de Investimentos
 
 ### Informações Relevantes
@@ -1087,10 +779,6 @@ Como a classificação para a receita federal é diferente da classificação da
 
 * ⮚<u>IOF</u>: Sua cobrança funciona exatamente igual aos ativos de renda fixa: tabela regressiva, zerando no 30º dia. Importante salientar que os <u>fundos de ações NÃO possuem IOF</u>.
 
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos 43
-
 # Carteira Administrada
 
 ### Conceito
@@ -1098,9 +786,3 @@ ANCORD – Assessor de Investimentos 43
 A Carteira Administrada <u>É UM SERVIÇO DE GESTÃO</u> de investimentos no qual o investidor contrata um gestor para cuidar especificamente dos seus recursos, desde a estratégia de alocação até o rebalanceamento (compra e venda de cada ativo que compõe a carteira). Desta forma, a tributação é a mesma de uma pessoa física sem este serviço, mantendo todos os benefícios de isenção de IR de produtos de Renda Fixa (LCI, LCA, CRI, CRA...) e do limite de venda de até R$ 20.000,00 por mês em ações. Além disso, a carteira administrada é moldada para as necessidades de cada cliente, sem ter que seguir regras rígidas como as da classificação de fundos.
 
 Portanto, diferentemente de aplicar em fundos de investimentos, na Carteira Administrada <u>o cliente é proprietário dos ativos diretamente</u> e não das cotas, como ocorre nos fundos. Outro ponto importante, é que a Carteira Administrada permite tanto a <u>Gestão Discricionária</u> (gestor toma as decisões sem consultar o cliente), quanto a <u>Não Discricionária</u> (quando há participação do cliente na tomada de decisão), tendo também um maior grau de liberdade para trabalhar derivativos.
-
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Assessor de Investimentos 44
-
-263

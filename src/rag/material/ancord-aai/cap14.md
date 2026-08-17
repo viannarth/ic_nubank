@@ -7,13 +7,6 @@ Quando analisamos investimentos, basicamente consideramos apenas **RISCO** e **R
 O **PRINCÍPIO DA DOMINÂNCIA**, em resumo, diz que quando temos a nossa disposição DOIS investimentos com o **MESMO RISCO**, escolheremos aquele que tem o **MAIOR RETORNO**. Já quando os investimentos disponíveis apresentam o **MESMO RETORNO**, optaremos pelo que apresentam o **MENOR RISCO**.
 
 O conceito de risco aqui poderá ser: <u>liquidez do investimento</u> (prazo nas renda fixa; por exemplo, um CDB com carência de 12 meses, deverá render mais que um CDB com carência de 1 mês, da mesma instituição); o <u>risco de crédito</u> (um devedor ruim, deve pagar mais juros que um bom pagador de dívidas); ou até mesmo a <u>volatilidade</u> do investimento (desvio padrão do ativo), já que é uma métrica de risco total.
-
-Logo Rafael Toro Academia de Finanças
-
-3
-
-ANCORD – Agente Autônomo de Investimentos
-
 # Princípio da Dominância
 
 ## Gráfico
@@ -21,37 +14,19 @@ ANCORD – Agente Autônomo de Investimentos
 Analisando o gráfico abaixo, no qual possui três Ativos (A, B e C), temos a seguinte situação: **Ativo A** e **Ativo B** com mesmo risco (igual a 3); e **Ativo B** e **Ativo C** com o mesmo retorno (igual a 9). O importante de perceber aqui, é que não faz sentido investir no **Ativo A**, tendo a possibilidade de investir no **Ativo B**, pois os dois apresentam o mesmo risco, mas o **Ativo B** apresenta um retorno maior. Desta forma, dizemos que B “preDOMINA” sobre o **ativo A**. Da mesma forma, o **Ativo C** predomina sobre o **Ativo B**, já que os dois possuem o mesmo retorno, mas o **Ativo C** apresente um risco menor.
 
 Gráfico de dispersão mostrando Ativos A, B e C em relação a Risco e Retorno
-
-Logo Rafael Toro Academia de Finanças
-
-4
-
-ANCORD – Agente Autônomo de Investimentos
-
-313
-
----
-
 # Teoria de Finanças Tradicional
 
 ## <u>Introdução</u>
 
 A Teoria de Finanças Tradicional, também conhecida como Teoria Moderna de Portfólio, leva em consideração que os mercados financeiros são eficientes e os investidores tomam decisões racionais (se o investidor tiver que escolher entre 2 portfólios com o mesmo nível de retorno esperado, ele escolherá o portfólio que possui o menor risco). Desta forma, os investidores possuem 3 características:
 
-➢ <u>Aversão ao risco</u>: minimizar risco e maximizar retornos.
+ <u>Aversão ao risco</u>: minimizar risco e maximizar retornos.
 
-➢ <u>Expectativas racionais</u>: as avaliações e projeções do investidor refletem toda a informação relevante disponível. Assim, o investidor sempre analisará o risco x retorno de cada investimento.
+ <u>Expectativas racionais</u>: as avaliações e projeções do investidor refletem toda a informação relevante disponível. Assim, o investidor sempre analisará o risco x retorno de cada investimento.
 
-➢ <u>Integração dos seus investimentos</u>: o investidor avalia os seus investimentos como um todo (contexto da carteira) e não ativo por ativo. Desta forma, o investidor busca pela diversificação da carteira de investimentos (reduzindo o risco não sistêmico).
+ <u>Integração dos seus investimentos</u>: o investidor avalia os seus investimentos como um todo (contexto da carteira) e não ativo por ativo. Desta forma, o investidor busca pela diversificação da carteira de investimentos (reduzindo o risco não sistêmico).
 
 Portanto, a Teoria de Finanças Tradicional de Markowitz, tem como base o postulado da racionalidade, assumindo que os indivíduos processam corretamente as informações quando tomam decisões, sem envolvimento emocional.
-
-Logo Rafael Toro Academia de Finanças
-
-5
-
-ANCORD – Agente Autônomo de Investimentos
-
 # Risco Total
 
 ## <u>Risco Sistêmico e Risco Não Sistêmico</u>
@@ -59,24 +34,13 @@ ANCORD – Agente Autônomo de Investimentos
 No gráfico abaixo, percebemos que quanto mais ativos tivermos na carteira, menos será o risco total da mesma, gerados pelo benefício da “Diversificação”.
 
 Diagrama de Risco Total, Sistêmico e Não Sistêmico
-
-Logo Rafael Toro Academia de Finanças
-
-6
-
-ANCORD – Agente Autônomo de Investimentos
-
-314
-
----
-
 # Risco Total
 
 ## <u>Risco Sistêmico e Risco Não Sistêmico</u>
 
 Podemos destrinchar o risco total de um investimento, dois grandes grupos, que são chamados de:
 
-➢ <u>Risco sistêmico (risco NÃO DIVERSIFICÁVEL)</u>: Ele é o risco gerado pelos sistemas econômico, político e social, no qual impacta a economia como um todo. Suas principais características são:
+ <u>Risco sistêmico (risco NÃO DIVERSIFICÁVEL)</u>: Ele é o risco gerado pelos sistemas econômico, político e social, no qual impacta a economia como um todo. Suas principais características são:
 
 ▪ Medido pelo Beta;
 
@@ -84,20 +48,13 @@ Podemos destrinchar o risco total de um investimento, dois grandes grupos, que s
 
 ▪ Exemplos: impeachment, grandes mudanças na taxa de juros ou câmbio.
 
-➢ <u>Risco não-sistêmico (risco DIVERSIFICÁVEL ou próprio)</u>: Este é o risco individual do ativo ou do seu setor. Suas principais características são:
+ <u>Risco não-sistêmico (risco DIVERSIFICÁVEL ou próprio)</u>: Este é o risco individual do ativo ou do seu setor. Suas principais características são:
 
 ▪ Pode ser diminuído com a elaboração de uma carteira com diversos ativos com Coeficiente de Correlação menores que +1;
 
 ▪ Exemplos: risco de crédito ou de liquidez de uma companhia.
 
-➢ <u>RISCO TOTAL (Risco Sistêmico + Risco Não Sistêmico)</u>: O risco total de uma carteira (ou de um ativo) é medido pelo desvio-padrão. Ele pode ser considerado também como a soma do “Risco Sistêmico” com o “Risco não-sistêmico”.
-
-Logo Rafael Toro
-
-7
-
-ANCORD – Agente Autônomo de Investimentos
-
+ <u>RISCO TOTAL (Risco Sistêmico + Risco Não Sistêmico)</u>: O risco total de uma carteira (ou de um ativo) é medido pelo desvio-padrão. Ele pode ser considerado também como a soma do “Risco Sistêmico” com o “Risco não-sistêmico”.
 # Risco Sistemático
 
 ## <u>Conceito de Beta</u>
@@ -106,26 +63,15 @@ O Beta é <u>uma medida de risco sistêmico</u>, calculando a volatilidade de de
 
 Podemos interpretar o resultado do Beta da seguinte forma:
 
-➢ Beta IGUAL a 1: oscilará com a <u>mesma intensidade</u> que o mercado.
+ Beta IGUAL a 1: oscilará com a <u>mesma intensidade</u> que o mercado.
 
-➢ Beta MAIOR que 1: oscilará com <u>mais intensidade</u> que o mercado.
+ Beta MAIOR que 1: oscilará com <u>mais intensidade</u> que o mercado.
 
-➢ Beta MENOR que 1: oscilará com <u>menos intensidade</u> que o mercado.
+ Beta MENOR que 1: oscilará com <u>menos intensidade</u> que o mercado.
 
 ❑ <u>Fórmula</u>: O Beta do ativo A é o “Risco do ativo A com o Mercado – <u>COV</u>ariância(a,m)” dividido pelo “Risco do Mercado – <u>VAR</u>iância(m)”:
 
 $$ \beta_{(a)} = \frac{COV_{(a,m)}}{VAR_{(m)}} \quad OU \quad \beta_{(i)} = \left( \frac{DP_{(a)}}{DP_{(m)}} \right) \times Coef_{(a,m)} $$
-
-Logo Rafael Toro
-
-ANCORD – Agente Autônomo de Investimentos
-
-8
-
-315
-
----
-
 # Risco de Mercado
 
 ## Conceito
@@ -137,13 +83,6 @@ O **RISCO DE MERCADO**, também conhecido como **RISCO SISTÊMICO**, se caracter
 * <mark>Volatilidade IMPLÍCITA</mark>: Estimada através da variação futura de um ativo adotada pelo mercado financeiro. Ela é obtida por meio de modelos de avaliação de preço do derivativo Opção. Dentre destes modelos, o mais conhecida é o *Black & Scholes*.
 
 Saindo do lado “numérico”, as causas do risco de mercado são geradas principalmente pelas condições macroeconômicas, tais como, taxas de juros, câmbio, commodities; mas também podem ocorrer por questões políticas, como impeachments de um governo.
-
-Logo da Rafael Toro Academia de Finanças
-
-ANCORD – Agente Autônomo de Investimentos
-
-9
-
 # Risco de Taxa de Juros
 
 ## Conceito
@@ -157,17 +96,6 @@ Pode ser definido como o efeito de mudanças na taxa de juros, causando perdas n
 * (2) LTN com vencimento em 20 anos.
 
 Caso o COPOM aumente em 1%a.a. a taxa de juros SELIC (de 10% para 11%), os títulos acima terão impactos diferentes. Como a alteração foi de 1% <mark>POR ANO</mark>, a LTN (1) será impactada negativamente 10 vezes de 1% (pois durante 10 anos, você receberá 10%, enquanto o mercado estará rendendo 11%) e a <mark>LTN (2) terá um impacto de VINTE VEZES</mark>, sendo muito mais prejudicial por causa do seu prazo. Este impacto negativo é visto diretamente na marcação a mercado do ativo.
-
-Logo da Rafael Toro Academia de Finanças
-
-ANCORD – Agente Autônomo de Investimentos
-
-10
-
-316
-
----
-
 # Risco de Taxa de Juros
 
 ## Prazo Médio Ponderado: Conceito
@@ -182,13 +110,6 @@ O Prazo Médio Ponderado é um conceito extremamente importante na carteira de i
 </table>
 
 ❑ RESPOSTA: o prazo médio ponderado da carteira é de 190 dias. Ou seja, é como se a carteira possuísse somente 1 ativo que se encerraria em 190 dias. Mas para que serve?
-
-Logo Rafael Toro
-
-11
-
-ANCORD – Agente Autônomo de Investimentos
-
 # Risco de Taxa de Juros
 
 ## Prazo Médio Ponderado: Riscos Associados
@@ -198,17 +119,6 @@ A sua utilização está interligada com o risco que a carteira possui: quanto m
 A ponderação (peso do ativo) é extremamente importante nesses casos, pois é muito diferente uma carteira que vencerá <mark>R$ 90.000,00 em 200 dias e mais R$ 10 mil em 100 dias</mark>, do que outra que possui <mark>R$ 90 mil em 100 dias mais R$ 10 mil em 200 dias</mark>. O caso em azul, possui um risco muito menor, pois o investidor estará recebendo o seu valor investido muito antes (Prazo Médio da segunda carteira em 110 dias = 90%x100 dias + 10% x 200 dias). Desta forma, há menos chances de acontecer algum imprevisto.
 
 Para a prova, você somente precisa identificar na pergunta quais são os valores do título e os seus devidos prazos e analisar que quanto maior o prazo médio da carteira, maior será o seu risco, gerando assim, uma maior rentabilidade!
-
-Logo Rafael Toro
-
-12
-
-ANCORD – Agente Autônomo de Investimentos
-
-317
-
----
-
 # Risco de Taxa de Juros
 
 ## Duration de Macaulay
@@ -224,7 +134,7 @@ Seu grande problema era que não considerava os efeitos do pagamento dos cupons 
 
 $$ D_{Mac} = \frac{\sum \frac{Fc_t \times t}{(1 + i)^t}}{VP} $$
 
-### ➢ Sendo que:
+###  Sendo que:
 
 ▪ Fc<sub>t</sub> = cada fluxo de caixa
 
@@ -233,11 +143,6 @@ $$ D_{Mac} = \frac{\sum \frac{Fc_t \times t}{(1 + i)^t}}{VP} $$
 ▪ i = YTM (taxa de desconto)
 
 ▪ VP = valor presente do título
-
-Rafael Toro Academia de Finanças
-
-ANCORD – Agente Autônomo de Investimentos 13
-
 # Risco de Taxa de Juros
 
 ## Duration: Exemplo
@@ -256,27 +161,11 @@ Podemos aproximar o valor da Duration através do Cálculo do Prazo Médio, ou s
 </table>
 
 Total = 100.000 Prazo Médio de Recebimento = 90 dias ou seja, a Duration aproximada da carteira é de 90 dias
-
-Rafael Toro Academia de Finanças
-
-ANCORD – Agente Autônomo de Investimentos 14
-
-318
-
----
-
 # Risco de Taxa de Juros
 
 ## <u>Duration: Limitações</u>
 
 A Duration é uma boa aproximação da mudança de preço de um título de renda fixa para pequenas variações na taxa de juros, mas não para grandes variações, pois pressupõe que as <u>taxas de juros de mercado são flat</u> (para qualquer prazo, as taxas de juros serão sempre as mesmas). Porém, como ela é uma <u>estimativa linear</u> de alteração de preço, não possibilita estimativas adequadas por <u>não modelar precisamente a curvatura</u> existente entre a variação porcentual do valor de um título prefixado e a variação percentual da taxa de juros de mercado. Sendo assim, a Convexidade é utilizada como medida correção!
-
-Rafael Toro Academia de Finanças logo
-
-15
-
-ANCORD – Agente Autônomo de Investimentos
-
 # Risco de Taxa de Juros
 
 ## <u>Duration Modificada</u>
@@ -290,17 +179,6 @@ A partir da Duration Modificada, podemos calcular qual o impacto da mudança na 
 $$ VARIAÇÃO DO TÍTULO = -DM \times (variação da taxa de juros) $$
 
 Com isso, podemos agora confirmar o impacto da mudança da taxa de juros no exemplo das LTN de 10anos e 20 anos, no qual houve um aumento de 1% na taxa SELIC.
-
-Rafael Toro Academia de Finanças logo
-
-16
-
-ANCORD – Agente Autônomo de Investimentos
-
-319
-
----
-
 # Risco de Taxa de Juros
 
 ## *Duration* de Carteiras
@@ -311,18 +189,11 @@ $$ Duration_{Carteira} = m_1D_1 + m_2D_2 + ... + m_nD_n $$
 
 ❑ **EXEMPLO:** Uma carteira possui dois títulos, A e B, com valor de mercado de R$ 60.000,00 e R$ 40.000,00, respectivamente. A *duration* de A é 4,0 e a de B é 8,0. Calcule a *duration* da carteira.
 
-➢ m<sub>A</sub> = 60.000 / (40.000 + 60.000) = 60%
+ m<sub>A</sub> = 60.000 / (40.000 + 60.000) = 60%
 
-➢ m<sub>B</sub> = 40.000 / (40.000 + 60.000) = 40%
+ m<sub>B</sub> = 40.000 / (40.000 + 60.000) = 40%
 
-➢ *Duration*<sub>Carteira</sub> = (0,6 x 4,0) + (0,4 x 8,0) = 5,6 anos
-
-Logo Rafael Toro
-
-17
-
-ANCORD – Agente Autônomo de Investimentos
-
+ *Duration*<sub>Carteira</sub> = (0,6 x 4,0) + (0,4 x 8,0) = 5,6 anos
 # Risco de Taxa de Juros
 
 ## *Duration*: Gráfico
@@ -333,41 +204,23 @@ ANCORD – Agente Autônomo de Investimentos
 <tr><td>1.000</td><td>—</td><td>—</td><td>—</td></tr>
 <tr><td>900</td><td>—</td><td>—</td><td>—</td></tr>
 </table>
-
-Logo Rafael Toro
-
-18
-
-ANCORD – Agente Autônomo de Investimentos
-
-320
-
----
-
 # Risco de Taxa de Juros
 
 ## *Duration*: Relações Diretas e Indiretas
 
 A *Duration* de um título **ZERO-CUPOM** (sem pagamentos de juros, como uma LTN) é **IGUAL** ao seu <u>prazo de vencimento</u> e a *Duration* dos títulos pós-fixados é sempre ZERO, ou seja, não falamos de *Duration* em ativos pós-fixados (por exemplo, LFT). Em relação de as variáveis que impactam na *Duration*, temos as seguintes relações com:
 
-* ➢ Prazo do título -------------------------------------> **Direta**
+*  Prazo do título -------------------------------------> **Direta**
 
-* ➢ Taxas de juros -------------------------------------> **Inversa**
+*  Taxas de juros -------------------------------------> **Inversa**
 
-* ➢ TIR (YTM) ------------------------------------------> **Inversa**
+*  TIR (YTM) ------------------------------------------> **Inversa**
 
-* ➢ Tamanho do Cupom -----------------------------------> **Inversa**
+*  Tamanho do Cupom -----------------------------------> **Inversa**
 
-* ➢ Frequência de pagamento de Cupons ------------------> **Inversa**
+*  Frequência de pagamento de Cupons ------------------> **Inversa**
 
 ❑ **CONCLUSÕES**: Quanto menor a *duration* MENOR o risco de taxa de juros. Entre um título <u>COM cupom</u> e outro <u>SEM cupom</u> com mesmo vencimento, o título COM cupom possui <u>Duration MENOR,</u> e o SEM cupom, possui <u>Duration Maior</u>!
-
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Agente Autônomo de Investimentos
-
-19
-
 # Risco de Taxa de Juros
 
 ## Imunização
@@ -376,20 +229,9 @@ Como vimos, o risco de taxa juros é a quantidade de impacto na flutuação da S
 
 Isso ocorre por que se temos uma carteira com retorno fixo de 10% ao ano e a taxa de juros sobe, os cupons recebidos serão reinvestidos a taxa de juro mais elevada porém com desvalorização dos títulos. Já com uma diminuição da taxa de juros, os títulos ganham valor, mas os cupons recebidos serão aplicados em uma taxa mais baixa. Portanto:
 
-* ➢ <u>Aumento da taxa dejuros:</u> é **negativa** para o preço do título, porém positiva para os reinvestimentos;
+*  <u>Aumento da taxa dejuros:</u> é **negativa** para o preço do título, porém positiva para os reinvestimentos;
 
-* ➢ <u>Redução da taxa dejuros:</u> é <u>positiva</u> para o preço do título, porém negativa para os reinvestimentos.
-
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Agente Autônomo de Investimentos
-
-20
-
-321
-
----
-
+*  <u>Redução da taxa dejuros:</u> é <u>positiva</u> para o preço do título, porém negativa para os reinvestimentos.
 # Risco de Liquidez
 
 ## Conceito
@@ -399,13 +241,6 @@ Trata-se da <u>DIFICULDADE DE VENDER</u> um determinado ativo pelo preço e no m
 Um investidor pode criar este risco propriamente, quando ele possui uma fatia (percentual) considerável de um ativo específico. Por exemplo, ter 20% de uma empresa, já que se ele desejar vender sua posição, precisará de muito tempo para conseguir os recursos desejados (ou terá que vender a um preço menor que o ofertado pelo mercado). Por isso, é muito importante um planejamento das necessidades de caixa, para que, caso se necessite recursos, não seja necessária a venda de um ativo por um preço menor do que o de valor de mercado, simplesmente por não haver liquidez.
 
 ❑ <u>EXEMPLOS</u>: investimento em imóveis, ações de pequenas empresas, ativos com carência.
-
-Logo Rafael Toro Academia de Finanças
-
-21
-
-ANCORD – Agente Autônomo de Investimentos
-
 # Risco de Crédito
 
 ## Conceito
@@ -417,17 +252,6 @@ As companhias contratam as agências especializadas para que elas classifiquem o
 As três principais agências de Rating são: S&P, Fitch e Moodys.
 
 <u>IMPORTANTE SALIENTAR QUE, AÇÕES NÃO POSSUEM RISCO DE CRÉDITO.</u>
-
-Logo Rafael Toro Academia de Finanças
-
-22
-
-ANCORD – Agente Autônomo de Investimentos
-
-322
-
----
-
 # Risco de Crédito
 
 ## Ratings
@@ -447,13 +271,6 @@ ANCORD – Agente Autônomo de Investimentos
 </table>
 
 DICA: Quanto mais “As”, melhor é o Rating da empresa
-
-Rafael Toro Academia de Finanças
-
-23
-
-ANCORD – Agente Autônomo de Investimentos
-
 # Risco de Crédito
 
 ## Impactos na Mudança de Rating
@@ -465,17 +282,6 @@ Quando uma empresa tem sua nota de crédito piorada (por exemplo A para BB), os 
 <tr><td>ELEVAÇÃO DO RATING</td><td>RETORNO EXIGIDO DIMINUI</td><td>TAXA EMITIDA MENOR</td><td>PREÇO DO TÍTULO SOBE (AGIO)</td></tr>
 <tr><td>DIMINUIÇÃO DO RATING</td><td>RETORNO EXIGIDO AUMENTA</td><td>TAXA EMITIDA MAIOR</td><td>PREÇO DO TÍTULO CAI (DESÁGIO)</td></tr>
 </table>
-
-Rafael Toro Academia de Finanças
-
-24
-
-ANCORD – Agente Autônomo de Investimentos
-
-323
-
----
-
 # Risco Operacional
 
 ## Conceito
@@ -486,18 +292,11 @@ O erro operacional é muito comum dentro das empresas e para que ele seja menos 
 
 ### ❑ EXEMPLOS:
 
-* ➢ Erros de digitação;
+*  Erros de digitação;
 
-* ➢ Queda de sistemas e/ou conexão de internet;
+*  Queda de sistemas e/ou conexão de internet;
 
-* ➢ Falha na conferencia da documentação de cliente.
-
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Agente Autônomo de Investimentos
-
-25
-
+*  Falha na conferencia da documentação de cliente.
 # Marcação a Mercado como Valor Presente
 
 ## Conceito
@@ -507,35 +306,17 @@ Conforme já vimos no capítulo 7 - Fundos de Investimento, a Marcação a Merca
 Nos investimentos de renda fixa, nós também temos o conceito de Marcação a Mercado. Para ilustrar, imagine que você investiu R$ 100 mil em um ativo que rende 10% ao ano, que irá vencer em 5 anos. Após 1 ano, o ativo será corrigido a uma taxa de 10%, o que resultará em R$ 110.000,00, porém, ainda temos mais 4 anos para o seu vencimento. Por algum motivo, você não deseja mais ter esse investimento. Desta forma, você precisará vender para uma outra pessoa (o investimento é de 5 anos, alguém precisa manter este ativo até ele vencer). Assim sendo, qual o valor que você conseguirá vender? Ou seja, qual o valor que o mercado financeiro está negociando este ativo?
 
 Este valor negociado é o valor atualizado por “Marcação a Mercado” e as principais variáveis que impactam no valor de mercado dos ativos de renda fixa são: <u>(1) mudanças de taxa de juros</u>; <u>(2) prazo médio ponderado</u>; <u>(3) mudança do risco de crédito do emissor</u>.
-
-Logo Rafael Toro Academia de Finanças
-
-ANCORD – Agente Autônomo de Investimentos
-
-26
-
-324
-
----
-
 # Marcação a Mercado como Valor Presente
 
 ## Impactos na precificação dos ativos
 
 Inicialmente parece confuso o do “por quê” um investimento em renda fixa que alguém está devendo R$ 110.000,00, não ser negociado por este valor. Mas o conceito fica muito claro, quando entendemos estes 3 riscos. Vamos lá:
 
-➢ (1) <mark>Mudanças de taxa de juros</mark>: A TLR é de suma importância para os investimentos. Imagine que quando foi feito o investimento por 10%aa, a TLR no Brasil estava em 5%aa (ou seja, o seu ativo rendia 5% a mais que a TLR). Assim, se a TLR mudar para 20%aa, não fará sentido alguém comprar por R$ 110 mil este ativo de você, pois ele receberá somente 10%aa, sendo que haverá aplicações, sem risco, por 20%a.a no mercado financeiro.
+ (1) <mark>Mudanças de taxa de juros</mark>: A TLR é de suma importância para os investimentos. Imagine que quando foi feito o investimento por 10%aa, a TLR no Brasil estava em 5%aa (ou seja, o seu ativo rendia 5% a mais que a TLR). Assim, se a TLR mudar para 20%aa, não fará sentido alguém comprar por R$ 110 mil este ativo de você, pois ele receberá somente 10%aa, sendo que haverá aplicações, sem risco, por 20%a.a no mercado financeiro.
 
-➢ (2) <mark>Prazo médio ponderado</mark>: Quanto mais longo for o investimento, maior o “prejuízo” ou “benefício” causado por esta <mark>Mudanças de taxa de juros</mark>. A grosso modo, caso houvesse uma mudança da TLR de 5%aa para 20%aa, houve uma alteração prejudicial de 15% ao ativo <mark>POR ANO</mark> (você ganhava 5% a mais que a TLR e agora ganhará 10% a menos). Desta forma, quanto maior o prazo médio ponderado, maior o impacto na precificação.
+ (2) <mark>Prazo médio ponderado</mark>: Quanto mais longo for o investimento, maior o “prejuízo” ou “benefício” causado por esta <mark>Mudanças de taxa de juros</mark>. A grosso modo, caso houvesse uma mudança da TLR de 5%aa para 20%aa, houve uma alteração prejudicial de 15% ao ativo <mark>POR ANO</mark> (você ganhava 5% a mais que a TLR e agora ganhará 10% a menos). Desta forma, quanto maior o prazo médio ponderado, maior o impacto na precificação.
 
-➢ (3) <mark>Mudança do risco de crédito do emissor</mark>: se o devedor piorar ou melhorar a sua “credibilidade”, o mercado financeiro também modificará no valor a ser negociado o ativo.
-
-Logo Rafael Toro
-
-ANCORD – Agente Autônomo de Investimentos
-
-27
-
+ (3) <mark>Mudança do risco de crédito do emissor</mark>: se o devedor piorar ou melhorar a sua “credibilidade”, o mercado financeiro também modificará no valor a ser negociado o ativo.
 # Resumo dos Riscos
 
 ## Resumo
@@ -547,17 +328,6 @@ ANCORD – Agente Autônomo de Investimentos
 <tr><td>CRÉDITO</td><td>Ocorre quando o devedor não paga os juros ou a dívida. Quanto maior for o Rating, menor será o risco de crédito do emissor.</td></tr>
 <tr><td>OPERACIONAL</td><td>Falha na execução de alguma tarefa operacional.</td></tr>
 </table>
-
-Logo Rafael Toro
-
-ANCORD – Agente Autônomo de Investimentos
-
-28
-
-325
-
----
-
 Gestão de Riscos
 
 # Gestão de Riscos
@@ -571,43 +341,25 @@ O *VALUE-AT-RISK*, ou simplesmente o *VaR*, é um indicador de risco para mensur
 Por exemplo, um fundo de investimentos informa que possui um VaR de R$ 1 milhão para um (1) dia, com grau de confiança em 95%. Desta forma, compreendemos que este fundo poderá ter uma perda máxima de R$ 1 milhão de um dia para o outro, sendo que o grau de confiança desta informação é de 95%. Porém, como sua confiança é de 95%, quer dizer também que a possibilidade de perder mais que este valor de um dia para o outro é de 5%.
 
 A principal crítica ao este modelo é que o resultado do *VaR* **NÃO consegue capturar os prejuízos em períodos de stress do mercado, ou seja, o verdadeiro prejuízo de uma carteira pode ser muito maior do que o apontado pelo VaR**. Esta medida de risco tem muita validade em períodos normais (cotidianos), já que é um modelo probabilístico, baseado em estatísticas históricas através do risco total do ativo (desvio padrão)
-
-Rafael Toro Academia de Finanças
-
-ANCORD – Agente Autônomo de Investimentos
-
-30
-
-326
-
----
-
 # Value-at-Risk (VaR)
 
 ## Fórmula
 
 O Cálculo do VaR nada mais é que a multiplicação de quatro variáveis, que são:
 
-* ➢ Valor Financeiro da carteira (V₀ )
+*  Valor Financeiro da carteira (V₀ )
 
-* ➢ Intervalo de confiança (a)
+*  Intervalo de confiança (a)
 
-* ➢ Desvio padrão da Carteira (DP = σ)
+*  Desvio padrão da Carteira (DP = σ)
 
-* ➢ Horizonte de Retorno (t)
+*  Horizonte de Retorno (t)
 
 Desta forma, <mark>quanto maior forem estas variáveis, maior será o VaR!</mark>
 
 ❑ **FÓRMULA:**
 
 $$Var = V_0 \times a \times DP \times \sqrt{t}$$
-
-RAFAEL TORO ACADEMIA DE FINANÇAS
-
-ANCORD – Agente Autônomo de Investimentos
-
-31
-
 # Value-at-Risk (VaR)
 
 ## Exemplo
@@ -624,63 +376,34 @@ Desta forma, a carteira terá um prejuízo máximo em um mês de R$ 8.250,00, co
         <th>95%</th>
     </tr>
 </table>
-
-RAFAEL TORO ACADEMIA DE FINANÇAS
-
-ANCORD – Agente Autônomo de Investimentos
-
-32
-
-327
-
----
-
 # Value-at-Risk (VaR)
 
 ## Resumo
 
 Em resumo, a medida de VaR é:
 
-* ➢ Uma medida dada em valor financeiro e quanto maior for a carteira, maior o VaR;
+*  Uma medida dada em valor financeiro e quanto maior for a carteira, maior o VaR;
 
-* ➢ Diretamente proporcional ao horizonte de tempo (o VaR de uma semana será maior do que o de um dia);
+*  Diretamente proporcional ao horizonte de tempo (o VaR de uma semana será maior do que o de um dia);
 
-* ➢ Diretamente proporcional ao intervalo de confiança (um VaR com um intervalo de confiança de 99% será maior que um de 95%);
+*  Diretamente proporcional ao intervalo de confiança (um VaR com um intervalo de confiança de 99% será maior que um de 95%);
 
-* ➢ Sua desvantagem é que o VaR é deficiente em períodos de modificação do padrão de comportamento dos dados, vide que, um modelo probabilístico baseado em estatísticas históricas não será capaz de capturar as dimensões possíveis de movimentos bruscos ainda não observados.;
+*  Sua desvantagem é que o VaR é deficiente em períodos de modificação do padrão de comportamento dos dados, vide que, um modelo probabilístico baseado em estatísticas históricas não será capaz de capturar as dimensões possíveis de movimentos bruscos ainda não observados.;
 
-* ➢ O VaR é um teste UNICAUDAL, portanto, os intervalos de confiança são diferentes da distribuição normal (será fornecido o alfa na questão).
-
-Logo da Rafael Toro Academia de Finanças
-
-33
-
-ANCORD – Agente Autônomo de Investimentos
-
+*  O VaR é um teste UNICAUDAL, portanto, os intervalos de confiança são diferentes da distribuição normal (será fornecido o alfa na questão).
 # Limite de Oscilação
 
 ## Circuit Breaker: Ibovespa
 
 O circuit breaker é um procedimento operacional da B3 que interrompe a negociação de ativos negociados em bolsa. Ele é acionado somente em momentos atípicos de mercado, em momentos de forte queda de preços, baseado na oscilação do Ibovespa. Durante o seu acionamento, não é possível realizar compras ou vendas de ativos na B3. Além disso, ele é feito em três estágios, obedecendo a percentuais de desvalorização do Ibovespa:
 
-* ➢ <u>Estágio I</u>: quando o Ibovespa desvalorizar 10% em relação ao seu valor de fechamento do dia anterior, a negociação é interrompida por trinta minutos;
+*  <u>Estágio I</u>: quando o Ibovespa desvalorizar 10% em relação ao seu valor de fechamento do dia anterior, a negociação é interrompida por trinta minutos;
 
-* ➢ <u>Estágio II</u>: reabertas as negociações, caso a variação do Ibovespa atinja oscilação negativa de 15% em relação ao valor de fechamento do dia anterior, a negociação é novamente interrompida por uma hora;
+*  <u>Estágio II</u>: reabertas as negociações, caso a variação do Ibovespa atinja oscilação negativa de 15% em relação ao valor de fechamento do dia anterior, a negociação é novamente interrompida por uma hora;
 
-* ➢ <u>Estágio III</u>: reabertas as negociações, caso a sua variação atinja oscilação negativa de 20% em relação ao índice de fechamento do dia anterior, a B3 pode suspender as negociações por um período por ela definido, comunicando ao mercado.
+*  <u>Estágio III</u>: reabertas as negociações, caso a sua variação atinja oscilação negativa de 20% em relação ao índice de fechamento do dia anterior, a B3 pode suspender as negociações por um período por ela definido, comunicando ao mercado.
 
 ❑ <u>OBS</u>: Na última meia hora de funcionamento do pregão, as regras acima não serão acionadas. Se a interrupção da negociação ocorrer na última hora da sessão de negociação, o horário de encerramento será prorrogado por, no máximo, 30 minutos para reabertura e negociação ininterrupta dos ativos e dos derivativos.
-
-Logo da Rafael Toro Academia de Finanças
-
-34
-
-ANCORD – Agente Autônomo de Investimentos
-
-328
-
----
-
 # Limite de Oscilação
 
 ## Limite de Oscilação: Derivativos
@@ -688,31 +411,17 @@ ANCORD – Agente Autônomo de Investimentos
 Já nos Derivativos, o mecanismo de proteção é o <u>LIMITE DE OSCILAÇÃO</u>, e não o Circuit Break, que interrompe os negócios. Nesse mecanismo, caso o investidor queira negociar novamente o contrato abaixo (ou acima, conforme a situação) do limite de variação, a operação será admitida normalmente. Esses limites são definidos pela B3 para cada tipo de contrato.
 
 Por exemplo, imagine que o limite de oscilação do contrato futuro de Café Arábico Tipo 4/5 está em 9% e que o preço de fechamento do dia anterior foi de USD 100,00. Com isso, durante o dia de hoje, esse contrato futuro poderá negociar com valor mínimo de USD 91,00 e com valor máximo de USD 109,00.
-
-Rafael Toro Academia de Finanças
-
-ANCORD – Agente Autônomo de Investimentos 35
-
 # Túneis de Negociação
 
 ## Conceito
 
 Segundo a B3, os túneis de negociação são intervalos de preço ou de quantidade definidos por ela para cada ativo ou derivativo, sendo aplicáveis às ofertas e às operações. Trata-se de um mecanismo de mitigação de risco que contribui para diminuir a ocorrência de erros operacionais, evitar a manipulação de preços e proporcionar a adequada e eficiente formação do preço. Os túneis de negociação podem ser classificados como estáticos ou dinâmicos, além eles poderem ser de 3 tipos, que são:
 
-* ➢ <u>TÚNEL DE REJEIÇÃO</u>: impede o registro, no livro central de ofertas, de ofertas de compra com preço superior a determinado valor ou com quantidade superior a determinado parâmetro e de ofertas de venda com preço inferior a determinado valor ou com quantidade superior a determinado parâmetro;
+*  <u>TÚNEL DE REJEIÇÃO</u>: impede o registro, no livro central de ofertas, de ofertas de compra com preço superior a determinado valor ou com quantidade superior a determinado parâmetro e de ofertas de venda com preço inferior a determinado valor ou com quantidade superior a determinado parâmetro;
 
-* ➢ <u>TÚNEL DE LEILÃO</u>: submete automaticamente a leilão comum ofertas de compra e ofertas de venda que infrinjam determinados limites de preço e de quantidade;
+*  <u>TÚNEL DE LEILÃO</u>: submete automaticamente a leilão comum ofertas de compra e ofertas de venda que infrinjam determinados limites de preço e de quantidade;
 
-* ➢ <u>TÚNEL DE PROTEÇÃO DURANTE LEILÃO E CALL</u>: prorroga automaticamente o encerramento do call de abertura, do call de fechamento ou de um leilão comum caso o preço teórico ou quantidade teórica do leilão infrinjam determinados limites.
-
-Rafael Toro Academia de Finanças
-
-ANCORD – Agente Autônomo de Investimentos 36
-
-329
-
----
-
+*  <u>TÚNEL DE PROTEÇÃO DURANTE LEILÃO E CALL</u>: prorroga automaticamente o encerramento do call de abertura, do call de fechamento ou de um leilão comum caso o preço teórico ou quantidade teórica do leilão infrinjam determinados limites.
 # Túneis de Negociação
 
 ## Tipos de Proteção
@@ -724,13 +433,6 @@ Existem três formas de proteções, que são:
 * <u>POR QUANTIDADE:</u> acionado caso um participante de negociação pleno tenha quantidade de lotes na formação do preço teórico do leilão superior ao parâmetro configurado como valor absoluto. Neste túnel, as quantidades das ofertas de compra e de venda de um mesmo participante <u>são analisadas em conjunto</u>. Por exemplo, o parâmetro está definido em 500 contratos e a soma das quantidades do participante na ponta de compra e venda é de 500 contratos ou mais.
 
 * <u>POR CONCENTRAÇÃO:</u> acionado caso determinado percentual sobre a quantidade teórica do leilão obtido por um participante de negociação pleno seja atingido no momento do encerramento do leilão. Neste túnel, as quantidades de ofertas de compra e de venda de um mesmo participante <u>são analisadas isoladamente</u>. Por exemplo, o parâmetro está definido 80% de contratos e o participante na ponta de venda está em 100% das ofertas de venda.
-
-Logo Rafael Toro
-
-ANCORD – Agente Autônomo de Investimentos
-
-37
-
 # Túneis de Negociação
 
 ## Classificação: Estáticos
@@ -749,37 +451,18 @@ Os túneis são classificados como <u>ESTÁTICOS</u>, quando os limites de negoc
 <td>—</td>
     </tr>
 </table>
-
-Logo Rafael Toro
-
-ANCORD – Agente Autônomo de Investimentos
-
-38
-
-330
-
----
-
 # Túneis de Negociação
 
 ## Classificação: Dinâmicos
 
 Os túneis são classificados como **DINÂMICOS**, quando os limites variam durante a sessão de negociação, podendo ser classificados de duas formas, conforme o quadro abaixo:
 
-* ➢ **Síncronos:** sincronizados com o valor de referência do preço de determinado ativo ou derivativo em tempo real, durante a sessão de negociação. O valor de referência do preço é calculado em relação ao (i) último preço atualizado; (ii) preço da última operação; ou (iii) na ausência destes, será calculado em função do preço de fechamento ou do preço de ajuste;
+*  **Síncronos:** sincronizados com o valor de referência do preço de determinado ativo ou derivativo em tempo real, durante a sessão de negociação. O valor de referência do preço é calculado em relação ao (i) último preço atualizado; (ii) preço da última operação; ou (iii) na ausência destes, será calculado em função do preço de fechamento ou do preço de ajuste;
 
-* ➢ **Assíncronos:** não sincronizados com o preço de determinado ativo ou derivativo em tempo real durante a sessão de negociação. O valor de referência é calculado em relação ao preço que tenha origem em metodologia de cálculo ajustada às operações de ativo-objeto diverso do ativo ou derivativo.
+*  **Assíncronos:** não sincronizados com o preço de determinado ativo ou derivativo em tempo real durante a sessão de negociação. O valor de referência é calculado em relação ao preço que tenha origem em metodologia de cálculo ajustada às operações de ativo-objeto diverso do ativo ou derivativo.
 
 <table>
 <tr><th>Tipo</th><th>Túnel Superior</th><th>Negócios</th><th>Túnel Inferior</th></tr>
 <tr><td>Síncronos</td><td>Variável</td><td>Variável</td><td>Variável</td></tr>
 <tr><td>Assíncronos</td><td>Variável</td><td>Variável</td><td>Variável</td></tr>
 </table>
-
-RAFAEL TOR ACADEMIA DE FINANÇAS
-
-39
-
-ANCORD – Agente Autônomo de Investimentos
-
-331

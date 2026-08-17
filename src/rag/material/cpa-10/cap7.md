@@ -1,9 +1,6 @@
-7.1 Tipos de Riscos Apostila 2025 588 588 – Certificação Profissional ANBIMA Série 10
+7.1 Tipos de Riscos – Certificação Profissional ANBIMA Série 10
 
 ## 7.1 Tipos de Riscos
-
-588
-
 ## Principais Riscos do Investidor
 
 ### <u>Tipos de Risco</u>
@@ -19,14 +16,6 @@ Os investimentos possuem diversos tipos de riscos financeiros, sendo seus princi
 * Risco de Mercado Externo
 * Risco País
 
-Logo da Rafael Tor Academia de Finanças
-
-Apostila 2025 CPA-10 – Certificação Profissional ANBIMA Série 10
-
-589
-
----
-
 # Princípio da Dominância
 
 ## <u>Conceito</u>
@@ -36,12 +25,6 @@ Quando analisamos investimentos, basicamente consideramos apenas <mark>RISCO</ma
 O <mark>PRINCÍPIO DA DOMINÂNCIA</mark>, em resumo, diz que quando temos a nossa disposição DOIS investimentos com o <mark>MESMO RISCO</mark>, escolhemos aquele que tem o <mark>MAIOR RETORNO</mark>. Já quando os investimentos disponíveis apresentam o <mark>MESMO RETORNO</mark>, optamos pelo que apresentam o <mark>MENOR RISCO</mark>.
 
 O conceito de risco aqui poderá ser: <u>liquidez do investimento</u> (prazo nas renda fixa; por exemplo, um CDB com carência de 12 meses, deverá render mais que um CDB com carência de 1 mês, da mesma instituição); o <u>risco de crédito</u> (um devedor ruim, deve pagar mais juros que um bom pagador de dívidas); ou até mesmo a <u>volatilidade</u> do investimento (desvio padrão do ativo), já que é uma métrica de risco total.
-
-Logo da Rafael Toro Academia de Finanças
-
-Apostila 2025 CPA-10 – Certificação Profissional ANBIMA Série 10
-
-590
 
 # Princípio da Dominância
 
@@ -54,14 +37,6 @@ Analisando o gráfico abaixo, no qual possui três Ativos (A, B e C), temos a se
 <tr><td>Risco</td><td>3</td><td>3</td><td>1</td></tr>
 <tr><td>Retorno</td><td>6</td><td>9</td><td>9</td></tr>
 </table>
-
-Logo da Rafael Toro Academia de Finanças
-
-Apostila 2025 CPA-10 – Certificação Profissional ANBIMA Série 10
-
-591
-
----
 
 # Teoria de Finanças Tradicional
 
@@ -76,8 +51,6 @@ A Teoria de Finanças Tradicional, também conhecida como Teoria Moderna de Port
 * <mark>Integração dos seus investimentos:</mark> o investidor avalia os seus investimentos como um todo (contexto da carteira) e não ativo por ativo. Desta forma, o investidor busca pela diversificação da carteira de investimentos (reduzindo o risco não sistêmico).
 
 Portanto, a Teoria de Finanças Tradicional de Markowitz, tem como base o postulado da racionalidade, assumindo que os indivíduos processam corretamente as informações quando tomam decisões, sem envolvimento emocional.
-
-Logo da Rafael Toro Academia de Finanças
 
 # Risco Total
 
@@ -95,13 +68,6 @@ No gráfico abaixo, percebemos que quanto mais ativos tivermos na carteira, meno
         <th>Número de Ações na Carteira</th>
     </tr>
 </table>
-
-Logo da Rafael Toro Academia de Finanças
-
-593
-
----
-
 # Risco Total
 
 ## Risco Sistêmico e Risco Não Sistêmico
@@ -124,10 +90,6 @@ Podemos destrinchar o risco total de um investimento, dois grandes grupos, que s
 
 * <u>RISCO TOTAL (Risco Sistêmico + Risco Não Sistêmico)</u>: O risco total de uma carteira (ou de um ativo) é medido pelo desvio-padrão. Ele pode ser considerado também como a soma do “Risco Sistêmico” com o “Risco não-sistêmico”.
 
-Logo da Rafael Toro Academia de Finanças
-
-Apostila 2025 CPA-10 – Certificação Profissional ANBIMA Série 10 594
-
 # Beta
 
 ## Conceito
@@ -146,12 +108,6 @@ Como os eventos sistêmicos (positivos e negativos) atingem o mercado como um to
 
 $$ \beta_{(a)} = \frac{COV_{(a,m)}}{VAR_{(m)}} \quad OU \quad \beta_{(i)} = \left( \frac{DP_{(a)}}{DP_{(m)}} \right) \times Coef_{(a,m)} $$
 
-Logo da Rafael Toro Academia de Finanças
-
-Apostila 2025 CPA-10 – Certificação Profissional ANBIMA Série 10 595
-
----
-
 # Risco de Mercado
 
 ## <u>Conceito</u>
@@ -164,12 +120,6 @@ O <u>RISCO DE MERCADO,</u> também conhecido como <u>RISCO SISTÊMICO,</u> se ca
 
 Saindo do lado “numérico”, as causas do risco de mercado são geradas principalmente pelas condições macroeconômicas, tais como, taxas de juros, câmbio, commodities; mas também podem ocorrer por questões políticas, como impeachments de um governo.
 
-Logo Rafael Toro
-
-Apostila 2025 CPA-10 – Certificação Profissional ANBIMA Série 10
-
-596
-
 # Risco de Taxa de Juros
 
 ## <u>Conceito</u>
@@ -181,14 +131,6 @@ Pode ser definido como o efeito de mudanças na taxa de juros, causando perdas o
 * <u>(2) LTN com vencimento em 20 anos.</u>
 
 Caso o COPOM aumente em 1%a.a. a taxa de juros SELIC (de 10% para 11%), os títulos acima terão impactos diferentes. Como a alteração foi de 1% <u>POR ANO</u>, a <u>LTN (1)</u> será impactada negativamente 10 vezes de 1% (pois durante 10 anos, você receberá 10%, enquanto o mercado estará rendendo 11%) e a <u>LTN (2) terá um impacto de VINTE VEZES,</u> sendo muito mais prejudicial por causa do seu prazo. Este impacto negativo é visto diretamente na marcação a mercado do ativo.
-
-Logo Rafael Toro
-
-Apostila 2025 CPA-10 – Certificação Profissional ANBIMA Série 10
-
-597
-
----
 
 # Risco de Taxa de Juros
 
@@ -205,14 +147,6 @@ O Prazo Médio Ponderado é um conceito extremamente importante na carteira de i
 
 ☐ **RESPOSTA:** o prazo médio ponderado da carteira é de 190 dias. Ou seja, é como se a carteira possuísse somente 1 ativo que se encerraria em 190 dias. Mas para que serve?
 
-Logo da Rafael Toro Academia de Finanças
-
-Apostila 2025
-
-598
-
-CPA-10 – Certificação Profissional ANBIMA Série 10
-
 # Risco de Taxa de Juros
 
 ## <u>Prazo Médio Ponderado: Riscos Associados</u>
@@ -222,16 +156,6 @@ A sua utilização está interligada com o risco que a carteira possui: quanto m
 A ponderação (peso do ativo) é extremamente importante nesses casos, pois é muito diferente uma carteira que vencerá <mark>R$ 90.000,00 em 200 dias e mais R$ 10 mil em 100 dias</mark>, do que outra que possui <mark>R$ 90 mil em 100 dias mais R$ 10 mil em 200 dias</mark>. O caso em azul, possui um risco muito menor, pois o investidor estará recebendo o seu valor investido muito antes (Prazo Médio da segunda carteira em 110 dias = 90%x100 dias + 10% x 200 dias). Desta forma, há menos chances de acontecer algum imprevisto.
 
 Para a prova, você somente precisa identificar na pergunta quais são os valores do título e os seus devidos prazos e analisar que quanto maior o prazo médio da carteira, maior será o seu risco, gerando assim, uma maior rentabilidade!
-
-Logo da Rafael Toro Academia de Finanças
-
-Apostila 2025
-
-599
-
-CPA-10 – Certificação Profissional ANBIMA Série 10
-
----
 
 # Risco de Liquidez
 
@@ -243,12 +167,6 @@ Um investidor pode criar este risco propriamente, quando ele possui uma fatia (p
 
 [ ] <u>EXEMPLOS:</u> investimento em imóveis, ações de pequenas empresas, ativos com carência.
 
-Logo da Rafael Toro Academia de Finanças
-
-Apostila 2025 CPA-10 – Certificação Profissional ANBIMA Série 10
-
-600
-
 # Risco de Crédito
 
 ## <u>Conceito</u>
@@ -258,14 +176,6 @@ Apostila 2025 CPA-10 – Certificação Profissional ANBIMA Série 10
 As companhias contratam as agências especializadas (as três principais agências de Rating são S&P, Fitch e Moody's) para que elas classifiquem o risco de crédito referente aos títulos de dívida que irão lançar no mercado, como por exemplo, debêntures, notas promissórias, securitizações como os CRI e CRA, entre outros tipos de dívidas. O rating (nota que as agências de classificação de risco de crédito atribuem a um emissor de acordo com sua capacidade de pagar uma dívida) depende da probabilidade de calote da empresa que emitiu a dívida, juntamente com as características da dívida emitida.
 
 [ ] <u>OBSERVAÇÃO:</u> AÇÕES NÃO POSSUEM RISCO DE CRÉDITO.
-
-Logo da Rafael Toro Academia de Finanças
-
-Apostila 2025 CPA-10 – Certificação Profissional ANBIMA Série 10
-
-601
-
----
 
 # Risco de Crédito
 
@@ -287,12 +197,6 @@ Apostila 2025 CPA-10 – Certificação Profissional ANBIMA Série 10
 
 DICA: Quanto mais “As”, melhor é o Rating da empresa
 
-Logo
-
-Apostila 2025 CPA-10 – Certificação Profissional ANBIMA Série 10
-
-602
-
 # Risco de Crédito
 
 ## Impactos na Mudança de Rating
@@ -308,14 +212,6 @@ O ponto central é que existem os títulos já emitidos pela empresa negociados 
 
 Icon Icon Icon Icon Icon Icon
 
-Logo
-
-Apostila 2025 CPA-10 – Certificação Profissional ANBIMA Série 10
-
-603
-
----
-
 # Risco País
 
 ### <u>Conceito</u>
@@ -325,12 +221,6 @@ Apostila 2025 CPA-10 – Certificação Profissional ANBIMA Série 10
 Exemplos: Golpes militares, políticas econômicas, resultado de novas eleições entre outros podem trazer este tipo de restrição.
 
 Um índice frequentemente utilizado como medida do risco país é o <u>EMBI+</u> (Emerging Markets Bonds Index), que reflete o comportamento dos títulos da dívida externa daquele país. Desta forma, EMBI Brasil indica a <u>MÉDIA DO VALOR EXCEDENTE DE RENTABILIDADE QUE OS TÍTULOS BRASILEIROS ESTÃO PAGANDO EM RELAÇÃO AOS TÍTULOS DE DÍVIDA DOS EUA</u> (considerado ativo livre de risco).
-
-Rafael Tor Academia de Finanças
-
-Apostila 2025 CPA-10 – Certificação Profissional ANBIMA Série 10
-
-604
 
 # Riscos de Mercado Externo
 
@@ -344,14 +234,6 @@ Risco de Mercado Externo consiste na perda por oscilações nas taxas de câmbio
 
 > <u>Riscos geopolíticos, questões legais, regulatórias e tributárias de um país:</u> as condições operacionais de investimentos em outras economias, tendem a apresentarem impactos, em função de condições específicas do país investido. auferida
 
-Rafael Tor Academia de Finanças
-
-Apostila 2025 CPA-10 – Certificação Profissional ANBIMA Série 10
-
-605
-
----
-
 # Marcação a Mercado como Valor Presente
 
 ## <u>Conceito</u>
@@ -361,12 +243,6 @@ Conforme já vimos no capítulo 5 – Fundos de Investimentos, a Marcação a Me
 Nos investimentos de renda fixa, nós também temos o conceito de Marcação a Mercado. Para ilustrar, imagine que você investiu R$ 100 mil em um ativo que rende 10% ao ano, que irá vencer em 5 anos. Após 1 ano, o ativo será corrigido a uma taxa de 10%, o que resultará em R$ 110.000,00, porém, ainda temos mais 4 anos para o seu vencimento. Por algum motivo, você não deseja mais ter esse investimento. Desta forma, você precisará vender para uma outra pessoa (o investimento é de 5 anos, alguém precisa manter este ativo até ele vencer). Assim sendo, qual o valor que você conseguirá vender? Ou seja, qual o valor que o mercado financeiro está negociando este ativo?
 
 Este valor negociado é o valor atualizado por “Marcação a Mercado” e as principais variáveis que impactam no valor de mercado dos ativos de renda fixa são: <u>(1) mudanças de taxa de juros</u>; <u>(2) prazo médio ponderado</u>; <u>(3) mudança do risco de crédito do emissor</u>.
-
-Logo da Rafael Toro Academia de Finanças
-
-Apostila 2025 CPA-10 – Certificação Profissional ANBIMA Série 10
-
-606
 
 # Marcação a Mercado como Valor Presente
 
@@ -379,14 +255,6 @@ Inicialmente parece confuso o do “por quê” um investimento em renda fixa qu
 > (2) <u>Prazo médio ponderado</u>: Quanto mais longo for o investimento, maior o “prejuízo” ou “benefício” causado por esta <u>Mudanças de taxa de juros</u>. A grosso modo, caso houvesse uma mudança da TLR de 5%aa para 20%aa, houve uma alteração prejudicial de 15% ao ativo <u>POR ANO</u> (você ganhava 5% a mais que a TLR e agora ganhará 10% a menos). Desta forma, quanto maior o prazo médio ponderado, maior o impacto na precificação.
 
 > (3) <u>Mudança do risco de crédito do emissor</u>: se o devedor piorar ou melhorar a sua “credibilidade”, o mercado financeiro também modificará no valor a ser negociado o ativo.
-
-Logo da Rafael Toro Academia de Finanças
-
-Apostila 2025 CPA-10 – Certificação Profissional ANBIMA Série 10
-
-607
-
----
 
 # Títulos com Ágio ou Deságio
 
@@ -415,13 +283,6 @@ Apostila 2025 CPA-10 – Certificação Profissional ANBIMA Série 10
 * O investidor comprando o título no mercado secundário, terá uma taxa de retorno <u>IGUAL</u> a taxa de retorno do cupom do título;
 
 * Principais motivos: nada se alterou na economia ou na empresa.
-
-Logo da Rafael Tor Academia de Finanças
-
-608
-
-Apostila 2025 CPA-10 – Certificação Profissional ANBIMA Série 10
-
 # Resumo dos Riscos
 
 ## Resumo
@@ -436,9 +297,3 @@ Apostila 2025 CPA-10 – Certificação Profissional ANBIMA Série 10
 <tr><td>MERCADO EXTERNO</td><td>Risco causado por fatores externos do país de origem.</td></tr>
 <tr><td>PAÍS</td><td>Risco de um país não honrar com seus compromissos.</td></tr>
 </table>
-
-Logo da Rafael Tor Academia de Finanças
-
-609
-
-Apostila 2025 CPA-10 – Certificação Profissional ANBIMA Série 10
