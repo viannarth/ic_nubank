@@ -1,7 +1,7 @@
 from src.utils.config import EXAMS
 from src.utils.files import create_answers_json
 from src.rag.prompt import generate_prompts
-from src.rag.response_format import generate_response_models
+from src.rag.response_format import Answer, json_from_answer
 import os
 from dotenv import load_dotenv
 from llama_index.core import StorageContext, load_index_from_storage, Settings
@@ -22,9 +22,12 @@ def main() -> None:
 
     # Certify ollama model is running on port 11434
     llm = Ollama(model="llama3.1:latest", request_timeout=120.0)
+    sllm = llm.as_structured_llm(Answer)
 
     storage_context = StorageContext.from_defaults(persist_dir="./src/rag/index/"+exam)
     index = load_index_from_storage(storage_context)
+
+    query_engine = index.as_query_engine(llm=sllm)
 
     test_numbers = EXAMS[exam]["test_numbers"]
     
@@ -34,23 +37,22 @@ def main() -> None:
         has_errors = False
 
         prompts = generate_prompts(exam, test_number)
-        response_models = generate_response_models(exam, test_number)
 
-        for idx, _iter in enumerate(zip(prompts, response_models)):
-            prompt = _iter[0]
-            response_model = _iter[1]
-            sllm = llm.as_structured_llm(response_model)
-            query_engine = index.as_query_engine(llm=sllm)
+        for idx, prompt in enumerate(prompts):
+
+            question_number = idx + 1
 
             try:
                 response = query_engine.query(prompt)
                 response_str = str(response)
-                outputs.append(response_str)
-                print(f"Response of chunk {idx+1} of test {test_number}:\n{response_str}")
+                print(f"Response of question {question_number} of test {test_number}:\n{response_str}")
+
+                json_response = json_from_answer(response_str, question_number)
+                outputs.append(json_response)
 
             except Exception as err:
                 has_errors = True
-                print(f"Could not query the response for the test {test_number} for the chunk {idx+1}. Error: {err}")
+                print(f"Could not query the response for the test {test_number} for the question {question_number}. Error: {err}")
 
                 # If a model could not generate the answers for one chunk of a test,
                 # all the answers for the further chunks will be useless.

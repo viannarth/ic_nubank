@@ -1,31 +1,11 @@
-from src.utils.config import EXAMS, IGNORED_QUESTIONS
-from typing import Type, Literal
-from pydantic import BaseModel, ConfigDict, create_model
+from typing import Literal
+from pydantic import BaseModel, ConfigDict
 
-def generate_response_models(exam: str, test_number: str) -> list[Type[BaseModel]]:
-    questions_per_exam = EXAMS[exam]["questions_per_exam"]
-    chunk_size = EXAMS[exam]["chunk_size"]
+class Answer(BaseModel):
+    model_config = ConfigDict(extra="forbid")
 
-    response_models: list[Type[BaseModel]] = []
+    answer: Literal["a", "b", "c", "d"]
 
-    for first_question_idx in range(0, questions_per_exam, chunk_size):
-        field_definitions = {}
+def json_from_answer(response: str, question_number: int) -> str:
 
-        for j in range(1, chunk_size + 1):
-            # Skip ignored questions
-            if j in IGNORED_QUESTIONS[exam][test_number]:
-                continue
-        
-            question_number = f"{(j + first_question_idx):02d}" 
-
-            field_definitions[question_number] = (Literal["a", "b", "c", "d"])
-
-        model = create_model(
-            "QuestionAnswers",
-            __config__=ConfigDict(extra="forbid"),
-            **field_definitions
-        )
-
-        response_models.append(model)
-
-    return response_models
+    return response.replace("answer", str(question_number))
