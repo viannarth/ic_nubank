@@ -1,6 +1,6 @@
 from pathlib import Path
 
-def generate_prompts(exam: str, test_number: str) -> list[str]:
+def generate_prompts(exam: str, test_number: str) -> dict[str, str]:
 
     base_prompt_path = "./src/rag/base_prompt.txt"
     base_prompt = Path(base_prompt_path).read_text(encoding="utf-8")
@@ -18,12 +18,15 @@ def generate_prompts(exam: str, test_number: str) -> list[str]:
     exam_placeholder = exam_names[exam]
     base_prompt = base_prompt.replace("{EXAM}", exam_placeholder)
 
-    prompts:list[str] = []
+    prompts:dict[str, str] = {}
 
-    for question_number in range(1, len(question_lines)):
-        question = question_lines[question_number]
+    for idx in range(1, len(question_lines)):
+        question = question_lines[idx]
+
+        question_number = question[1:3]
 
         prompt = "\n".join([base_prompt, header, question])
-        prompts.append(prompt)
+
+        prompts[question_number] = prompt
 
     return prompts

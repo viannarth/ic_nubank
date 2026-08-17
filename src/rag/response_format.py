@@ -6,6 +6,6 @@ class Answer(BaseModel):
 
     answer: Literal["a", "b", "c", "d"]
 
-def json_from_answer(response: str, question_number: int) -> str:
+def json_from_answer(response: str, question_number: str) -> str:
 
-    return response.replace("answer", str(question_number))
+    return response.replace("answer", question_number)

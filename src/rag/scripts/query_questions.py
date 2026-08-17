@@ -14,8 +14,8 @@ def main() -> None:
     load_dotenv(dotenv_path="./config.env")
 
     # Toogle the exam
-    # exam = "ancord-aai"
-    exam = "cpa-10"
+    exam = "ancord-aai"
+    # exam = "cpa-10"
 
     # Same model used to index the documents
     Settings.embed_model = HuggingFaceEmbedding(model_name="BAAI/bge-m3")
@@ -38,9 +38,7 @@ def main() -> None:
 
         prompts = generate_prompts(exam, test_number)
 
-        for idx, prompt in enumerate(prompts):
-
-            question_number = idx + 1
+        for question_number, prompt in prompts.items():
 
             try:
                 response = query_engine.query(prompt)
@@ -69,6 +67,7 @@ def main() -> None:
         
             file_path = folder_path + "/test_" + test_number + "_answers.json"
             create_answers_json(outputs, file_path)
+
         except Exception as json_err:
             print(f"The JSON answers for test {test_number} could not be wrote. Error: {json_err}")
 
